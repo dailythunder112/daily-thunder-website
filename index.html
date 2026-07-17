@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Daily Thunder — War Thunder streamy, Shorts, ASMR, komunitné momenty a novinky." data-i18n-meta-description>
+  <meta name="theme-color" content="#080808">
+  <meta property="og:title" content="Daily Thunder">
+  <meta property="og:description" content="War Thunder Shorts, ASMR a komunita.">
+  <meta property="og:image" content="assets/daily-thunder-hero.jpg">
+  <title>Daily Thunder — War Thunder streamy, Shorts & ASMR</title>
+  <link rel="icon" href="assets/favicon.png" type="image/png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="translations.js" defer></script>
+  <script src="data/war-thunder-news.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#obsah" data-i18n="common.skip">Preskočiť na obsah</a>
+
+  <header class="site-header" data-header>
+    <a class="brand" href="#top" aria-label="Daily Thunder — domov" data-i18n-aria="nav.homeAria">
+      <img src="assets/daily-thunder-logo.png" width="44" height="44" alt="">
+      <span>DAILY THUNDER</span>
+    </a>
+
+    <nav id="main-nav" class="main-nav" aria-label="Hlavná navigácia" data-nav>
+      <a href="#kanal" data-i18n="nav.channel">Kanál</a>
+      <a href="#novinky" data-i18n="nav.news">Novinky</a>
+      <a href="#komunita" data-i18n="nav.community">Komunita</a>
+      <a class="nav-cta" href="https://www.youtube.com/@Dailythunder112" target="_blank" rel="noopener noreferrer" data-i18n="nav.youtube">YouTube</a>
+    </nav>
+
+    <div class="header-actions">
+      <label class="sr-only" for="language-home" data-i18n="nav.language">Jazyk</label>
+      <select id="language-home" class="language-select" data-language-select data-i18n-aria="nav.language" aria-label="Jazyk">
+        <option value="sk">SK</option>
+        <option value="cs">CZ</option>
+        <option value="en">EN</option>
+      </select>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav" data-menu-toggle>
+        <span></span><span></span>
+        <span class="sr-only" data-i18n="nav.openMenu">Otvoriť menu</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="obsah">
+    <section id="top" class="hero" aria-labelledby="hero-title">
+      <div class="hero-media" aria-hidden="true"></div>
+      <div class="hero-shade" aria-hidden="true"></div>
+      <div class="hero-glow glow-one" aria-hidden="true"></div>
+      <div class="hero-glow glow-two" aria-hidden="true"></div>
+
+      <div class="hero-content">
+        <p class="eyebrow reveal" data-i18n="hero.eyebrow">WAR THUNDER • STREAMY • SHORTS • ASMR</p>
+        <h1 id="hero-title" class="reveal" data-i18n-html="hero.title">Boj naživo.<br><span>Akcia v skratke.</span></h1>
+        <p class="hero-copy reveal" data-i18n="hero.copy">Streamy, krátke zostrihy a atmosférický War Thunder obsah zo vzduchu aj zo zeme.</p>
+        <div class="hero-actions reveal">
+          <a class="button button-primary" href="https://www.youtube.com/@Dailythunder112" target="_blank" rel="noopener noreferrer"><span data-i18n="hero.videos">Pozrieť videá</span> <span aria-hidden="true">↗</span></a>
+          <a class="button button-ghost" href="https://www.twitch.tv/dailythunder" target="_blank" rel="noopener noreferrer" data-i18n="hero.stream">Sledovať stream</a>
+        </div>
+      </div>
+
+      <div class="scroll-cue" aria-hidden="true"><span></span><b data-i18n="hero.more">Objav viac</b></div>
+    </section>
+
+    <section id="kanal" class="section intro-section">
+      <div class="section-kicker reveal" data-i18n="about.kicker">01 / O KANÁLI</div>
+      <div class="intro-grid">
+        <div class="section-heading reveal">
+          <h2 data-i18n-html="about.title">War Thunder.<br><span>Naplno.</span></h2>
+        </div>
+        <div class="intro-copy reveal">
+          <p data-i18n="about.p1">Daily Thunder prináša živé vysielania aj výber toho najlepšieho zo súbojov — čisté zásahy, napäté situácie a stroje v plnej sile.</p>
+          <p data-i18n="about.p2">Obsah spája streamy, krátky formát, atmosférický ASMR zvuk a komunitu hráčov, ktorí si všímajú každý detail.</p>
+        </div>
+      </div>
+
+      <div class="feature-strip reveal">
+        <article><strong>STREAMS</strong><span data-i18n="about.streams">Bitky, reakcie a komunita naživo</span></article>
+        <article><strong>SHORTS</strong><span data-i18n="about.shorts">Rýchle bojové zostrihy</span></article>
+        <article><strong>ASMR</strong><span data-i18n="about.asmr">Motory, výstrely a dopady</span></article>
+        <article><strong>COMMUNITY</strong><span data-i18n="about.community">Diskusie, tipy a klipy</span></article>
+      </div>
+    </section>
+
+    <section id="novinky" class="section news-section">
+      <div class="section-top reveal">
+        <div>
+          <div class="section-kicker" data-i18n="news.kicker">02 / RADAR</div>
+          <h2 data-i18n="news.title">Najnovšie z bojiska</h2>
+        </div>
+        <a class="text-link" href="https://warthunder.com/en/news" target="_blank" rel="noopener noreferrer"><span data-i18n="news.all">Všetky oficiálne novinky</span> <span aria-hidden="true">↗</span></a>
+      </div>
+
+      <div class="news-grid" data-news-grid>
+        <a class="news-card reveal" href="https://warthunder.com/en/news/10134-shop-summer-deals-are-here-on-playstation-en" target="_blank" rel="noopener noreferrer">
+          <span class="news-meta"><time datetime="2026-07-15">15. 7. 2026</time><b>SHOP</b></span>
+          <h3>Letné ponuky dorazili na PlayStation</h3>
+          <p>Zľavy až do 50 % na vybrané prémiové balíčky sú dostupné do 29. júla.</p>
+          <span class="card-link">Čítať na WarThunder.com <span aria-hidden="true">↗</span></span>
+        </a>
+
+        <a class="news-card reveal" href="https://warthunder.com/en/news/10133-esports-the-wtcs-challenger-league-major-ii-winner-is-team-warning-en" target="_blank" rel="noopener noreferrer">
+          <span class="news-meta"><time datetime="2026-07-15">15. 7. 2026</time><b>ESPORTS</b></span>
+          <h3>Team Warning víťazom Major II</h3>
+          <p>Druhý Major Challenger League ovládol Team Warning a upevnil si vedenie v poradí.</p>
+          <span class="card-link">Čítať na WarThunder.com <span aria-hidden="true">↗</span></span>
+        </a>
+
+        <a class="news-card reveal" href="https://warthunder.com/en/news/10128-development-infantry-in-war-thunder-third-testing-phase-en" target="_blank" rel="noopener noreferrer">
+          <span class="news-meta"><time datetime="2026-07-08">8. 7. 2026</time><b>VÝVOJ</b></span>
+          <h3>Infantry: tretia fáza testovania</h3>
+          <p>Nová mapa Kivu, rozsiahle 64 proti 64 bitky a desiatky herných vylepšení.</p>
+          <span class="card-link">Čítať na WarThunder.com <span aria-hidden="true">↗</span></span>
+        </a>
+      </div>
+
+      <p class="source-note reveal"><span data-i18n="news.updatedPrefix">Radar bol aktualizovaný</span> <span data-news-updated>17. 7. 2026</span>. <span data-i18n="news.sourceSuffix">Zdrojom je oficiálny web War Thunder; názvy a anotácie článkov zostávajú v pôvodnej angličtine.</span></p>
+    </section>
+
+    <section class="section channel-news-section">
+      <div class="section-top reveal">
+        <div>
+          <div class="section-kicker" data-i18n="channel.kicker">03 / DAILY THUNDER</div>
+          <h2 data-i18n="channel.title">Čo sa deje na kanáli</h2>
+        </div>
+      </div>
+
+      <div class="timeline">
+        <article class="timeline-item reveal">
+          <span data-i18n="channel.now">TERAZ</span>
+          <div><h3 data-i18n="channel.homeTitle">Nový domov Daily Thunder</h3><p data-i18n="channel.homeCopy">Vzniká jedno miesto pre streamy, videá, komunitu, War Thunder radar a všetky dôležité odkazy.</p></div>
+        </article>
+        <article class="timeline-item reveal">
+          <span data-i18n="channel.development">VO VÝVOJI</span>
+          <div><h3 data-i18n="channel.publishTitle">Rýchlejšie publikovanie</h3><p data-i18n="channel.publishCopy">Pripravuje sa automatizované publikovanie nových videí na YouTube a TikTok.</p></div>
+        </article>
+        <article class="timeline-item reveal">
+          <span data-i18n="channel.regular">PRAVIDELNE</span>
+          <div><h3 data-i18n="channel.contentTitle">Streamy, Shorts a ASMR</h3><p data-i18n="channel.contentCopy">Živé hranie, nové zostrihy zo vzduchu aj zo zeme a zvukové detaily strojov v akcii.</p></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="komunita" class="section community-section">
+      <div class="community-panel reveal">
+        <img src="assets/daily-thunder-logo.png" width="220" height="220" alt="Daily Thunder logo" loading="lazy">
+        <div>
+          <div class="section-kicker" data-i18n="community.kicker">04 / KOMUNITA</div>
+          <h2 data-i18n="community.title">Vyber si svoje bojisko.</h2>
+          <p data-i18n="community.copy">Sleduj nové videá, príď na stream alebo sa pridaj k diskusii na Discorde.</p>
+          <div class="social-grid">
+            <a href="https://www.youtube.com/@Dailythunder112" target="_blank" rel="noopener noreferrer"><b>YT</b><span><strong>YouTube</strong><small>@Dailythunder112</small></span><i>↗</i></a>
+            <a href="https://www.tiktok.com/@dailythunderwt" target="_blank" rel="noopener noreferrer"><b>TT</b><span><strong>TikTok</strong><small>@dailythunderwt</small></span><i>↗</i></a>
+            <a href="https://www.twitch.tv/dailythunder" target="_blank" rel="noopener noreferrer"><b>TW</b><span><strong>Twitch</strong><small>dailythunder</small></span><i>↗</i></a>
+            <a href="https://discord.gg/6r7Q4c6rHc" target="_blank" rel="noopener noreferrer"><b>DC</b><span><strong>Discord</strong><small data-i18n="community.discord">Daily Thunder komunita</small></span><i>↗</i></a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-brand">
+      <img src="assets/favicon.png" width="38" height="38" alt="">
+      <div><strong>DAILY THUNDER</strong><span data-i18n="footer.tagline">War Thunder streamy, Shorts &amp; ASMR</span></div>
+    </div>
+    <div class="footer-links">
+      <a href="privacy.html" data-i18n="nav.privacy">Ochrana súkromia</a>
+      <a href="terms.html" data-i18n="nav.terms">Podmienky používania</a>
+    </div>
+    <p data-i18n="footer.disclaimer">Nezávislý fanúšikovský kanál. Nie je prepojený so spoločnosťou Gaijin Entertainment. War Thunder a súvisiace značky patria ich vlastníkom.</p>
+    <p>© <span data-year>2026</span> Daily Thunder</p>
+  </footer>
+</body>
+</html>
