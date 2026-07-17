@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T18:06:23+02:00",
-  "updated_display": "17. 7. 2026 o 18:06",
+  "updated_at": "2026-07-17T18:51:25+02:00",
+  "updated_display": "17. 7. 2026 o 18:51",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -9,6 +9,7 @@
       "date": "2026-07-17",
       "date_display": "17. 7. 2026",
       "category": "VÝVOJ",
+      "category_key": "development",
       "url": "https://warthunder.com/en/news/10136-development-work-in-progress-ca-27-en",
       "kind": "news"
     },
@@ -18,6 +19,7 @@
       "date": "2026-07-17",
       "date_display": "17. 7. 2026",
       "category": "EVENT",
+      "category_key": "event",
       "url": "https://warthunder.com/en/news/10135-event-get-the-scimitar-mk2-in-the-scimitar-strike-event-en",
       "kind": "news"
     },
@@ -27,6 +29,7 @@
       "date": "2026-07-16",
       "date_display": "16. 7. 2026",
       "category": "UPDATE",
+      "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1874",
       "kind": "update"
     },
@@ -36,6 +39,7 @@
       "date": "2026-07-15",
       "date_display": "15. 7. 2026",
       "category": "ESPORTS",
+      "category_key": "esports",
       "url": "https://warthunder.com/en/news/10133-esports-the-wtcs-challenger-league-major-ii-winner-is-team-warning-en",
       "kind": "news"
     },
@@ -45,6 +49,7 @@
       "date": "2026-07-15",
       "date_display": "15. 7. 2026",
       "category": "SHOP",
+      "category_key": "shop",
       "url": "https://warthunder.com/en/news/10134-shop-summer-deals-are-here-on-playstation-en",
       "kind": "news"
     },
@@ -54,6 +59,7 @@
       "date": "2026-07-14",
       "date_display": "14. 7. 2026",
       "category": "SHOP",
+      "category_key": "shop",
       "url": "https://warthunder.com/en/news/10132-shop-special-a-decal-and-discount-on-the-vautour-iin-for-bastille-day-en",
       "kind": "news"
     }

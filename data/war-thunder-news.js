@@ -1,6 +1,6 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-07-17T18:06:23+02:00",
-  "updated_display": "17. 7. 2026 o 18:06",
+  "updated_at": "2026-07-17T18:51:25+02:00",
+  "updated_display": "17. 7. 2026 o 18:51",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
