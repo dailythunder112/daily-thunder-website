@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-07-17T18:51:25+02:00",
-  "updated_display": "17. 7. 2026 o 18:51",
+  "updated_at": "2026-07-20T19:11:28+02:00",
+  "updated_display": "20. 7. 2026 o 19:11",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!",
+      "summary": "Crews often have to operate in the field. When there’s no fully equipped hangar with tools and specialists nearby, resourcefulness and ingenuity come into play! We’re dedicating Battle Pass Season 24 to the…",
+      "date": "2026-07-20",
+      "date_display": "20. 7. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10137-warbonds-event-battle-pass-season-24-do-it-yourself-and-its-warbond-shop-en",
+      "kind": "news"
+    },
     {
       "title": "Work-In-Progress: CA-27",
       "summary": "Check out this sneak peek of the Australian CA-27 jet fighter, which really is the Sabre at its best!",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10134-shop-summer-deals-are-here-on-playstation-en",
-      "kind": "news"
-    },
-    {
-      "title": "Decals and a Discount on the Vautour IIN for Bastille Day!",
-      "summary": "On July 14th 1789, the Bastille fortress-prison fell, becoming a pivotal event of the French Revolution. More than 90 years later, this date began to be celebrated as a national holiday. In the 20th century,…",
-      "date": "2026-07-14",
-      "date_display": "14. 7. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10132-shop-special-a-decal-and-discount-on-the-vautour-iin-for-bastille-day-en",
       "kind": "news"
     }
   ]
