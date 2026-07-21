@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-07-20T19:11:28+02:00",
-  "updated_display": "20. 7. 2026 o 19:11",
+  "updated_at": "2026-07-21T19:01:25+02:00",
+  "updated_display": "21. 7. 2026 o 19:01",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.57.1.33",
+      "summary": "A bug that made it impossible to bind actions on the keyboard arrow keys has been fixed.",
+      "date": "2026-07-21",
+      "date_display": "21. 7. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1875",
+      "kind": "update"
+    },
     {
       "title": "Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!",
       "summary": "Crews often have to operate in the field. When there’s no fully equipped hangar with tools and specialists nearby, resourcefulness and ingenuity come into play! We’re dedicating Battle Pass Season 24 to the…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10133-esports-the-wtcs-challenger-league-major-ii-winner-is-team-warning-en",
-      "kind": "news"
-    },
-    {
-      "title": "Summer Deals Are Here on PlayStation!",
-      "summary": "Summer is heating up, and so are the discounts! We’re excited to announce the War Thunder Summer Sale is now live for all PlayStation players.",
-      "date": "2026-07-15",
-      "date_display": "15. 7. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10134-shop-summer-deals-are-here-on-playstation-en",
       "kind": "news"
     }
   ]
