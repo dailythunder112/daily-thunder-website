@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-07-22T19:02:06+02:00",
-  "updated_display": "22. 7. 2026 o 19:02",
+  "updated_at": "2026-07-23T19:05:35+02:00",
+  "updated_display": "23. 7. 2026 o 19:05",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Scimitar Strike: Scimitar Mk.2",
+      "summary": "Meet the agile Scimitar Mk.2 reconnaissance vehicle, equipped with add-on armor. This new model is the vehicle reward in the Scimitar Strike event that started yesterday!",
+      "date": "2026-07-23",
+      "date_display": "23. 7. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10140-development-scimitar-strike-scimitar-mk2-en",
+      "kind": "news"
+    },
+    {
+      "title": "Try the Korean War “Black Thursday” Event!",
+      "summary": "The confrontation between North and South Korea that began in 1950 quickly escalated into a large-scale conflict, with the USSR and China supporting one side, and the USA, Great Britain, and several other…",
+      "date": "2026-07-23",
+      "date_display": "23. 7. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10141-event-try-the-korean-war-black-thursday-event-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.43",
+      "summary": "Scimitar Mk.2 — Battle Rating in all game modes has been adjusted from 8.0 to 8.3.",
+      "date": "2026-07-23",
+      "date_display": "23. 7. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1877",
+      "kind": "update"
+    },
     {
       "title": "New Run of Nuclear Escalation!",
       "summary": "We're excited to present a new iteration of the Nuclear Escalation mode!",
@@ -32,36 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1876",
       "kind": "update"
-    },
-    {
-      "title": "Update 2.57.1.33",
-      "summary": "A bug that made it impossible to bind actions on the keyboard arrow keys has been fixed.",
-      "date": "2026-07-21",
-      "date_display": "21. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1875",
-      "kind": "update"
-    },
-    {
-      "title": "Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!",
-      "summary": "Crews often have to operate in the field. When there’s no fully equipped hangar with tools and specialists nearby, resourcefulness and ingenuity come into play! We’re dedicating Battle Pass Season 24 to the…",
-      "date": "2026-07-20",
-      "date_display": "20. 7. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10137-warbonds-event-battle-pass-season-24-do-it-yourself-and-its-warbond-shop-en",
-      "kind": "news"
-    },
-    {
-      "title": "Work-In-Progress: CA-27",
-      "summary": "Check out this sneak peek of the Australian CA-27 jet fighter, which really is the Sabre at its best!",
-      "date": "2026-07-17",
-      "date_display": "17. 7. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10136-development-work-in-progress-ca-27-en",
-      "kind": "news"
     }
   ]
 }
