@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-07-28T12:13:11+02:00",
-  "updated_display": "28. 7. 2026 o 12:13",
+  "updated_at": "2026-07-29T12:16:40+02:00",
+  "updated_display": "29. 7. 2026 o 12:16",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "It’s fixed! №116",
+      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
+      "date": "2026-07-29",
+      "date_display": "29. 7. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10145-fixed-its-fixed-no116-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.52",
+      "summary": "A bug that sometimes caused destroyed objects to appear intact for players who joined the battle in-progress has been fixed.",
+      "date": "2026-07-29",
+      "date_display": "29. 7. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1880",
+      "kind": "update"
+    },
     {
       "title": "Update 2.57.1.50",
       "summary": "A bug in the hit analysis menu that sometimes caused armor elements the shell hit to not be highlighted has been fixed.",
@@ -42,26 +62,6 @@
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10140-development-scimitar-strike-scimitar-mk2-en",
       "kind": "news"
-    },
-    {
-      "title": "Try the Korean War “Black Thursday” Event!",
-      "summary": "The confrontation between North and South Korea that began in 1950 quickly escalated into a large-scale conflict, with the USSR and China supporting one side, and the USA, Great Britain, and several other…",
-      "date": "2026-07-23",
-      "date_display": "23. 7. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10141-event-try-the-korean-war-black-thursday-event-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.43",
-      "summary": "Scimitar Mk.2 — Battle Rating in all game modes has been adjusted from 8.0 to 8.3.",
-      "date": "2026-07-23",
-      "date_display": "23. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1877",
-      "kind": "update"
     }
   ]
 }
