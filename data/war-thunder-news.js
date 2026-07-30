@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-07-29T12:16:40+02:00",
-  "updated_display": "29. 7. 2026 o 12:16",
+  "updated_at": "2026-07-30T11:43:41+02:00",
+  "updated_display": "30. 7. 2026 o 11:43",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Decal and Discounts on the ZTZ96B and Type 69-IIa for PLA Day!",
+      "summary": "The modern Chinese army traces its history back to August 1st 1927. With the proclamation of the People’s Republic of China in 1949, the People’s Liberation Army (PLA) became the nation’s official military…",
+      "date": "2026-07-30",
+      "date_display": "30. 7. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10143-shop-special-a-decal-trophy-and-discount-on-the-type-69-iia-for-pla-day-en",
+      "kind": "news"
+    },
     {
       "title": "It’s fixed! №116",
       "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1878",
       "kind": "update"
-    },
-    {
-      "title": "Scimitar Strike: Scimitar Mk.2",
-      "summary": "Meet the agile Scimitar Mk.2 reconnaissance vehicle, equipped with add-on armor. This new model is the vehicle reward in the Scimitar Strike event that started yesterday!",
-      "date": "2026-07-23",
-      "date_display": "23. 7. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10140-development-scimitar-strike-scimitar-mk2-en",
-      "kind": "news"
     }
   ]
 };
