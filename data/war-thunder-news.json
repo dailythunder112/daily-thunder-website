@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-07-30T11:43:41+02:00",
-  "updated_display": "30. 7. 2026 o 11:43",
+  "updated_at": "2026-07-30T19:11:04+02:00",
+  "updated_display": "30. 7. 2026 o 19:11",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Discount for the P-16 to Mark the Swiss Air Force’s Founding Day!",
+      "summary": "The history of the Swiss Air Force began on July 31st 1914, with the First World War. Switzerland remained neutral throughout all of its neighbors’ conflicts. During the Second World War, its aircraft…",
+      "date": "2026-07-30",
+      "date_display": "30. 7. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10144-shop-a-discount-for-the-p-16-to-mark-the-swiss-air-forces-founding-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "Unplanned Technical Maintenance",
+      "summary": "The game may not be available at the moment as we are experiencing some technical issues on our servers. We are endeavouring to fix these issues as quickly as possible.",
+      "date": "2026-07-30",
+      "date_display": "30. 7. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10148-unplanned-technical-maintenance-en",
+      "kind": "news"
+    },
     {
       "title": "A Decal and Discounts on the ZTZ96B and Type 69-IIa for PLA Day!",
       "summary": "The modern Chinese army traces its history back to August 1st 1927. With the proclamation of the People’s Republic of China in 1949, the People’s Liberation Army (PLA) became the nation’s official military…",
@@ -12,6 +32,16 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10143-shop-special-a-decal-trophy-and-discount-on-the-type-69-iia-for-pla-day-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.58",
+      "summary": "BO 105 PAH-1A1 — a bug that caused deployed countermeasures to appear from the other side of the helicopter when only one countermeasure pod was installed has been fixed.",
+      "date": "2026-07-30",
+      "date_display": "30. 7. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1881",
+      "kind": "update"
     },
     {
       "title": "It’s fixed! №116",
@@ -31,36 +61,6 @@
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1880",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.57.1.50",
-      "summary": "A bug in the hit analysis menu that sometimes caused armor elements the shell hit to not be highlighted has been fixed.",
-      "date": "2026-07-28",
-      "date_display": "28. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1879",
-      "kind": "update"
-    },
-    {
-      "title": "Work-In-Progress: The M7 Tank",
-      "summary": "Today we’re very pleased to share a new work in progress vehicle with you, currently being crafted by War Thunder artists. This is the American M7 medium tank, a project developed right alongside the Sherman.",
-      "date": "2026-07-24",
-      "date_display": "24. 7. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10142-development-work-in-progress-the-m7-tank-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.48",
-      "summary": "The minimal radar indicator (without a full set of the radar control buttons around it) now has two more buttons: to switch between the radar and IRST and to switch to ESM mode.",
-      "date": "2026-07-24",
-      "date_display": "24. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1878",
       "kind": "update"
     }
   ]
