@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-07-31T12:10:51+02:00",
-  "updated_display": "31. 7. 2026 o 12:10",
+  "updated_at": "2026-07-31T19:17:42+02:00",
+  "updated_display": "31. 7. 2026 o 19:17",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "How Was the Year in War Thunder: Rate the New Additions",
+      "summary": "Hello, tankers, pilots and captains! The past year in War Thunder has been packed: six major updates, hundreds of new ground vehicles, aircraft and ships, reworked maps, and significant updates to gameplay…",
+      "date": "2026-07-31",
+      "date_display": "31. 7. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10152-how-was-the-year-in-war-thunder-rate-the-new-additions-en",
+      "kind": "news"
+    },
+    {
+      "title": "The Advance mode is back with higher Battle Ratings!",
+      "summary": "We’d like to thank everyone for their feedback and participation in the previous Advance mode test, the feedback was overall positive, you wanted more, and we’re happy to oblige! This time we’re back with a…",
+      "date": "2026-07-31",
+      "date_display": "31. 7. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10150-event-the-advance-mode-is-back-with-higher-battle-ratings-en",
+      "kind": "news"
+    },
     {
       "title": "The German Su-22M4 Returns at a Discount for the First Flight of the Su-17!",
       "summary": "On August 2nd 1966, test pilot Vladimir Ilyushin made the first flight of the Su-17 fighter-bomber prototype. This was the USSR’s first aircraft with variable-sweep wings. In total, more than 2,800 units were…",
@@ -12,6 +32,16 @@ window.DT_NEWS_DATA = {
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10146-shop-the-german-su-22m4-returns-at-a-discount-for-the-first-flight-of-the-su-17-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.60",
+      "summary": "The stability of the game with sound mods enabled has been improved.",
+      "date": "2026-07-31",
+      "date_display": "31. 7. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1882",
+      "kind": "update"
     },
     {
       "title": "A Discount for the P-16 to Mark the Swiss Air Force’s Founding Day!",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "NOVINKA",
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10148-unplanned-technical-maintenance-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Decal and Discounts on the ZTZ96B and Type 69-IIa for PLA Day!",
-      "summary": "The modern Chinese army traces its history back to August 1st 1927. With the proclamation of the People’s Republic of China in 1949, the People’s Liberation Army (PLA) became the nation’s official military…",
-      "date": "2026-07-30",
-      "date_display": "30. 7. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10143-shop-special-a-decal-trophy-and-discount-on-the-type-69-iia-for-pla-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.58",
-      "summary": "BO 105 PAH-1A1 — a bug that caused deployed countermeasures to appear from the other side of the helicopter when only one countermeasure pod was installed has been fixed.",
-      "date": "2026-07-30",
-      "date_display": "30. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1881",
-      "kind": "update"
-    },
-    {
-      "title": "It’s fixed! №116",
-      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
-      "date": "2026-07-29",
-      "date_display": "29. 7. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10145-fixed-its-fixed-no116-en",
       "kind": "news"
     }
   ]
