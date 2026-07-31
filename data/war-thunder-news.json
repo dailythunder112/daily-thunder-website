@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-07-30T19:11:04+02:00",
-  "updated_display": "30. 7. 2026 o 19:11",
+  "updated_at": "2026-07-31T12:10:51+02:00",
+  "updated_display": "31. 7. 2026 o 12:10",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The German Su-22M4 Returns at a Discount for the First Flight of the Su-17!",
+      "summary": "On August 2nd 1966, test pilot Vladimir Ilyushin made the first flight of the Su-17 fighter-bomber prototype. This was the USSR’s first aircraft with variable-sweep wings. In total, more than 2,800 units were…",
+      "date": "2026-07-31",
+      "date_display": "31. 7. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10146-shop-the-german-su-22m4-returns-at-a-discount-for-the-first-flight-of-the-su-17-en",
+      "kind": "news"
+    },
     {
       "title": "A Discount for the P-16 to Mark the Swiss Air Force’s Founding Day!",
       "summary": "The history of the Swiss Air Force began on July 31st 1914, with the First World War. Switzerland remained neutral throughout all of its neighbors’ conflicts. During the Second World War, its aircraft…",
@@ -52,16 +62,6 @@
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10145-fixed-its-fixed-no116-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.52",
-      "summary": "A bug that sometimes caused destroyed objects to appear intact for players who joined the battle in-progress has been fixed.",
-      "date": "2026-07-29",
-      "date_display": "29. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1880",
-      "kind": "update"
     }
   ]
 }
