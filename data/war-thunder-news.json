@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-07-31T19:17:42+02:00",
-  "updated_display": "31. 7. 2026 o 19:17",
+  "updated_at": "2026-08-03T14:42:37+02:00",
+  "updated_display": "3. 8. 2026 o 14:42",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Work-In-Progress: New Decals and QoL Features",
+      "summary": "Today we’d like to cover some quality of life improvements for decals, and show you some of the new decals we’ve been working on.",
+      "date": "2026-08-03",
+      "date_display": "3. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10151-development-decals-en",
+      "kind": "news"
+    },
     {
       "title": "How Was the Year in War Thunder: Rate the New Additions",
       "summary": "Hello, tankers, pilots and captains! The past year in War Thunder has been packed: six major updates, hundreds of new ground vehicles, aircraft and ships, reworked maps, and significant updates to gameplay…",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10144-shop-a-discount-for-the-p-16-to-mark-the-swiss-air-forces-founding-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Unplanned Technical Maintenance",
-      "summary": "The game may not be available at the moment as we are experiencing some technical issues on our servers. We are endeavouring to fix these issues as quickly as possible.",
-      "date": "2026-07-30",
-      "date_display": "30. 7. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10148-unplanned-technical-maintenance-en",
       "kind": "news"
     }
   ]
