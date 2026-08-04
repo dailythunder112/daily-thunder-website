@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-03T14:42:37+02:00",
-  "updated_display": "3. 8. 2026 o 14:42",
+  "updated_at": "2026-08-04T20:17:26+02:00",
+  "updated_display": "4. 8. 2026 o 20:17",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.57.1.67",
+      "summary": "A bug that sometimes caused the button for switching to the nuke carrying aircraft to not show up in the action bar in Ground Battles has been fixed.",
+      "date": "2026-08-04",
+      "date_display": "4. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1883",
+      "kind": "update"
+    },
     {
       "title": "Work-In-Progress: New Decals and QoL Features",
       "summary": "Today we’d like to cover some quality of life improvements for decals, and show you some of the new decals we’ve been working on.",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1882",
       "kind": "update"
-    },
-    {
-      "title": "A Discount for the P-16 to Mark the Swiss Air Force’s Founding Day!",
-      "summary": "The history of the Swiss Air Force began on July 31st 1914, with the First World War. Switzerland remained neutral throughout all of its neighbors’ conflicts. During the Second World War, its aircraft…",
-      "date": "2026-07-30",
-      "date_display": "30. 7. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10144-shop-a-discount-for-the-p-16-to-mark-the-swiss-air-forces-founding-day-en",
-      "kind": "news"
     }
   ]
 };
