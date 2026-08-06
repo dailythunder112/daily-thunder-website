@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-04T20:17:26+02:00",
-  "updated_display": "4. 8. 2026 o 20:17",
+  "updated_at": "2026-08-06T12:16:52+02:00",
+  "updated_display": "6. 8. 2026 o 12:16",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Removal of Japanese Ho-Ri SPGs from the Research Tree and Sale",
+      "summary": "Today, we’d like to give you a heads up regarding the removal of the Japanese Ho-Ri Production and Ho-Ri Prototype SPGs from the Japanese research tree and from sale respectively.",
+      "date": "2026-08-06",
+      "date_display": "6. 8. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10153-removal-of-japanese-ho-ri-spgs-from-the-research-tree-and-sale-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.57.1.67",
       "summary": "A bug that sometimes caused the button for switching to the nuke carrying aircraft to not show up in the action bar in Ground Battles has been fixed.",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10146-shop-the-german-su-22m4-returns-at-a-discount-for-the-first-flight-of-the-su-17-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.60",
-      "summary": "The stability of the game with sound mods enabled has been improved.",
-      "date": "2026-07-31",
-      "date_display": "31. 7. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1882",
-      "kind": "update"
     }
   ]
 };
