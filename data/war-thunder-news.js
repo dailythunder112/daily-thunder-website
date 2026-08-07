@@ -1,6 +1,6 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-06T12:16:52+02:00",
-  "updated_display": "6. 8. 2026 o 12:16",
+  "updated_at": "2026-08-07T06:14:11+02:00",
+  "updated_display": "7. 8. 2026 o 06:14",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -12,6 +12,16 @@ window.DT_NEWS_DATA = {
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10153-removal-of-japanese-ho-ri-spgs-from-the-research-tree-and-sale-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.70",
+      "summary": "Scimitar Mk.2 — vehicle mass has been reduced from 13 tons to 12.26 tons. (Report). The rear view mirrors have been removed.",
+      "date": "2026-08-06",
+      "date_display": "6. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1884",
+      "kind": "update"
     },
     {
       "title": "Update 2.57.1.67",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "EVENT",
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10150-event-the-advance-mode-is-back-with-higher-battle-ratings-en",
-      "kind": "news"
-    },
-    {
-      "title": "The German Su-22M4 Returns at a Discount for the First Flight of the Su-17!",
-      "summary": "On August 2nd 1966, test pilot Vladimir Ilyushin made the first flight of the Su-17 fighter-bomber prototype. This was the USSR’s first aircraft with variable-sweep wings. In total, more than 2,800 units were…",
-      "date": "2026-07-31",
-      "date_display": "31. 7. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10146-shop-the-german-su-22m4-returns-at-a-discount-for-the-first-flight-of-the-su-17-en",
       "kind": "news"
     }
   ]
