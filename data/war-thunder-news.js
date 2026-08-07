@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-07T06:14:11+02:00",
-  "updated_display": "7. 8. 2026 o 06:14",
+  "updated_at": "2026-08-07T11:42:36+02:00",
+  "updated_display": "7. 8. 2026 o 11:42",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Discount on the G.91 R/4 to Mark the 70th Anniversary of its First Flight!",
+      "summary": "The first mass-produced jet fighter built in Italy, the G.91, made its maiden flight on August 9th 1956. It became a symbol of the resurgence of Italian military aviation following the Second World War. In…",
+      "date": "2026-08-07",
+      "date_display": "7. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10154-shop-a-discount-on-the-g91-r4-to-mark-the-70th-anniversary-of-its-first-flight-en",
+      "kind": "news"
+    },
     {
       "title": "Removal of Japanese Ho-Ri SPGs from the Research Tree and Sale",
       "summary": "Today, we’d like to give you a heads up regarding the removal of the Japanese Ho-Ri Production and Ho-Ri Prototype SPGs from the Japanese research tree and from sale respectively.",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "NOVINKA",
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10152-how-was-the-year-in-war-thunder-rate-the-new-additions-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Advance mode is back with higher Battle Ratings!",
-      "summary": "We’d like to thank everyone for their feedback and participation in the previous Advance mode test, the feedback was overall positive, you wanted more, and we’re happy to oblige! This time we’re back with a…",
-      "date": "2026-07-31",
-      "date_display": "31. 7. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10150-event-the-advance-mode-is-back-with-higher-battle-ratings-en",
       "kind": "news"
     }
   ]
