@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-07T11:42:36+02:00",
-  "updated_display": "7. 8. 2026 o 11:42",
+  "updated_at": "2026-08-07T17:14:13+02:00",
+  "updated_display": "7. 8. 2026 o 17:14",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Get Oktyabrskaya Revolutsiya in the Guardian of the Baltic Sea Event!",
+      "summary": "In October 1911, the battleship Gangut was launched, named after the Battle of Gangut, the Russian Empire’s first naval victory. After the First World War, the ship remained inactive for a long period; it was…",
+      "date": "2026-08-07",
+      "date_display": "7. 8. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10155-event-get-oktyabrskaya-revolutsiya-in-the-guardian-of-the-baltic-sea-event-en",
+      "kind": "news"
+    },
     {
       "title": "A Discount on the G.91 R/4 to Mark the 70th Anniversary of its First Flight!",
       "summary": "The first mass-produced jet fighter built in Italy, the G.91, made its maiden flight on August 9th 1956. It became a symbol of the resurgence of Italian military aviation following the Second World War. In…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10151-development-decals-en",
-      "kind": "news"
-    },
-    {
-      "title": "How Was the Year in War Thunder: Rate the New Additions",
-      "summary": "Hello, tankers, pilots and captains! The past year in War Thunder has been packed: six major updates, hundreds of new ground vehicles, aircraft and ships, reworked maps, and significant updates to gameplay…",
-      "date": "2026-07-31",
-      "date_display": "31. 7. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10152-how-was-the-year-in-war-thunder-rate-the-new-additions-en",
       "kind": "news"
     }
   ]
