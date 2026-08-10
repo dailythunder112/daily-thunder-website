@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-10T12:44:47+02:00",
-  "updated_display": "10. 8. 2026 o 12:44",
+  "updated_at": "2026-08-10T17:35:01+02:00",
+  "updated_display": "10. 8. 2026 o 17:35",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Work-In-Progress: PLZ45",
+      "summary": "Hey everyone! We’re back with another Work-In-Progress blog, this time for the Chinese PLZ45 with a 155 mm cannon, planned for the upcoming major update. Let’s take a look at it!",
+      "date": "2026-08-10",
+      "date_display": "10. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10157-development-work-in-progress-plz45-en",
+      "kind": "news"
+    },
     {
       "title": "Monthly Decals for August!",
       "summary": "Hello everyone! How are you? Fine thank you. We’re glad to be back with another round of collectible decals for you! We’re happy to include this rare big cat for Japan, and one of the Bagram birds for the…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1884",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.57.1.67",
-      "summary": "A bug that sometimes caused the button for switching to the nuke carrying aircraft to not show up in the action bar in Ground Battles has been fixed.",
-      "date": "2026-08-04",
-      "date_display": "4. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1883",
       "kind": "update"
     }
   ]
