@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-07T17:14:13+02:00",
-  "updated_display": "7. 8. 2026 o 17:14",
+  "updated_at": "2026-08-10T12:44:47+02:00",
+  "updated_display": "10. 8. 2026 o 12:44",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Monthly Decals for August!",
+      "summary": "Hello everyone! How are you? Fine thank you. We’re glad to be back with another round of collectible decals for you! We’re happy to include this rare big cat for Japan, and one of the Bagram birds for the…",
+      "date": "2026-08-10",
+      "date_display": "10. 8. 2026",
+      "category": "DECALS",
+      "category_key": "decals",
+      "url": "https://warthunder.com/en/news/10156-decals-monthly-decals-for-august-en",
+      "kind": "news"
+    },
     {
       "title": "Get Oktyabrskaya Revolutsiya in the Guardian of the Baltic Sea Event!",
       "summary": "In October 1911, the battleship Gangut was launched, named after the Battle of Gangut, the Russian Empire’s first naval victory. After the First World War, the ship remained inactive for a long period; it was…",
@@ -52,16 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1883",
       "kind": "update"
-    },
-    {
-      "title": "Work-In-Progress: New Decals and QoL Features",
-      "summary": "Today we’d like to cover some quality of life improvements for decals, and show you some of the new decals we’ve been working on.",
-      "date": "2026-08-03",
-      "date_display": "3. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10151-development-decals-en",
-      "kind": "news"
     }
   ]
 }
