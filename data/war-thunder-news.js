@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-10T17:35:01+02:00",
-  "updated_display": "10. 8. 2026 o 17:35",
+  "updated_at": "2026-08-11T17:33:43+02:00",
+  "updated_display": "11. 8. 2026 o 17:33",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.57.1.81",
+      "summary": "A bug where the radio proximity fuzes of ARH and SARH missiles worked incorrectly when switching to INS+DL mode has been fixed. This sometimes caused missiles to pass straight through aircraft without…",
+      "date": "2026-08-11",
+      "date_display": "11. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1885",
+      "kind": "update"
+    },
     {
       "title": "Work-In-Progress: PLZ45",
       "summary": "Hey everyone! We’re back with another Work-In-Progress blog, this time for the Chinese PLZ45 with a 155 mm cannon, planned for the upcoming major update. Let’s take a look at it!",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10153-removal-of-japanese-ho-ri-spgs-from-the-research-tree-and-sale-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.70",
-      "summary": "Scimitar Mk.2 — vehicle mass has been reduced from 13 tons to 12.26 tons. (Report). The rear view mirrors have been removed.",
-      "date": "2026-08-06",
-      "date_display": "6. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1884",
-      "kind": "update"
     }
   ]
 };
