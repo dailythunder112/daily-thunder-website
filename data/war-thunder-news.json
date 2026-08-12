@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-12T11:48:36+02:00",
-  "updated_display": "12. 8. 2026 o 11:48",
+  "updated_at": "2026-08-12T17:32:46+02:00",
+  "updated_display": "12. 8. 2026 o 17:32",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The WTCS Pro League Major III is Here: Register Now For The Qualification Stage!",
+      "summary": "The War Thunder Championships Series (WTCS) continues! The third Major of the season will feature an intense 4v4 top-tier ground format. Whether you’re a seasoned commander or a master of modern ground…",
+      "date": "2026-08-12",
+      "date_display": "12. 8. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10161-esports-en",
+      "kind": "news"
+    },
+    {
+      "title": "It’s fixed! №117",
+      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past two weeks. If you’d like to catch up on every fixed bug, then be sure to…",
+      "date": "2026-08-12",
+      "date_display": "12. 8. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10160-fixed-its-fixed-no117-en",
+      "kind": "news"
+    },
     {
       "title": "Fair Play: August 2026",
       "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
@@ -12,6 +32,16 @@
       "category_key": "fair_play",
       "url": "https://warthunder.com/en/news/10159-fair-play-fair-play-august-2026-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.83",
+      "summary": "The crew selection in the crew slot bar has been reworked to make the selected crew more clearly visible.",
+      "date": "2026-08-12",
+      "date_display": "12. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1886",
+      "kind": "update"
     },
     {
       "title": "Update 2.57.1.81",
@@ -31,36 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10157-development-work-in-progress-plz45-en",
-      "kind": "news"
-    },
-    {
-      "title": "Monthly Decals for August!",
-      "summary": "Hello everyone! How are you? Fine thank you. We’re glad to be back with another round of collectible decals for you! We’re happy to include this rare big cat for Japan, and one of the Bagram birds for the…",
-      "date": "2026-08-10",
-      "date_display": "10. 8. 2026",
-      "category": "DECALS",
-      "category_key": "decals",
-      "url": "https://warthunder.com/en/news/10156-decals-monthly-decals-for-august-en",
-      "kind": "news"
-    },
-    {
-      "title": "Get Oktyabrskaya Revolutsiya in the Guardian of the Baltic Sea Event!",
-      "summary": "In October 1911, the battleship Gangut was launched, named after the Battle of Gangut, the Russian Empire’s first naval victory. After the First World War, the ship remained inactive for a long period; it was…",
-      "date": "2026-08-07",
-      "date_display": "7. 8. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10155-event-get-oktyabrskaya-revolutsiya-in-the-guardian-of-the-baltic-sea-event-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Discount on the G.91 R/4 to Mark the 70th Anniversary of its First Flight!",
-      "summary": "The first mass-produced jet fighter built in Italy, the G.91, made its maiden flight on August 9th 1956. It became a symbol of the resurgence of Italian military aviation following the Second World War. In…",
-      "date": "2026-08-07",
-      "date_display": "7. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10154-shop-a-discount-on-the-g91-r4-to-mark-the-70th-anniversary-of-its-first-flight-en",
       "kind": "news"
     }
   ]
