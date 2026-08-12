@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-11T17:33:43+02:00",
-  "updated_display": "11. 8. 2026 o 17:33",
+  "updated_at": "2026-08-12T11:48:36+02:00",
+  "updated_display": "12. 8. 2026 o 11:48",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Fair Play: August 2026",
+      "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
+      "date": "2026-08-12",
+      "date_display": "12. 8. 2026",
+      "category": "FAIR PLAY",
+      "category_key": "fair_play",
+      "url": "https://warthunder.com/en/news/10159-fair-play-fair-play-august-2026-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.57.1.81",
       "summary": "A bug where the radio proximity fuzes of ARH and SARH missiles worked incorrectly when switching to INS+DL mode has been fixed. This sometimes caused missiles to pass straight through aircraft without…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10154-shop-a-discount-on-the-g91-r4-to-mark-the-70th-anniversary-of-its-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "Removal of Japanese Ho-Ri SPGs from the Research Tree and Sale",
-      "summary": "Today, we’d like to give you a heads up regarding the removal of the Japanese Ho-Ri Production and Ho-Ri Prototype SPGs from the Japanese research tree and from sale respectively.",
-      "date": "2026-08-06",
-      "date_display": "6. 8. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10153-removal-of-japanese-ho-ri-spgs-from-the-research-tree-and-sale-en",
       "kind": "news"
     }
   ]
