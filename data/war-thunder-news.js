@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-13T11:49:42+02:00",
-  "updated_display": "13. 8. 2026 o 11:49",
+  "updated_at": "2026-08-13T17:36:48+02:00",
+  "updated_display": "13. 8. 2026 o 17:36",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Guardian of the Baltic Sea: Oktyabrskaya Revolutsiya",
+      "summary": "Meet the final and most advanced Sevastopol-class battleship featuring an excellent broadside, an expanded anti-aircraft battery, and radar!",
+      "date": "2026-08-13",
+      "date_display": "13. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10163-development-guardian-of-the-baltic-sea-oktyabrskaya-revolutsiya-en",
+      "kind": "news"
+    },
     {
       "title": "The F-89D is Temporarily Available at a Discount to Mark the Anniversary of its First Flight!",
       "summary": "On August 16th 1948 the Northrop F-89 Scorpion prototype took to the air for the first time. It was the world’s first aircraft to carry air-to-air rockets with nuclear warheads and one of the first American…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1886",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.57.1.81",
-      "summary": "A bug where the radio proximity fuzes of ARH and SARH missiles worked incorrectly when switching to INS+DL mode has been fixed. This sometimes caused missiles to pass straight through aircraft without…",
-      "date": "2026-08-11",
-      "date_display": "11. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1885",
       "kind": "update"
     }
   ]
