@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-12T17:32:46+02:00",
-  "updated_display": "12. 8. 2026 o 17:32",
+  "updated_at": "2026-08-13T11:49:42+02:00",
+  "updated_display": "13. 8. 2026 o 11:49",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The F-89D is Temporarily Available at a Discount to Mark the Anniversary of its First Flight!",
+      "summary": "On August 16th 1948 the Northrop F-89 Scorpion prototype took to the air for the first time. It was the world’s first aircraft to carry air-to-air rockets with nuclear warheads and one of the first American…",
+      "date": "2026-08-13",
+      "date_display": "13. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10162-shop-the-f-89d-is-temporarily-available-to-mark-the-anniversary-of-its-first-flight-en",
+      "kind": "news"
+    },
     {
       "title": "The WTCS Pro League Major III is Here: Register Now For The Qualification Stage!",
       "summary": "The War Thunder Championships Series (WTCS) continues! The third Major of the season will feature an intense 4v4 top-tier ground format. Whether you’re a seasoned commander or a master of modern ground…",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1885",
       "kind": "update"
-    },
-    {
-      "title": "Work-In-Progress: PLZ45",
-      "summary": "Hey everyone! We’re back with another Work-In-Progress blog, this time for the Chinese PLZ45 with a 155 mm cannon, planned for the upcoming major update. Let’s take a look at it!",
-      "date": "2026-08-10",
-      "date_display": "10. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10157-development-work-in-progress-plz45-en",
-      "kind": "news"
     }
   ]
 };
