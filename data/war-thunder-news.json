@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-13T17:36:48+02:00",
-  "updated_display": "13. 8. 2026 o 17:36",
+  "updated_at": "2026-08-14T17:10:48+02:00",
+  "updated_display": "14. 8. 2026 o 17:10",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Discount on the UH-1C XM-30 and a Decal Trophy for US Airborne Day!",
+      "summary": "National Airborne Day takes place in the United States on August 16th, marking the anniversary of the first parachute jump in 1940. American paratroopers made a tremendous contribution to the success of key…",
+      "date": "2026-08-14",
+      "date_display": "14. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10165-special-shop-a-discount-on-the-uh-1c-xm-30-and-a-decal-trophy-for-us-airborne-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "Polish Vehicles and a Trophy with Decals Commemorating Polish Armed Forces Day!",
+      "summary": "In Poland, Armed Forces Day is celebrated on August 15th in honor of the victory in the Battle of Warsaw in 1920; however, the history of the Polish Army dates back to the very founding of the state in the…",
+      "date": "2026-08-14",
+      "date_display": "14. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10166-special-shop-polish-vehicles-and-a-trophy-with-decals-commemorating-polish-armed-forces-day-en",
+      "kind": "news"
+    },
     {
       "title": "Guardian of the Baltic Sea: Oktyabrskaya Revolutsiya",
       "summary": "Meet the final and most advanced Sevastopol-class battleship featuring an excellent broadside, an expanded anti-aircraft battery, and radar!",
@@ -42,26 +62,6 @@
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10160-fixed-its-fixed-no117-en",
       "kind": "news"
-    },
-    {
-      "title": "Fair Play: August 2026",
-      "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
-      "date": "2026-08-12",
-      "date_display": "12. 8. 2026",
-      "category": "FAIR PLAY",
-      "category_key": "fair_play",
-      "url": "https://warthunder.com/en/news/10159-fair-play-fair-play-august-2026-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.83",
-      "summary": "The crew selection in the crew slot bar has been reworked to make the selected crew more clearly visible.",
-      "date": "2026-08-12",
-      "date_display": "12. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1886",
-      "kind": "update"
     }
   ]
 }
