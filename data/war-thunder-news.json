@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-14T17:10:48+02:00",
-  "updated_display": "14. 8. 2026 o 17:10",
+  "updated_at": "2026-08-15T15:45:06+02:00",
+  "updated_display": "15. 8. 2026 o 15:45",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Moments of Valor: India",
+      "summary": "On August 15th 1947, India became an independent nation. Independence Day is one of the most important national holidays: the Prime Minister traditionally hoists the flag at the Red Fort in Delhi, the…",
+      "date": "2026-08-15",
+      "date_display": "15. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10164-video-shop-moments-of-valor-india-en",
+      "kind": "news"
+    },
     {
       "title": "A Discount on the UH-1C XM-30 and a Decal Trophy for US Airborne Day!",
       "summary": "National Airborne Day takes place in the United States on August 16th, marking the anniversary of the first parachute jump in 1940. American paratroopers made a tremendous contribution to the success of key…",
@@ -51,16 +61,6 @@
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10161-esports-en",
-      "kind": "news"
-    },
-    {
-      "title": "It’s fixed! №117",
-      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past two weeks. If you’d like to catch up on every fixed bug, then be sure to…",
-      "date": "2026-08-12",
-      "date_display": "12. 8. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10160-fixed-its-fixed-no117-en",
       "kind": "news"
     }
   ]
