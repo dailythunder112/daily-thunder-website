@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-15T15:45:06+02:00",
-  "updated_display": "15. 8. 2026 o 15:45",
+  "updated_at": "2026-08-17T15:07:12+02:00",
+  "updated_display": "17. 8. 2026 o 15:07",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Work-In-Progress: AW159 Wildcat",
+      "summary": "Today we’re taking a look at some early screenshots and information about the Agusta Westland AW159 Wildcat attack helicopter, coming to Great Britain in the next major update!",
+      "date": "2026-08-17",
+      "date_display": "17. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10169-development-work-in-progress-aw159-wildcat-en",
+      "kind": "news"
+    },
     {
       "title": "Moments of Valor: India",
       "summary": "On August 15th 1947, India became an independent nation. Independence Day is one of the most important national holidays: the Prime Minister traditionally hoists the flag at the Red Fort in Delhi, the…",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10162-shop-the-f-89d-is-temporarily-available-to-mark-the-anniversary-of-its-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "The WTCS Pro League Major III is Here: Register Now For The Qualification Stage!",
-      "summary": "The War Thunder Championships Series (WTCS) continues! The third Major of the season will feature an intense 4v4 top-tier ground format. Whether you’re a seasoned commander or a master of modern ground…",
-      "date": "2026-08-12",
-      "date_display": "12. 8. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10161-esports-en",
       "kind": "news"
     }
   ]
