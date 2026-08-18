@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-18T15:09:11+02:00",
-  "updated_display": "18. 8. 2026 o 15:09",
+  "updated_at": "2026-08-18T20:57:26+02:00",
+  "updated_display": "18. 8. 2026 o 20:57",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Community Update No.12: Keeping You Updated On What We’re Working on!",
+      "summary": "Hi everyone! Today we’re back with another Community Update post. Read on to see what we’re working on, what we’ve got planned, and what’s coming in the next major update.",
+      "date": "2026-08-18",
+      "date_display": "18. 8. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10172-community-update-no12-keeping-you-updated-on-what-were-working-on-en",
+      "kind": "news"
+    },
     {
       "title": "Reshuffles to the Israeli Ground Vehicle Research Tree",
       "summary": "Hey everyone! With the next major update, several armored vehicles in the Israel research tree will be moved. Comparison images of the tree before and after the changes can be seen below. Check it out!",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10166-special-shop-polish-vehicles-and-a-trophy-with-decals-commemorating-polish-armed-forces-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Guardian of the Baltic Sea: Oktyabrskaya Revolutsiya",
-      "summary": "Meet the final and most advanced Sevastopol-class battleship featuring an excellent broadside, an expanded anti-aircraft battery, and radar!",
-      "date": "2026-08-13",
-      "date_display": "13. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10163-development-guardian-of-the-baltic-sea-oktyabrskaya-revolutsiya-en",
       "kind": "news"
     }
   ]
