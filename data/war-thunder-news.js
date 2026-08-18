@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-17T15:07:12+02:00",
-  "updated_display": "17. 8. 2026 o 15:07",
+  "updated_at": "2026-08-18T15:09:11+02:00",
+  "updated_display": "18. 8. 2026 o 15:09",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Reshuffles to the Israeli Ground Vehicle Research Tree",
+      "summary": "Hey everyone! With the next major update, several armored vehicles in the Israel research tree will be moved. Comparison images of the tree before and after the changes can be seen below. Check it out!",
+      "date": "2026-08-18",
+      "date_display": "18. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10168-development-reshuffles-to-the-israeli-ground-vehicle-research-tree-en",
+      "kind": "news"
+    },
     {
       "title": "Work-In-Progress: AW159 Wildcat",
       "summary": "Today we’re taking a look at some early screenshots and information about the Agusta Westland AW159 Wildcat attack helicopter, coming to Great Britain in the next major update!",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10163-development-guardian-of-the-baltic-sea-oktyabrskaya-revolutsiya-en",
-      "kind": "news"
-    },
-    {
-      "title": "The F-89D is Temporarily Available at a Discount to Mark the Anniversary of its First Flight!",
-      "summary": "On August 16th 1948 the Northrop F-89 Scorpion prototype took to the air for the first time. It was the world’s first aircraft to carry air-to-air rockets with nuclear warheads and one of the first American…",
-      "date": "2026-08-13",
-      "date_display": "13. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10162-shop-the-f-89d-is-temporarily-available-to-mark-the-anniversary-of-its-first-flight-en",
       "kind": "news"
     }
   ]
