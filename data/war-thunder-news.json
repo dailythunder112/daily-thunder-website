@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-18T20:57:26+02:00",
-  "updated_display": "18. 8. 2026 o 20:57",
+  "updated_at": "2026-08-19T15:10:00+02:00",
+  "updated_display": "19. 8. 2026 o 15:10",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Meet Nuclear Escalation: Vietnam!",
+      "summary": "Nuclear Escalation is back, and this time we’ve significantly reworked the ground combat element of the mode.",
+      "date": "2026-08-19",
+      "date_display": "19. 8. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10171-event-meet-nuclear-escalation-vietnam-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.98",
+      "summary": "Several nuclear carrier aircraft in Ground Battles have been changed.",
+      "date": "2026-08-19",
+      "date_display": "19. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1887",
+      "kind": "update"
+    },
     {
       "title": "Community Update No.12: Keeping You Updated On What We’re Working on!",
       "summary": "Hi everyone! Today we’re back with another Community Update post. Read on to see what we’re working on, what we’ve got planned, and what’s coming in the next major update.",
@@ -41,26 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10164-video-shop-moments-of-valor-india-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Discount on the UH-1C XM-30 and a Decal Trophy for US Airborne Day!",
-      "summary": "National Airborne Day takes place in the United States on August 16th, marking the anniversary of the first parachute jump in 1940. American paratroopers made a tremendous contribution to the success of key…",
-      "date": "2026-08-14",
-      "date_display": "14. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10165-special-shop-a-discount-on-the-uh-1c-xm-30-and-a-decal-trophy-for-us-airborne-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Polish Vehicles and a Trophy with Decals Commemorating Polish Armed Forces Day!",
-      "summary": "In Poland, Armed Forces Day is celebrated on August 15th in honor of the victory in the Battle of Warsaw in 1920; however, the history of the Polish Army dates back to the very founding of the state in the…",
-      "date": "2026-08-14",
-      "date_display": "14. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10166-special-shop-polish-vehicles-and-a-trophy-with-decals-commemorating-polish-armed-forces-day-en",
       "kind": "news"
     }
   ]
