@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-19T15:10:00+02:00",
-  "updated_display": "19. 8. 2026 o 15:10",
+  "updated_at": "2026-08-20T15:12:07+02:00",
+  "updated_display": "20. 8. 2026 o 15:12",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The Hungarian PzH 2000HU Returns for St. Stephen’s Day!",
+      "summary": "August 20th marks Hungary’s main national holiday, St. Stephen’s Day, honoring the first Hungarian king, who was canonized for Christianizing the country. On this day, Hungary celebrates the anniversary of…",
+      "date": "2026-08-20",
+      "date_display": "20. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10174-shop-the-hungarian-pzh-2000-returns-for-st-stephens-day-en",
+      "kind": "news"
+    },
     {
       "title": "Meet Nuclear Escalation: Vietnam!",
       "summary": "Nuclear Escalation is back, and this time we’ve significantly reworked the ground combat element of the mode.",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10169-development-work-in-progress-aw159-wildcat-en",
-      "kind": "news"
-    },
-    {
-      "title": "Moments of Valor: India",
-      "summary": "On August 15th 1947, India became an independent nation. Independence Day is one of the most important national holidays: the Prime Minister traditionally hoists the flag at the Red Fort in Delhi, the…",
-      "date": "2026-08-15",
-      "date_display": "15. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10164-video-shop-moments-of-valor-india-en",
       "kind": "news"
     }
   ]
