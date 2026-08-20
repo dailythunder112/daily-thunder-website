@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-20T15:12:07+02:00",
-  "updated_display": "20. 8. 2026 o 15:12",
+  "updated_at": "2026-08-20T21:00:36+02:00",
+  "updated_display": "20. 8. 2026 o 21:00",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "M7: In The Middle",
+      "summary": "The M7 was conceived as a light tank, but ultimately matched the Sherman in terms of combat capabilities!",
+      "date": "2026-08-20",
+      "date_display": "20. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10173-development-m7-in-the-middle-en",
+      "kind": "news"
+    },
     {
       "title": "The Hungarian PzH 2000HU Returns for St. Stephen’s Day!",
       "summary": "August 20th marks Hungary’s main national holiday, St. Stephen’s Day, honoring the first Hungarian king, who was canonized for Christianizing the country. On this day, Hungary celebrates the anniversary of…",
@@ -12,6 +22,16 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10174-shop-the-hungarian-pzh-2000-returns-for-st-stephens-day-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.103",
+      "summary": "A critical bug causing the desynchronization of the server and client has been fixed.",
+      "date": "2026-08-20",
+      "date_display": "20. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1888",
+      "kind": "update"
     },
     {
       "title": "Meet Nuclear Escalation: Vietnam!",
@@ -41,26 +61,6 @@
       "category": "NOVINKA",
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10172-community-update-no12-keeping-you-updated-on-what-were-working-on-en",
-      "kind": "news"
-    },
-    {
-      "title": "Reshuffles to the Israeli Ground Vehicle Research Tree",
-      "summary": "Hey everyone! With the next major update, several armored vehicles in the Israel research tree will be moved. Comparison images of the tree before and after the changes can be seen below. Check it out!",
-      "date": "2026-08-18",
-      "date_display": "18. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10168-development-reshuffles-to-the-israeli-ground-vehicle-research-tree-en",
-      "kind": "news"
-    },
-    {
-      "title": "Work-In-Progress: AW159 Wildcat",
-      "summary": "Today we’re taking a look at some early screenshots and information about the Agusta Westland AW159 Wildcat attack helicopter, coming to Great Britain in the next major update!",
-      "date": "2026-08-17",
-      "date_display": "17. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10169-development-work-in-progress-aw159-wildcat-en",
       "kind": "news"
     }
   ]
