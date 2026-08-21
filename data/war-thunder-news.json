@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-20T21:00:36+02:00",
-  "updated_display": "20. 8. 2026 o 21:00",
+  "updated_at": "2026-08-21T15:11:41+02:00",
+  "updated_display": "21. 8. 2026 o 15:11",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Ki-93-I Ko: Saigo no Bushi",
+      "summary": "A rare Japanese interceptor will be making its way to the research tree in the next major update! Featuring a powerful 57 mm cannon, the Ki-93 will bring some serious firepower to the battlefield!",
+      "date": "2026-08-21",
+      "date_display": "21. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10178-development-ki-93-i-ko-saigo-no-bushi-en",
+      "kind": "news"
+    },
+    {
+      "title": "The Indonesian Hawk 209 Returns at a Discount for the Hawk’s First Flight!",
+      "summary": "The maiden flight of the Hawk strike aircraft, developed by Hawker Siddeley, took place on August 21st 1974. It was widely exported, with over 1,000 units produced in total. Many remain in service to this…",
+      "date": "2026-08-21",
+      "date_display": "21. 8. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10176-shop-the-indonesian-hawk-209-returns-at-a-discount-for-the-hawks-first-flight-en",
+      "kind": "news"
+    },
+    {
+      "title": "New MFDs and HMDs!",
+      "summary": "Today, we’re showcasing several new Multi-Function Display screens for aircraft, as well as improvements to Helmet-Mounted Displays, coming in the next War Thunder update!",
+      "date": "2026-08-21",
+      "date_display": "21. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10175-development-new-mfds-and-hmds-en",
+      "kind": "news"
+    },
     {
       "title": "M7: In The Middle",
       "summary": "The M7 was conceived as a light tank, but ultimately matched the Sherman in terms of combat capabilities!",
@@ -32,36 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1888",
       "kind": "update"
-    },
-    {
-      "title": "Meet Nuclear Escalation: Vietnam!",
-      "summary": "Nuclear Escalation is back, and this time we’ve significantly reworked the ground combat element of the mode.",
-      "date": "2026-08-19",
-      "date_display": "19. 8. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10171-event-meet-nuclear-escalation-vietnam-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.98",
-      "summary": "Several nuclear carrier aircraft in Ground Battles have been changed.",
-      "date": "2026-08-19",
-      "date_display": "19. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1887",
-      "kind": "update"
-    },
-    {
-      "title": "Community Update No.12: Keeping You Updated On What We’re Working on!",
-      "summary": "Hi everyone! Today we’re back with another Community Update post. Read on to see what we’re working on, what we’ve got planned, and what’s coming in the next major update.",
-      "date": "2026-08-18",
-      "date_display": "18. 8. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10172-community-update-no12-keeping-you-updated-on-what-were-working-on-en",
-      "kind": "news"
     }
   ]
 }
