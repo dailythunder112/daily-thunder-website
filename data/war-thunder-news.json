@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-21T15:11:41+02:00",
-  "updated_display": "21. 8. 2026 o 15:11",
+  "updated_at": "2026-08-24T15:14:12+02:00",
+  "updated_display": "24. 8. 2026 o 15:14",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "New Darwin Hill Location and Map Improvements!",
+      "summary": "Today we’re covering the Darwin Hill map, improvements to Red Desert and a visual overhaul to two air maps!",
+      "date": "2026-08-24",
+      "date_display": "24. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10180-development-new-darwin-hill-location-and-map-improvements-en",
+      "kind": "news"
+    },
     {
       "title": "Ki-93-I Ko: Saigo no Bushi",
       "summary": "A rare Japanese interceptor will be making its way to the research tree in the next major update! Featuring a powerful 57 mm cannon, the Ki-93 will bring some serious firepower to the battlefield!",
@@ -52,16 +62,6 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10174-shop-the-hungarian-pzh-2000-returns-for-st-stephens-day-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.103",
-      "summary": "A critical bug causing the desynchronization of the server and client has been fixed.",
-      "date": "2026-08-20",
-      "date_display": "20. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1888",
-      "kind": "update"
     }
   ]
 }
