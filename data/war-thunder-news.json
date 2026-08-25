@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-24T15:14:12+02:00",
-  "updated_display": "24. 8. 2026 o 15:14",
+  "updated_at": "2026-08-25T15:12:21+02:00",
+  "updated_display": "25. 8. 2026 o 15:12",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Reward for When the Enemy Abandons a Tank or Ship!",
+      "summary": "Air battles has long featured a mechanic that awards a kill when a player abandons their vehicle: if you bail out, the kill is credited to the nearest enemy within a certain radius. You’ve asked us to bring…",
+      "date": "2026-08-25",
+      "date_display": "25. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10181-development-reward-for-when-the-enemy-abandons-a-tank-or-ship-en",
+      "kind": "news"
+    },
+    {
+      "title": "Reshuffles to the Ground Vehicle Research Trees in the Next Major Update",
+      "summary": "Hey everyone! With the release of the next major update, several ground vehicles in several research trees will be moved. Comparison images of the trees before and after the changes can be seen below. Check…",
+      "date": "2026-08-25",
+      "date_display": "25. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10182-development-reshuffles-to-the-ground-vehicle-research-trees-in-the-next-major-update-en",
+      "kind": "news"
+    },
     {
       "title": "New Darwin Hill Location and Map Improvements!",
       "summary": "Today we’re covering the Darwin Hill map, improvements to Red Desert and a visual overhaul to two air maps!",
@@ -41,26 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10175-development-new-mfds-and-hmds-en",
-      "kind": "news"
-    },
-    {
-      "title": "M7: In The Middle",
-      "summary": "The M7 was conceived as a light tank, but ultimately matched the Sherman in terms of combat capabilities!",
-      "date": "2026-08-20",
-      "date_display": "20. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10173-development-m7-in-the-middle-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Hungarian PzH 2000HU Returns for St. Stephen’s Day!",
-      "summary": "August 20th marks Hungary’s main national holiday, St. Stephen’s Day, honoring the first Hungarian king, who was canonized for Christianizing the country. On this day, Hungary celebrates the anniversary of…",
-      "date": "2026-08-20",
-      "date_display": "20. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10174-shop-the-hungarian-pzh-2000-returns-for-st-stephens-day-en",
       "kind": "news"
     }
   ]
