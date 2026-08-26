@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-25T15:12:21+02:00",
-  "updated_display": "25. 8. 2026 o 15:12",
+  "updated_at": "2026-08-26T15:17:25+02:00",
+  "updated_display": "26. 8. 2026 o 15:17",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pre-order: PLZ45 — Thunderous Response",
+      "summary": "Today, pre-orders for the PLZ45, the Chinese self-propelled gun with a long-barreled howitzer have started!",
+      "date": "2026-08-26",
+      "date_display": "26. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10184-development-pre-order-plz45-en",
+      "kind": "news"
+    },
     {
       "title": "Reward for When the Enemy Abandons a Tank or Ship!",
       "summary": "Air battles has long featured a mechanic that awards a kill when a player abandons their vehicle: if you bail out, the kill is credited to the nearest enemy within a certain radius. You’ve asked us to bring…",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10176-shop-the-indonesian-hawk-209-returns-at-a-discount-for-the-hawks-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "New MFDs and HMDs!",
-      "summary": "Today, we’re showcasing several new Multi-Function Display screens for aircraft, as well as improvements to Helmet-Mounted Displays, coming in the next War Thunder update!",
-      "date": "2026-08-21",
-      "date_display": "21. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10175-development-new-mfds-and-hmds-en",
       "kind": "news"
     }
   ]
