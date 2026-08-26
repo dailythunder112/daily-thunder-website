@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-26T15:17:25+02:00",
-  "updated_display": "26. 8. 2026 o 15:17",
+  "updated_at": "2026-08-26T22:02:41+02:00",
+  "updated_display": "26. 8. 2026 o 22:02",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pages of History (September): Night Witch",
+      "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From the USSR and Germany to Iran and India: participate in battles while using…",
+      "date": "2026-08-26",
+      "date_display": "26. 8. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10183-event-pages-of-history-september-night-witch-en",
+      "kind": "news"
+    },
     {
       "title": "Pre-order: PLZ45 — Thunderous Response",
       "summary": "Today, pre-orders for the PLZ45, the Chinese self-propelled gun with a long-barreled howitzer have started!",
@@ -51,16 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10178-development-ki-93-i-ko-saigo-no-bushi-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Indonesian Hawk 209 Returns at a Discount for the Hawk’s First Flight!",
-      "summary": "The maiden flight of the Hawk strike aircraft, developed by Hawker Siddeley, took place on August 21st 1974. It was widely exported, with over 1,000 units produced in total. Many remain in service to this…",
-      "date": "2026-08-21",
-      "date_display": "21. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10176-shop-the-indonesian-hawk-209-returns-at-a-discount-for-the-hawks-first-flight-en",
       "kind": "news"
     }
   ]
