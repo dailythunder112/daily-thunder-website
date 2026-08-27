@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-26T22:02:41+02:00",
-  "updated_display": "26. 8. 2026 o 22:02",
+  "updated_at": "2026-08-28T00:16:56+02:00",
+  "updated_display": "28. 8. 2026 o 00:16",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Server Maintenance Notice (27.08.2026)",
+      "summary": "Hi everyone, some of our game services are currently experiencing instability. You may run into issues signing in to your account and accessing and getting inventory items, including the Military Survival…",
+      "date": "2026-08-27",
+      "date_display": "27. 8. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10188-server-maintenance-notice-27082026-en",
+      "kind": "news"
+    },
+    {
+      "title": "The Military Survival Kit!",
+      "summary": "A survival kit is a test pilot’s trusty companion, where everything essential is tightly packed and stowed under the seat. At one of NASA’s research centers, a new experimental machine is being readied for…",
+      "date": "2026-08-27",
+      "date_display": "27. 8. 2026",
+      "category": "SPECIAL",
+      "category_key": "special",
+      "url": "https://warthunder.com/en/news/10186-special-the-military-survival-kit-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.111",
+      "summary": "Changes to “Enduring Confrontation” mode",
+      "date": "2026-08-27",
+      "date_display": "27. 8. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1889",
+      "kind": "update"
+    },
     {
       "title": "Pages of History (September): Night Witch",
       "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From the USSR and Germany to Iran and India: participate in battles while using…",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10181-development-reward-for-when-the-enemy-abandons-a-tank-or-ship-en",
-      "kind": "news"
-    },
-    {
-      "title": "Reshuffles to the Ground Vehicle Research Trees in the Next Major Update",
-      "summary": "Hey everyone! With the release of the next major update, several ground vehicles in several research trees will be moved. Comparison images of the trees before and after the changes can be seen below. Check…",
-      "date": "2026-08-25",
-      "date_display": "25. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10182-development-reshuffles-to-the-ground-vehicle-research-trees-in-the-next-major-update-en",
-      "kind": "news"
-    },
-    {
-      "title": "New Darwin Hill Location and Map Improvements!",
-      "summary": "Today we’re covering the Darwin Hill map, improvements to Red Desert and a visual overhaul to two air maps!",
-      "date": "2026-08-24",
-      "date_display": "24. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10180-development-new-darwin-hill-location-and-map-improvements-en",
-      "kind": "news"
-    },
-    {
-      "title": "Ki-93-I Ko: Saigo no Bushi",
-      "summary": "A rare Japanese interceptor will be making its way to the research tree in the next major update! Featuring a powerful 57 mm cannon, the Ki-93 will bring some serious firepower to the battlefield!",
-      "date": "2026-08-21",
-      "date_display": "21. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10178-development-ki-93-i-ko-saigo-no-bushi-en",
       "kind": "news"
     }
   ]
