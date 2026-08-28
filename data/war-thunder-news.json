@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-28T13:25:34+02:00",
-  "updated_display": "28. 8. 2026 o 13:25",
+  "updated_at": "2026-08-29T00:22:23+02:00",
+  "updated_display": "29. 8. 2026 o 00:22",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Changes to Bomber Survivability",
+      "summary": "You may remember that we mentioned bomber damage model changes and increased survivability in the latest Community Update post. Well today we’re ready to share some details about the new damage model for…",
+      "date": "2026-08-28",
+      "date_display": "28. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10189-development-changes-to-bomber-survivability-en",
+      "kind": "news"
+    },
     {
       "title": "Discount on the F-20A to Mark the Anniversary of its First Flight!",
       "summary": "The F-20 fighter, developed by Northrop, made its maiden flight on August 30th 1982. It was an aircraft of such high quality that it was ready for mass production; however, all potential buyers ultimately…",
@@ -51,16 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10184-development-pre-order-plz45-en",
-      "kind": "news"
-    },
-    {
-      "title": "Reward for When the Enemy Abandons a Tank or Ship!",
-      "summary": "Air battles has long featured a mechanic that awards a kill when a player abandons their vehicle: if you bail out, the kill is credited to the nearest enemy within a certain radius. You’ve asked us to bring…",
-      "date": "2026-08-25",
-      "date_display": "25. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10181-development-reward-for-when-the-enemy-abandons-a-tank-or-ship-en",
       "kind": "news"
     }
   ]
