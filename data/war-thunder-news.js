@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-08-29T00:22:23+02:00",
-  "updated_display": "29. 8. 2026 o 00:22",
+  "updated_at": "2026-09-01T00:52:22+02:00",
+  "updated_display": "1. 9. 2026 o 00:52",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pre-order: Giulio Cesare — Caesar Adest!",
+      "summary": "The die is cast captains, Giulio Cesare will be joining War Thunder in the next major update as a premium battleship for Italy’s Bluewater fleet!",
+      "date": "2026-08-31",
+      "date_display": "31. 8. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10191-development-pre-order-giulio-cesare-caesar-adest-en",
+      "kind": "news"
+    },
+    {
+      "title": "Get the F-16XL in the Space Program Event!",
+      "summary": "The F-16XL is a variant of the F-16 featuring a delta wing, increased fuel capacity, and an expanded number of hardpoints. In 1981, the F-16XL lost the competition to the F-15E Strike Eagle; in 1988, the two…",
+      "date": "2026-08-31",
+      "date_display": "31. 8. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10190-event-get-the-f-16xl-in-the-space-program-event-en",
+      "kind": "news"
+    },
     {
       "title": "Changes to Bomber Survivability",
       "summary": "You may remember that we mentioned bomber damage model changes and increased survivability in the latest Community Update post. Well today we’re ready to share some details about the new damage model for…",
@@ -42,26 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1889",
       "kind": "update"
-    },
-    {
-      "title": "Pages of History (September): Night Witch",
-      "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From the USSR and Germany to Iran and India: participate in battles while using…",
-      "date": "2026-08-26",
-      "date_display": "26. 8. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10183-event-pages-of-history-september-night-witch-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pre-order: PLZ45 — Thunderous Response",
-      "summary": "Today, pre-orders for the PLZ45, the Chinese self-propelled gun with a long-barreled howitzer have started!",
-      "date": "2026-08-26",
-      "date_display": "26. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10184-development-pre-order-plz45-en",
-      "kind": "news"
     }
   ]
 };
