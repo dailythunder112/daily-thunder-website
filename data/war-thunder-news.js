@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-01T00:52:22+02:00",
-  "updated_display": "1. 9. 2026 o 00:52",
+  "updated_at": "2026-09-02T13:21:01+02:00",
+  "updated_display": "2. 9. 2026 o 13:21",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The German Tempest Mk V is Available at a Discount to Mark the Anniversary of its First Flight!",
+      "summary": "In 1941–42, Hawker worked on five variants of a new fighter intended to succeed the Typhoon. The versions differed in their engines, and the Mk V design, powered by the Napier Sabre II, was the first to be…",
+      "date": "2026-09-02",
+      "date_display": "2. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10196-shop-the-german-tempest-mk-v-is-available-at-a-discount-to-mark-the-anniversary-of-its-first-flight-en",
+      "kind": "news"
+    },
+    {
+      "title": "Get two new decals for the Victory over Japan Day!",
+      "summary": "Hostilities in the Pacific theater during the Second World war did not cease even as Europe marked the end of the war on its own soil. Japan refused to back down until the very end. However, faced with the…",
+      "date": "2026-09-02",
+      "date_display": "2. 9. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10194-event-get-two-new-decals-for-the-victory-over-japan-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "AW159 Wildcat HMA2: The Cat with Many Claws!",
+      "summary": "A modernized “Super Lynx” development, the AW159 is a multi-role naval helicopter with a huge number of air-launched munitions!",
+      "date": "2026-09-02",
+      "date_display": "2. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10193-development-aw159-wildcat-hma2-the-cat-with-many-claws-en",
+      "kind": "news"
+    },
     {
       "title": "Pre-order: Giulio Cesare — Caesar Adest!",
       "summary": "The die is cast captains, Giulio Cesare will be joining War Thunder in the next major update as a premium battleship for Italy’s Bluewater fleet!",
@@ -32,36 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10189-development-changes-to-bomber-survivability-en",
       "kind": "news"
-    },
-    {
-      "title": "Discount on the F-20A to Mark the Anniversary of its First Flight!",
-      "summary": "The F-20 fighter, developed by Northrop, made its maiden flight on August 30th 1982. It was an aircraft of such high quality that it was ready for mass production; however, all potential buyers ultimately…",
-      "date": "2026-08-28",
-      "date_display": "28. 8. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10187-shop-discount-on-the-f-20a-to-mark-the-anniversary-of-its-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Military Survival Kit!",
-      "summary": "A survival kit is a test pilot’s trusty companion, where everything essential is tightly packed and stowed under the seat. At one of NASA’s research centers, a new experimental machine is being readied for…",
-      "date": "2026-08-27",
-      "date_display": "27. 8. 2026",
-      "category": "SPECIAL",
-      "category_key": "special",
-      "url": "https://warthunder.com/en/news/10186-special-the-military-survival-kit-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.111",
-      "summary": "Changes to “Enduring Confrontation” mode",
-      "date": "2026-08-27",
-      "date_display": "27. 8. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1889",
-      "kind": "update"
     }
   ]
 };
