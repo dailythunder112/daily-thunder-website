@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-02T13:21:01+02:00",
-  "updated_display": "2. 9. 2026 o 13:21",
+  "updated_at": "2026-09-02T18:36:02+02:00",
+  "updated_display": "2. 9. 2026 o 18:36",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Updated Nuclear Escalation: Vietnam!",
+      "summary": "We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find…",
+      "date": "2026-09-02",
+      "date_display": "2. 9. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10195-event-updated-nuclear-escalation-vietnam-en",
+      "kind": "news"
+    },
     {
       "title": "The German Tempest Mk V is Available at a Discount to Mark the Anniversary of its First Flight!",
       "summary": "In 1941–42, Hawker worked on five variants of a new fighter intended to succeed the Typhoon. The versions differed in their engines, and the Mk V design, powered by the Napier Sabre II, was the first to be…",
@@ -34,6 +44,16 @@ window.DT_NEWS_DATA = {
       "kind": "news"
     },
     {
+      "title": "Update 2.57.1.126",
+      "summary": "An issue where AI SPAAGs without radar (e.g., ZSU-57-2, M42 Duster, Ostwind) would intercept bombs and rockets/missiles has been fixed.",
+      "date": "2026-09-02",
+      "date_display": "2. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1890",
+      "kind": "update"
+    },
+    {
       "title": "Pre-order: Giulio Cesare — Caesar Adest!",
       "summary": "The die is cast captains, Giulio Cesare will be joining War Thunder in the next major update as a premium battleship for Italy’s Bluewater fleet!",
       "date": "2026-08-31",
@@ -41,26 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10191-development-pre-order-giulio-cesare-caesar-adest-en",
-      "kind": "news"
-    },
-    {
-      "title": "Get the F-16XL in the Space Program Event!",
-      "summary": "The F-16XL is a variant of the F-16 featuring a delta wing, increased fuel capacity, and an expanded number of hardpoints. In 1981, the F-16XL lost the competition to the F-15E Strike Eagle; in 1988, the two…",
-      "date": "2026-08-31",
-      "date_display": "31. 8. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10190-event-get-the-f-16xl-in-the-space-program-event-en",
-      "kind": "news"
-    },
-    {
-      "title": "Changes to Bomber Survivability",
-      "summary": "You may remember that we mentioned bomber damage model changes and increased survivability in the latest Community Update post. Well today we’re ready to share some details about the new damage model for…",
-      "date": "2026-08-28",
-      "date_display": "28. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10189-development-changes-to-bomber-survivability-en",
       "kind": "news"
     }
   ]
