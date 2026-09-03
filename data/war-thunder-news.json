@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-02T18:36:02+02:00",
-  "updated_display": "2. 9. 2026 o 18:36",
+  "updated_at": "2026-09-03T13:17:13+02:00",
+  "updated_display": "3. 9. 2026 o 13:17",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Space Program: F-16XL",
+      "summary": "Meet the vehicle reward in the Space Program event, the American experimental delta-wing F-16XL!",
+      "date": "2026-09-03",
+      "date_display": "3. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10198-development-space-program-f-16xl-en",
+      "kind": "news"
+    },
     {
       "title": "Updated Nuclear Escalation: Vietnam!",
       "summary": "We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find…",
@@ -52,16 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1890",
       "kind": "update"
-    },
-    {
-      "title": "Pre-order: Giulio Cesare — Caesar Adest!",
-      "summary": "The die is cast captains, Giulio Cesare will be joining War Thunder in the next major update as a premium battleship for Italy’s Bluewater fleet!",
-      "date": "2026-08-31",
-      "date_display": "31. 8. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10191-development-pre-order-giulio-cesare-caesar-adest-en",
-      "kind": "news"
     }
   ]
 }
