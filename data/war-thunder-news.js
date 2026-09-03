@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-03T18:27:05+02:00",
-  "updated_display": "3. 9. 2026 o 18:27",
+  "updated_at": "2026-09-03T23:03:44+02:00",
+  "updated_display": "3. 9. 2026 o 23:03",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "\"Sky Odyssey\" Update Trailer!",
+      "summary": "Introducing the next major update trailer for War Thunder: Sky Odyssey!",
+      "date": "2026-09-03",
+      "date_display": "3. 9. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10202-video-sky-odyssey-update-trailer-en",
+      "kind": "news"
+    },
     {
       "title": "Pre-order: Ar 234 B-2 (WB 151) — From Hunted to Hunter!",
       "summary": "Today we’re taking a look at a rare example of an Ar 234 B-2 with a gunpod! The Ar 234 B-2 was the first ever jet bomber in War Thunder, and the first aircraft with no defensive or offensive guns as well!…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "EVENT",
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10195-event-updated-nuclear-escalation-vietnam-en",
-      "kind": "news"
-    },
-    {
-      "title": "The German Tempest Mk V is Available at a Discount to Mark the Anniversary of its First Flight!",
-      "summary": "In 1941–42, Hawker worked on five variants of a new fighter intended to succeed the Typhoon. The versions differed in their engines, and the Mk V design, powered by the Napier Sabre II, was the first to be…",
-      "date": "2026-09-02",
-      "date_display": "2. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10196-shop-the-german-tempest-mk-v-is-available-at-a-discount-to-mark-the-anniversary-of-its-first-flight-en",
       "kind": "news"
     }
   ]
