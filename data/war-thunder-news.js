@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-03T13:17:13+02:00",
-  "updated_display": "3. 9. 2026 o 13:17",
+  "updated_at": "2026-09-03T18:27:05+02:00",
+  "updated_display": "3. 9. 2026 o 18:27",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pre-order: Ar 234 B-2 (WB 151) — From Hunted to Hunter!",
+      "summary": "Today we’re taking a look at a rare example of an Ar 234 B-2 with a gunpod! The Ar 234 B-2 was the first ever jet bomber in War Thunder, and the first aircraft with no defensive or offensive guns as well!…",
+      "date": "2026-09-03",
+      "date_display": "3. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10199-development-pre-order-ar-234-b-2-wb-151-from-hunted-to-hunter-en",
+      "kind": "news"
+    },
+    {
+      "title": "The Type 74 Red Star Returns with a Discount to Mark its Service Entry Anniversary!",
+      "summary": "The Type 74 main battle tank, manufactured by Mitsubishi, was adopted by the Japanese Ground Self-Defense Force on September 5th 1974. The tank was not delivered to other countries, but remained in service…",
+      "date": "2026-09-03",
+      "date_display": "3. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10197-shop-the-type-74-red-star-returns-with-a-discount-to-mark-its-service-entry-anniversary-en",
+      "kind": "news"
+    },
     {
       "title": "Space Program: F-16XL",
       "summary": "Meet the vehicle reward in the Space Program event, the American experimental delta-wing F-16XL!",
@@ -12,6 +32,16 @@ window.DT_NEWS_DATA = {
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10198-development-space-program-f-16xl-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.132",
+      "summary": "Fixes and changes for Nuclear Escalation event.",
+      "date": "2026-09-03",
+      "date_display": "3. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1891",
+      "kind": "update"
     },
     {
       "title": "Updated Nuclear Escalation: Vietnam!",
@@ -32,36 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10196-shop-the-german-tempest-mk-v-is-available-at-a-discount-to-mark-the-anniversary-of-its-first-flight-en",
       "kind": "news"
-    },
-    {
-      "title": "Get two new decals for the Victory over Japan Day!",
-      "summary": "Hostilities in the Pacific theater during the Second World war did not cease even as Europe marked the end of the war on its own soil. Japan refused to back down until the very end. However, faced with the…",
-      "date": "2026-09-02",
-      "date_display": "2. 9. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10194-event-get-two-new-decals-for-the-victory-over-japan-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "AW159 Wildcat HMA2: The Cat with Many Claws!",
-      "summary": "A modernized “Super Lynx” development, the AW159 is a multi-role naval helicopter with a huge number of air-launched munitions!",
-      "date": "2026-09-02",
-      "date_display": "2. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10193-development-aw159-wildcat-hma2-the-cat-with-many-claws-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.126",
-      "summary": "An issue where AI SPAAGs without radar (e.g., ZSU-57-2, M42 Duster, Ostwind) would intercept bombs and rockets/missiles has been fixed.",
-      "date": "2026-09-02",
-      "date_display": "2. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1890",
-      "kind": "update"
     }
   ]
 };
