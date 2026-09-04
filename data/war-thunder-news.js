@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-03T23:03:44+02:00",
-  "updated_display": "3. 9. 2026 o 23:03",
+  "updated_at": "2026-09-04T13:20:20+02:00",
+  "updated_display": "4. 9. 2026 o 13:20",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Watch WTCS Pro League Major III and Earn Twitch Drops!",
+      "summary": "The stage is set for Pro League Major III! After battling through the qualification stage, the final 8 teams are ready to face off once again, with everything at stake.",
+      "date": "2026-09-04",
+      "date_display": "4. 9. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10201-esports-watch-wtcs-pro-league-major-iii-and-earn-twitch-drops-en",
+      "kind": "news"
+    },
     {
       "title": "\"Sky Odyssey\" Update Trailer!",
       "summary": "Introducing the next major update trailer for War Thunder: Sky Odyssey!",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1891",
       "kind": "update"
-    },
-    {
-      "title": "Updated Nuclear Escalation: Vietnam!",
-      "summary": "We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find…",
-      "date": "2026-09-02",
-      "date_display": "2. 9. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10195-event-updated-nuclear-escalation-vietnam-en",
-      "kind": "news"
     }
   ]
 };
