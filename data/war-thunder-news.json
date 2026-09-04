@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T13:20:20+02:00",
-  "updated_display": "4. 9. 2026 o 13:20",
+  "updated_at": "2026-09-04T18:22:51+02:00",
+  "updated_display": "4. 9. 2026 o 18:22",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -11,6 +11,26 @@
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10201-esports-watch-wtcs-pro-league-major-iii-and-earn-twitch-drops-en",
+      "kind": "news"
+    },
+    {
+      "title": "Greek Aircraft and Tanks Coming in Sky Odyssey!",
+      "summary": "The upcoming Sky Odyssey major update for War Thunder will introduce Greek aviation and ground vehicle sub-trees to Israel’s tech tree! Both of these countries have a long history of comprehensive military…",
+      "date": "2026-09-04",
+      "date_display": "4. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10204-development-greek-aircraft-and-tanks-coming-in-sky-odyssey-en",
+      "kind": "news"
+    },
+    {
+      "title": "Discounts for Pakistan Defense Day!",
+      "summary": "Defense Day is celebrated in Pakistan on September 6th. The date marks the beginning of the Indian offensive against Lahore during the 1965 war, an attack Pakistan successfully repelled. To commemorate the…",
+      "date": "2026-09-04",
+      "date_display": "4. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10203-shop-discounts-for-pakistan-defense-day-en",
       "kind": "news"
     },
     {
@@ -42,26 +62,6 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10197-shop-the-type-74-red-star-returns-with-a-discount-to-mark-its-service-entry-anniversary-en",
       "kind": "news"
-    },
-    {
-      "title": "Space Program: F-16XL",
-      "summary": "Meet the vehicle reward in the Space Program event, the American experimental delta-wing F-16XL!",
-      "date": "2026-09-03",
-      "date_display": "3. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10198-development-space-program-f-16xl-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.132",
-      "summary": "Fixes and changes for Nuclear Escalation event.",
-      "date": "2026-09-03",
-      "date_display": "3. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1891",
-      "kind": "update"
     }
   ]
 }
