@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-07T14:36:47+02:00",
-  "updated_display": "7. 9. 2026 o 14:36",
+  "updated_at": "2026-09-07T23:32:14+02:00",
+  "updated_display": "7. 9. 2026 o 23:32",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "FK-2000: Top Of Its Class",
+      "summary": "Meet China’s new anti-aircraft missile and gun system featuring 12 missiles and two six-barreled 30 mm guns!",
+      "date": "2026-09-07",
+      "date_display": "7. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10206-development-fk-2000-top-of-its-class-en",
+      "kind": "news"
+    },
     {
       "title": "Work-In-Progress: Regenerative Steering — Should We Add It? Try It & Leave Your Feedback!",
       "summary": "We’re working on regenerative steering for tanks and want to hear your opinion!",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "NOVINKA",
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10202-video-sky-odyssey-update-trailer-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pre-order: Ar 234 B-2 (WB 151) — From Hunted to Hunter!",
-      "summary": "Today we’re taking a look at a rare example of an Ar 234 B-2 with a gunpod! The Ar 234 B-2 was the first ever jet bomber in War Thunder, and the first aircraft with no defensive or offensive guns as well!…",
-      "date": "2026-09-03",
-      "date_display": "3. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10199-development-pre-order-ar-234-b-2-wb-151-from-hunted-to-hunter-en",
       "kind": "news"
     }
   ]
