@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-04T18:22:51+02:00",
-  "updated_display": "4. 9. 2026 o 18:22",
+  "updated_at": "2026-09-07T14:36:47+02:00",
+  "updated_display": "7. 9. 2026 o 14:36",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Work-In-Progress: Regenerative Steering — Should We Add It? Try It & Leave Your Feedback!",
+      "summary": "We’re working on regenerative steering for tanks and want to hear your opinion!",
+      "date": "2026-09-07",
+      "date_display": "7. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10207-development-work-in-progress-regenerative-steering-should-we-add-it-try-it-leave-your-feedback-en",
+      "kind": "news"
+    },
     {
       "title": "Watch WTCS Pro League Major III and Earn Twitch Drops!",
       "summary": "The stage is set for Pro League Major III! After battling through the qualification stage, the final 8 teams are ready to face off once again, with everything at stake.",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10199-development-pre-order-ar-234-b-2-wb-151-from-hunted-to-hunter-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Type 74 Red Star Returns with a Discount to Mark its Service Entry Anniversary!",
-      "summary": "The Type 74 main battle tank, manufactured by Mitsubishi, was adopted by the Japanese Ground Self-Defense Force on September 5th 1974. The tank was not delivered to other countries, but remained in service…",
-      "date": "2026-09-03",
-      "date_display": "3. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10197-shop-the-type-74-red-star-returns-with-a-discount-to-mark-its-service-entry-anniversary-en",
       "kind": "news"
     }
   ]
