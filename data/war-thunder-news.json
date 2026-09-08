@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T23:32:14+02:00",
-  "updated_display": "7. 9. 2026 o 23:32",
+  "updated_at": "2026-09-08T13:21:51+02:00",
+  "updated_display": "8. 9. 2026 o 13:21",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -24,16 +24,6 @@
       "kind": "news"
     },
     {
-      "title": "Watch WTCS Pro League Major III and Earn Twitch Drops!",
-      "summary": "The stage is set for Pro League Major III! After battling through the qualification stage, the final 8 teams are ready to face off once again, with everything at stake.",
-      "date": "2026-09-04",
-      "date_display": "4. 9. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10201-esports-watch-wtcs-pro-league-major-iii-and-earn-twitch-drops-en",
-      "kind": "news"
-    },
-    {
       "title": "Greek Aircraft and Tanks Coming in Sky Odyssey!",
       "summary": "The upcoming Sky Odyssey major update for War Thunder will introduce Greek aviation and ground vehicle sub-trees to Israel’s tech tree! Both of these countries have a long history of comprehensive military…",
       "date": "2026-09-04",
@@ -51,6 +41,16 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10203-shop-discounts-for-pakistan-defense-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "Watch WTCS Pro League Major III and Earn Twitch Drops!",
+      "summary": "The stage is set for Pro League Major III! After battling through the qualification stage, the final 8 teams are ready to face off once again, with everything at stake.",
+      "date": "2026-09-04",
+      "date_display": "4. 9. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10201-esports-watch-wtcs-pro-league-major-iii-and-earn-twitch-drops-en",
       "kind": "news"
     },
     {
