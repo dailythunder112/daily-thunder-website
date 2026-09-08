@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-08T13:21:51+02:00",
-  "updated_display": "8. 9. 2026 o 13:21",
+  "updated_at": "2026-09-08T18:39:41+02:00",
+  "updated_display": "8. 9. 2026 o 18:39",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Harimau: Tiger, Tiger, Burning Bright",
+      "summary": "The Indonesian Harimau light tank, equipped with a 105 mm high-pressure Cockerill gun, will be a new addition to Japan’s ground forces tree!",
+      "date": "2026-09-08",
+      "date_display": "8. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10209-development-harimau-tiger-tiger-burning-bright-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.57.1.135",
+      "summary": "A bug that caused the automatic lead for the guns to be calculated incorrectly in Arcade Battles has been fixed.",
+      "date": "2026-09-08",
+      "date_display": "8. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1892",
+      "kind": "update"
+    },
     {
       "title": "FK-2000: Top Of Its Class",
       "summary": "Meet China’s new anti-aircraft missile and gun system featuring 12 missiles and two six-barreled 30 mm guns!",
@@ -41,26 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10203-shop-discounts-for-pakistan-defense-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Watch WTCS Pro League Major III and Earn Twitch Drops!",
-      "summary": "The stage is set for Pro League Major III! After battling through the qualification stage, the final 8 teams are ready to face off once again, with everything at stake.",
-      "date": "2026-09-04",
-      "date_display": "4. 9. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10201-esports-watch-wtcs-pro-league-major-iii-and-earn-twitch-drops-en",
-      "kind": "news"
-    },
-    {
-      "title": "\"Sky Odyssey\" Update Trailer!",
-      "summary": "Introducing the next major update trailer for War Thunder: Sky Odyssey!",
-      "date": "2026-09-03",
-      "date_display": "3. 9. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10202-video-sky-odyssey-update-trailer-en",
       "kind": "news"
     }
   ]
