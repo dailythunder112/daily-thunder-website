@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-08T18:39:41+02:00",
-  "updated_display": "8. 9. 2026 o 18:39",
+  "updated_at": "2026-09-09T13:26:00+02:00",
+  "updated_display": "9. 9. 2026 o 13:26",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Hawk T Mk1A and Pre-order for the Hawk T Mk1A (FRP) — Back to School",
+      "summary": "The two-seat training variant of the Hawk series jet adapted for ground attack swoops into the next major update!",
+      "date": "2026-09-09",
+      "date_display": "9. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10214-development-pre-order-hawk-t-mk1a-back-to-school-en",
+      "kind": "news"
+    },
+    {
+      "title": "TGS 2026 Is Here: Grab Your Starter Pack at a Discount!",
+      "summary": "The Tokyo Game Show is just around the corner and we’re celebrating in style! For a limited time, all starter packs are available at a special reduced price on PlayStation.",
+      "date": "2026-09-09",
+      "date_display": "9. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10211-shop-tgs-2026-is-here-grab-your-starter-pack-at-a-discount-en",
+      "kind": "news"
+    },
+    {
+      "title": "Arjun Mk 1: Archer Prince!",
+      "summary": "Today we’re taking a look at India’s domestically designed and built Arjun Mk 1 main battle tank, coming to the British tank research tree.",
+      "date": "2026-09-09",
+      "date_display": "9. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10208-development-arjun-mk-1-archer-prince-en",
+      "kind": "news"
+    },
     {
       "title": "Harimau: Tiger, Tiger, Burning Bright",
       "summary": "The Indonesian Harimau light tank, equipped with a 105 mm high-pressure Cockerill gun, will be a new addition to Japan’s ground forces tree!",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10206-development-fk-2000-top-of-its-class-en",
-      "kind": "news"
-    },
-    {
-      "title": "Work-In-Progress: Regenerative Steering — Should We Add It? Try It & Leave Your Feedback!",
-      "summary": "We’re working on regenerative steering for tanks and want to hear your opinion!",
-      "date": "2026-09-07",
-      "date_display": "7. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10207-development-work-in-progress-regenerative-steering-should-we-add-it-try-it-leave-your-feedback-en",
-      "kind": "news"
-    },
-    {
-      "title": "Greek Aircraft and Tanks Coming in Sky Odyssey!",
-      "summary": "The upcoming Sky Odyssey major update for War Thunder will introduce Greek aviation and ground vehicle sub-trees to Israel’s tech tree! Both of these countries have a long history of comprehensive military…",
-      "date": "2026-09-04",
-      "date_display": "4. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10204-development-greek-aircraft-and-tanks-coming-in-sky-odyssey-en",
-      "kind": "news"
-    },
-    {
-      "title": "Discounts for Pakistan Defense Day!",
-      "summary": "Defense Day is celebrated in Pakistan on September 6th. The date marks the beginning of the Indian offensive against Lahore during the 1965 war, an attack Pakistan successfully repelled. To commemorate the…",
-      "date": "2026-09-04",
-      "date_display": "4. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10203-shop-discounts-for-pakistan-defense-day-en",
       "kind": "news"
     }
   ]
