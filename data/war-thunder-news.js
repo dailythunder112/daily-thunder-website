@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-09T13:26:00+02:00",
-  "updated_display": "9. 9. 2026 o 13:26",
+  "updated_at": "2026-09-10T13:22:37+02:00",
+  "updated_display": "10. 9. 2026 o 13:22",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Monthly Decals for September!",
+      "summary": "Hey everyone! Thanks for stopping by for another monthly decals post. We’re all hard at work on the Sky Odyssey major update at the moment, but we can’t forget to give you another round of decals to collect!…",
+      "date": "2026-09-10",
+      "date_display": "10. 9. 2026",
+      "category": "DECALS",
+      "category_key": "decals",
+      "url": "https://warthunder.com/en/news/10217-decals-monthly-decals-for-september-en",
+      "kind": "news"
+    },
+    {
+      "title": "EMBT: The Eurotank",
+      "summary": "Today we’re checking out the new EMBT, which combines a Leopard chassis and a Leclerc turret!",
+      "date": "2026-09-10",
+      "date_display": "10. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10220-development-embt-the-eurotank-en",
+      "kind": "news"
+    },
     {
       "title": "Hawk T Mk1A and Pre-order for the Hawk T Mk1A (FRP) — Back to School",
       "summary": "The two-seat training variant of the Hawk series jet adapted for ground attack swoops into the next major update!",
@@ -41,26 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10209-development-harimau-tiger-tiger-burning-bright-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.57.1.135",
-      "summary": "A bug that caused the automatic lead for the guns to be calculated incorrectly in Arcade Battles has been fixed.",
-      "date": "2026-09-08",
-      "date_display": "8. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1892",
-      "kind": "update"
-    },
-    {
-      "title": "FK-2000: Top Of Its Class",
-      "summary": "Meet China’s new anti-aircraft missile and gun system featuring 12 missiles and two six-barreled 30 mm guns!",
-      "date": "2026-09-07",
-      "date_display": "7. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10206-development-fk-2000-top-of-its-class-en",
       "kind": "news"
     }
   ]
