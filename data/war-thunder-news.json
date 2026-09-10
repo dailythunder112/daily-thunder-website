@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-09-10T13:22:37+02:00",
-  "updated_display": "10. 9. 2026 o 13:22",
+  "updated_at": "2026-09-10T18:25:50+02:00",
+  "updated_display": "10. 9. 2026 o 18:25",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "40 New Camouflages Now Available in the WTCS Trophy VI!",
+      "summary": "Introducing the WTCS Trophy VI, containing 40 unique camouflages in both semi-historical and fictional styles for air and ground vehicles! For this trophy, we’ve continued our trend of covering new and older…",
+      "date": "2026-09-10",
+      "date_display": "10. 9. 2026",
+      "category": "MARKET",
+      "category_key": "market",
+      "url": "https://warthunder.com/en/news/10215-market-40-new-camouflages-now-available-in-the-wtcs-trophy-vi-en",
+      "kind": "news"
+    },
+    {
+      "title": "F-102A Delta Dagger: The “Bear” Hunter",
+      "summary": "The world’s first production supersonic delta-wing interceptor bursts into the skies of War Thunder!",
+      "date": "2026-09-10",
+      "date_display": "10. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10218-development-f-102a-delta-dagger-the-bear-hunter-en",
+      "kind": "news"
+    },
     {
       "title": "Monthly Decals for September!",
       "summary": "Hey everyone! Thanks for stopping by for another monthly decals post. We’re all hard at work on the Sky Odyssey major update at the moment, but we can’t forget to give you another round of decals to collect!…",
@@ -41,26 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10211-shop-tgs-2026-is-here-grab-your-starter-pack-at-a-discount-en",
-      "kind": "news"
-    },
-    {
-      "title": "Arjun Mk 1: Archer Prince!",
-      "summary": "Today we’re taking a look at India’s domestically designed and built Arjun Mk 1 main battle tank, coming to the British tank research tree.",
-      "date": "2026-09-09",
-      "date_display": "9. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10208-development-arjun-mk-1-archer-prince-en",
-      "kind": "news"
-    },
-    {
-      "title": "Harimau: Tiger, Tiger, Burning Bright",
-      "summary": "The Indonesian Harimau light tank, equipped with a 105 mm high-pressure Cockerill gun, will be a new addition to Japan’s ground forces tree!",
-      "date": "2026-09-08",
-      "date_display": "8. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10209-development-harimau-tiger-tiger-burning-bright-en",
       "kind": "news"
     }
   ]
