@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-11T13:24:19+02:00",
-  "updated_display": "11. 9. 2026 o 13:24",
+  "updated_at": "2026-09-11T18:30:13+02:00",
+  "updated_display": "11. 9. 2026 o 18:30",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "MiG-35: The Last MiG",
+      "summary": "Meet the multi-role MiG-35, which combines the entire combat experience of the legendary MiG design bureau into one formidable aircraft.",
+      "date": "2026-09-11",
+      "date_display": "11. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10210-development-mig-35s-the-last-mig-en",
+      "kind": "news"
+    },
+    {
+      "title": "Registration Is Now Open for WTCS Challenger League Major III!",
+      "summary": "The road to the WTCS Challenger League title begins now! With Major III on the horizon, teams are getting ready to battle their way through the Open Qualifiers and secure their place among the best. Open…",
+      "date": "2026-09-11",
+      "date_display": "11. 9. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10224-esports-registration-is-now-open-for-wtcs-challenger-league-major-iii-en",
+      "kind": "news"
+    },
+    {
+      "title": "H145M: Angry Dragonfly",
+      "summary": "Germany’s light multirole helicopter, the H145M, is armed with the SPIKE-ER ATGM and the new FZ275 small guided missiles!",
+      "date": "2026-09-11",
+      "date_display": "11. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10219-development-h145m-angry-dragonfly-en",
+      "kind": "news"
+    },
     {
       "title": "Get the La-11 and Dolgushin’s La-7 at a Discount for S.A. Lavochkin’s Birthday!",
       "summary": "Semyon Alekseyevich Lavochkin was born on September 11th 1900; he was a Soviet aircraft designer renowned for the “La” series of aircraft. The most famous among them, the LaGG-3, La-5, and La-7, served many…",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10218-development-f-102a-delta-dagger-the-bear-hunter-en",
-      "kind": "news"
-    },
-    {
-      "title": "Monthly Decals for September!",
-      "summary": "Hey everyone! Thanks for stopping by for another monthly decals post. We’re all hard at work on the Sky Odyssey major update at the moment, but we can’t forget to give you another round of decals to collect!…",
-      "date": "2026-09-10",
-      "date_display": "10. 9. 2026",
-      "category": "DECALS",
-      "category_key": "decals",
-      "url": "https://warthunder.com/en/news/10217-decals-monthly-decals-for-september-en",
-      "kind": "news"
-    },
-    {
-      "title": "EMBT: The Eurotank",
-      "summary": "Today we’re checking out the new EMBT, which combines a Leopard chassis and a Leclerc turret!",
-      "date": "2026-09-10",
-      "date_display": "10. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10220-development-embt-the-eurotank-en",
-      "kind": "news"
-    },
-    {
-      "title": "Hawk T Mk1A and Pre-order for the Hawk T Mk1A (FRP) — Back to School",
-      "summary": "The two-seat training variant of the Hawk series jet adapted for ground attack swoops into the next major update!",
-      "date": "2026-09-09",
-      "date_display": "9. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10214-development-pre-order-hawk-t-mk1a-back-to-school-en",
       "kind": "news"
     }
   ]
