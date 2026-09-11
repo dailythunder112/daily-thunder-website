@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-10T18:25:50+02:00",
-  "updated_display": "10. 9. 2026 o 18:25",
+  "updated_at": "2026-09-11T13:24:19+02:00",
+  "updated_display": "11. 9. 2026 o 13:24",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Get the La-11 and Dolgushin’s La-7 at a Discount for S.A. Lavochkin’s Birthday!",
+      "summary": "Semyon Alekseyevich Lavochkin was born on September 11th 1900; he was a Soviet aircraft designer renowned for the “La” series of aircraft. The most famous among them, the LaGG-3, La-5, and La-7, served many…",
+      "date": "2026-09-11",
+      "date_display": "11. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10223-shop-get-the-la-11-and-dolgushins-la-7-at-a-discount-for-sa-lavochkins-birthday-en",
+      "kind": "news"
+    },
     {
       "title": "40 New Camouflages Now Available in the WTCS Trophy VI!",
       "summary": "Introducing the WTCS Trophy VI, containing 40 unique camouflages in both semi-historical and fictional styles for air and ground vehicles! For this trophy, we’ve continued our trend of covering new and older…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10214-development-pre-order-hawk-t-mk1a-back-to-school-en",
-      "kind": "news"
-    },
-    {
-      "title": "TGS 2026 Is Here: Grab Your Starter Pack at a Discount!",
-      "summary": "The Tokyo Game Show is just around the corner and we’re celebrating in style! For a limited time, all starter packs are available at a special reduced price on PlayStation.",
-      "date": "2026-09-09",
-      "date_display": "9. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10211-shop-tgs-2026-is-here-grab-your-starter-pack-at-a-discount-en",
       "kind": "news"
     }
   ]
