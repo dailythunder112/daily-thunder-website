@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-14T14:51:00+02:00",
-  "updated_display": "14. 9. 2026 o 14:51",
+  "updated_at": "2026-09-14T23:50:54+02:00",
+  "updated_display": "14. 9. 2026 o 23:50",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "HMS Lion: One Last Roar",
+      "summary": "Say hello to HMS Lion! While Vanguard was Britain’s last true battleship, Lion was planned to be their ultimate final design. While she was never fully built, she was laid down, so we’re happy to welcome her…",
+      "date": "2026-09-14",
+      "date_display": "14. 9. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10228-development-hms-lion-one-last-roar-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.57.1.140",
       "summary": "A bug that caused the game to crash at launch on Mac with Intel HD 500, Iris, Iris Pro graphics and with NVIDIA GeForce 600 and 700 series GPUs has been fixed.",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10223-shop-get-the-la-11-and-dolgushins-la-7-at-a-discount-for-sa-lavochkins-birthday-en",
-      "kind": "news"
-    },
-    {
-      "title": "40 New Camouflages Now Available in the WTCS Trophy VI!",
-      "summary": "Introducing the WTCS Trophy VI, containing 40 unique camouflages in both semi-historical and fictional styles for air and ground vehicles! For this trophy, we’ve continued our trend of covering new and older…",
-      "date": "2026-09-10",
-      "date_display": "10. 9. 2026",
-      "category": "MARKET",
-      "category_key": "market",
-      "url": "https://warthunder.com/en/news/10215-market-40-new-camouflages-now-available-in-the-wtcs-trophy-vi-en",
       "kind": "news"
     }
   ]
