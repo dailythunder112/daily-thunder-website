@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-11T18:30:13+02:00",
-  "updated_display": "11. 9. 2026 o 18:30",
+  "updated_at": "2026-09-14T14:51:00+02:00",
+  "updated_display": "14. 9. 2026 o 14:51",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.57.1.140",
+      "summary": "A bug that caused the game to crash at launch on Mac with Intel HD 500, Iris, Iris Pro graphics and with NVIDIA GeForce 600 and 700 series GPUs has been fixed.",
+      "date": "2026-09-14",
+      "date_display": "14. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1893",
+      "kind": "update"
+    },
     {
       "title": "MiG-35: The Last MiG",
       "summary": "Meet the multi-role MiG-35, which combines the entire combat experience of the legendary MiG design bureau into one formidable aircraft.",
@@ -51,16 +61,6 @@
       "category": "MARKET",
       "category_key": "market",
       "url": "https://warthunder.com/en/news/10215-market-40-new-camouflages-now-available-in-the-wtcs-trophy-vi-en",
-      "kind": "news"
-    },
-    {
-      "title": "F-102A Delta Dagger: The “Bear” Hunter",
-      "summary": "The world’s first production supersonic delta-wing interceptor bursts into the skies of War Thunder!",
-      "date": "2026-09-10",
-      "date_display": "10. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10218-development-f-102a-delta-dagger-the-bear-hunter-en",
       "kind": "news"
     }
   ]
