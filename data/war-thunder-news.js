@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-14T23:50:54+02:00",
-  "updated_display": "14. 9. 2026 o 23:50",
+  "updated_at": "2026-09-15T13:46:12+02:00",
+  "updated_display": "15. 9. 2026 o 13:46",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Decal & Discounts for Battle of Britain Day!",
+      "summary": "On September 15th 1940, one of the most important air battles in British history took place, resulting in a strategic victory for Great Britain. By repelling numerous Luftwaffe attacks, Britain prevented…",
+      "date": "2026-09-15",
+      "date_display": "15. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10231-shop-special-a-decal-discounts-for-battle-of-britain-day-en",
+      "kind": "news"
+    },
     {
       "title": "HMS Lion: One Last Roar",
       "summary": "Say hello to HMS Lion! While Vanguard was Britain’s last true battleship, Lion was planned to be their ultimate final design. While she was never fully built, she was laid down, so we’re happy to welcome her…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10219-development-h145m-angry-dragonfly-en",
-      "kind": "news"
-    },
-    {
-      "title": "Get the La-11 and Dolgushin’s La-7 at a Discount for S.A. Lavochkin’s Birthday!",
-      "summary": "Semyon Alekseyevich Lavochkin was born on September 11th 1900; he was a Soviet aircraft designer renowned for the “La” series of aircraft. The most famous among them, the LaGG-3, La-5, and La-7, served many…",
-      "date": "2026-09-11",
-      "date_display": "11. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10223-shop-get-the-la-11-and-dolgushins-la-7-at-a-discount-for-sa-lavochkins-birthday-en",
       "kind": "news"
     }
   ]
