@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-15T13:46:12+02:00",
-  "updated_display": "15. 9. 2026 o 13:46",
+  "updated_at": "2026-09-15T23:23:11+02:00",
+  "updated_display": "15. 9. 2026 o 23:23",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Planned Technical Works on 16.09.2026",
+      "summary": "Hey everyone, on September 16th from 08:00 GMT, the War Thunder game servers may be unavailable due to the release of the Sky Odyssey major update!",
+      "date": "2026-09-15",
+      "date_display": "15. 9. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10233-planned-technical-works-on-16092026-en",
+      "kind": "news"
+    },
     {
       "title": "A Decal & Discounts for Battle of Britain Day!",
       "summary": "On September 15th 1940, one of the most important air battles in British history took place, resulting in a strategic victory for Great Britain. By repelling numerous Luftwaffe attacks, Britain prevented…",
@@ -51,16 +61,6 @@
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10224-esports-registration-is-now-open-for-wtcs-challenger-league-major-iii-en",
-      "kind": "news"
-    },
-    {
-      "title": "H145M: Angry Dragonfly",
-      "summary": "Germany’s light multirole helicopter, the H145M, is armed with the SPIKE-ER ATGM and the new FZ275 small guided missiles!",
-      "date": "2026-09-11",
-      "date_display": "11. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10219-development-h145m-angry-dragonfly-en",
       "kind": "news"
     }
   ]
