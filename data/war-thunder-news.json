@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-09-15T23:23:11+02:00",
-  "updated_display": "15. 9. 2026 o 23:23",
+  "updated_at": "2026-09-16T13:37:50+02:00",
+  "updated_display": "16. 9. 2026 o 13:37",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
-      "title": "Planned Technical Works on 16.09.2026",
-      "summary": "Hey everyone, on September 16th from 08:00 GMT, the War Thunder game servers may be unavailable due to the release of the Sky Odyssey major update!",
-      "date": "2026-09-15",
-      "date_display": "15. 9. 2026",
+      "title": "Meet the “Sky Odyssey” Major Update!",
+      "summary": "Welcome to Sky Odyssey! This major update introduces a diverse selection of new vehicles, including aircraft and tanks from Greece, the CA-27, the Indian Arjun Mk 1, and the Indonesian Harimau!",
+      "date": "2026-09-16",
+      "date_display": "16. 9. 2026",
       "category": "NOVINKA",
       "category_key": "news",
-      "url": "https://warthunder.com/en/news/10233-planned-technical-works-on-16092026-en",
+      "url": "https://warthunder.com/en/news/10229-meet-the-sky-odyssey-major-update-en",
       "kind": "news"
+    },
+    {
+      "title": "War Thunder \"Sky Odyssey\" - Changelog",
+      "summary": "This major update introduces a diverse selection of new vehicles, including aircraft and tanks from Greece, the CA-27, the Indian Arjun Mk 1, and the Indonesian Harimau. Additionally, Darwin Hill, set within…",
+      "date": "2026-09-16",
+      "date_display": "16. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1894",
+      "kind": "update"
     },
     {
       "title": "A Decal & Discounts for Battle of Britain Day!",
@@ -51,16 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10210-development-mig-35s-the-last-mig-en",
-      "kind": "news"
-    },
-    {
-      "title": "Registration Is Now Open for WTCS Challenger League Major III!",
-      "summary": "The road to the WTCS Challenger League title begins now! With Major III on the horizon, teams are getting ready to battle their way through the Open Qualifiers and secure their place among the best. Open…",
-      "date": "2026-09-11",
-      "date_display": "11. 9. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10224-esports-registration-is-now-open-for-wtcs-challenger-league-major-iii-en",
       "kind": "news"
     }
   ]
