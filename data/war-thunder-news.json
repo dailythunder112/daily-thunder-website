@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T13:44:27+02:00",
-  "updated_display": "17. 9. 2026 o 13:44",
+  "updated_at": "2026-09-17T19:01:32+02:00",
+  "updated_display": "17. 9. 2026 o 19:01",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -22,6 +22,16 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10235-shop-the-yp-38-is-available-to-purchase-at-a-discount-on-the-anniversary-of-its-first-flight-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.11",
+      "summary": "Numerous bug fixes",
+      "date": "2026-09-17",
+      "date_display": "17. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1895",
+      "kind": "update"
     },
     {
       "title": "Meet the “Sky Odyssey” Major Update!",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10231-shop-special-a-decal-discounts-for-battle-of-britain-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "HMS Lion: One Last Roar",
-      "summary": "Say hello to HMS Lion! While Vanguard was Britain’s last true battleship, Lion was planned to be their ultimate final design. While she was never fully built, she was laid down, so we’re happy to welcome her…",
-      "date": "2026-09-14",
-      "date_display": "14. 9. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10228-development-hms-lion-one-last-roar-en",
       "kind": "news"
     }
   ]
