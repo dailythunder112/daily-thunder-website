@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-18T18:25:41+02:00",
-  "updated_display": "18. 9. 2026 o 18:25",
+  "updated_at": "2026-09-22T18:58:47+02:00",
+  "updated_display": "22. 9. 2026 o 18:58",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.59.0.22",
+      "summary": "Hawk (all variants) — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.",
+      "date": "2026-09-22",
+      "date_display": "22. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1897",
+      "kind": "update"
+    },
     {
       "title": "The Pro League Major III has Concluded, the Grand Finals Are Coming!",
       "summary": "Last weekend marked the conclusion of the WTCS Pro League Major III, the third and last pro major event of the War Thunder Championship Series regular season.",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10236-shop-uss-arkansas-returns-with-a-discount-for-its-commissioning-anniversary-en",
-      "kind": "news"
-    },
-    {
-      "title": "The YP-38 is Available to Purchase at a Discount on the Anniversary of its First Flight!",
-      "summary": "The YP-38, the second prototype of the Lockheed P-38 Lightning fighter, made its maiden flight on September 17th 1940. A total of 13 YP-38 aircraft were produced; they were used for testing and training. All…",
-      "date": "2026-09-17",
-      "date_display": "17. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10235-shop-the-yp-38-is-available-to-purchase-at-a-discount-on-the-anniversary-of-its-first-flight-en",
       "kind": "news"
     }
   ]
