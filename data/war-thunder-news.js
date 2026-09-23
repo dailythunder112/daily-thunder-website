@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-23T19:03:14+02:00",
-  "updated_display": "23. 9. 2026 o 19:03",
+  "updated_at": "2026-09-23T23:31:18+02:00",
+  "updated_display": "23. 9. 2026 o 23:31",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Moments of Valor: Saudi Arabia",
+      "summary": "Abdulaziz ibn Abdurrahman Al Saud became the Emir of Riyadh in 1902 and, over the next 30 years, devoted all his efforts to uniting the surrounding emirates under his leadership. He succeeded, and on…",
+      "date": "2026-09-23",
+      "date_display": "23. 9. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10241-shop-video-moments-of-valor-saudi-arabia-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.59.0.28",
       "summary": "Mosquito FB Mk VI (UK), Mosquito FB Mk VI (Sweden), Mosquito FB Mk VI ASH, Mosquito FB.Mk.26, Mosquito TR.Mk.33 — an issue where one of the four 20 mm cannons was missing from the X-ray view has been fixed.",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10239-shop-special-a-decal-a-discount-a-rare-vehicle-for-the-us-air-forces-birthday-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.13",
-      "summary": "A bug that caused the Air Realistic Battles multiplier to not apply to mission score earned in the Nuclear Escalation and Bullet Hell modes for “Marks of distinction for pilots” in the Space Program event has…",
-      "date": "2026-09-18",
-      "date_display": "18. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1896",
-      "kind": "update"
     }
   ]
 };
