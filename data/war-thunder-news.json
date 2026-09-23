@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-22T18:58:47+02:00",
-  "updated_display": "22. 9. 2026 o 18:58",
+  "updated_at": "2026-09-23T19:03:14+02:00",
+  "updated_display": "23. 9. 2026 o 19:03",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.59.0.28",
+      "summary": "Mosquito FB Mk VI (UK), Mosquito FB Mk VI (Sweden), Mosquito FB Mk VI ASH, Mosquito FB.Mk.26, Mosquito TR.Mk.33 — an issue where one of the four 20 mm cannons was missing from the X-ray view has been fixed.",
+      "date": "2026-09-23",
+      "date_display": "23. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1898",
+      "kind": "update"
+    },
     {
       "title": "Update 2.59.0.22",
       "summary": "Hawk (all variants) — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.",
@@ -52,16 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1896",
       "kind": "update"
-    },
-    {
-      "title": "USS Arkansas Returns with a Discount for its Commissioning Anniversary!",
-      "summary": "The dreadnought USS Arkansas was laid down in January 1910, launched a year later, and commissioned into the U.S. Navy on September 17th 1912. During the Second World War, she provided fire support during the…",
-      "date": "2026-09-17",
-      "date_display": "17. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10236-shop-uss-arkansas-returns-with-a-discount-for-its-commissioning-anniversary-en",
-      "kind": "news"
     }
   ]
 }
