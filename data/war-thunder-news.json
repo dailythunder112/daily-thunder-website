@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-28T15:59:00+02:00",
-  "updated_display": "28. 9. 2026 o 15:59",
+  "updated_at": "2026-09-29T01:18:00+02:00",
+  "updated_display": "29. 9. 2026 o 01:18",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Planned Technical Works on 29.09.2026",
+      "summary": "Hey everyone, on September 29th from 07:00 GMT, the War Thunder game servers may be unavailable due to the short planned maintenance. Thank you for your understanding.",
+      "date": "2026-09-28",
+      "date_display": "28. 9. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10245-planned-technical-works-on-29092026-en",
+      "kind": "news"
+    },
     {
       "title": "Get the AMV (BMP-3) in the Desert Predator Event!",
       "summary": "A hybrid combat vehicle featuring the Patria AMV chassis and a BMP-3 turret was unveiled for the first time at the IDEX 2007 exhibition in Abu Dhabi. To produce these models, the hull of the Finnish vehicle…",
@@ -51,16 +61,6 @@
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10237-esports-the-pro-league-major-iii-has-concluded-the-grand-finals-are-coming-en",
-      "kind": "news"
-    },
-    {
-      "title": "Discounts on Rare Variants of the Mi-24 for the Anniversary of its First Flight!",
-      "summary": "The maiden flight of the first production model of the Soviet Mi-24 attack helicopter took place on September 19th 1969. Capable of carrying up to eight troops and withstanding small arms fire, it also held…",
-      "date": "2026-09-18",
-      "date_display": "18. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10238-shop-discounts-on-rare-variants-of-the-mi-24-for-the-anniversary-of-its-first-flight-en",
       "kind": "news"
     }
   ]
