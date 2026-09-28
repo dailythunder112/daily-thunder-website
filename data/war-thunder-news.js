@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-23T23:31:18+02:00",
-  "updated_display": "23. 9. 2026 o 23:31",
+  "updated_at": "2026-09-28T15:59:00+02:00",
+  "updated_display": "28. 9. 2026 o 15:59",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Get the AMV (BMP-3) in the Desert Predator Event!",
+      "summary": "A hybrid combat vehicle featuring the Patria AMV chassis and a BMP-3 turret was unveiled for the first time at the IDEX 2007 exhibition in Abu Dhabi. To produce these models, the hull of the Finnish vehicle…",
+      "date": "2026-09-28",
+      "date_display": "28. 9. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10243-event-get-the-amv-bmp-3-in-the-desert-predator-event-en",
+      "kind": "news"
+    },
     {
       "title": "Moments of Valor: Saudi Arabia",
       "summary": "Abdulaziz ibn Abdurrahman Al Saud became the Emir of Riyadh in 1902 and, over the next 30 years, devoted all his efforts to uniting the surrounding emirates under his leadership. He succeeded, and on…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10238-shop-discounts-on-rare-variants-of-the-mi-24-for-the-anniversary-of-its-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Decal, a Discount, & a Rare Vehicle for the US Air Force’s Birthday!",
-      "summary": "On September 18th 1947, the United States Air Force became a separate branch of the armed forces. Its personnel strength peaked during the Korean War, when it comprised nearly a million people; around 900,000…",
-      "date": "2026-09-18",
-      "date_display": "18. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10239-shop-special-a-decal-a-discount-a-rare-vehicle-for-the-us-air-forces-birthday-en",
       "kind": "news"
     }
   ]
