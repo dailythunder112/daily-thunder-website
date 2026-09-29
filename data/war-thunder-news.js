@@ -1,17 +1,17 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-29T01:18:00+02:00",
-  "updated_display": "29. 9. 2026 o 01:18",
+  "updated_at": "2026-09-29T14:56:09+02:00",
+  "updated_display": "29. 9. 2026 o 14:56",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
-      "title": "Planned Technical Works on 29.09.2026",
-      "summary": "Hey everyone, on September 29th from 07:00 GMT, the War Thunder game servers may be unavailable due to the short planned maintenance. Thank you for your understanding.",
-      "date": "2026-09-28",
-      "date_display": "28. 9. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10245-planned-technical-works-on-29092026-en",
-      "kind": "news"
+      "title": "Update 2.59.0.38",
+      "summary": "T58 — a bug that caused the stowage in the hull and not in the turret to count as the first-stage ammo has been fixed.",
+      "date": "2026-09-29",
+      "date_display": "29. 9. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1899",
+      "kind": "update"
     },
     {
       "title": "Get the AMV (BMP-3) in the Desert Predator Event!",
