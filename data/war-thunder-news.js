@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-30T14:37:30+02:00",
-  "updated_display": "30. 9. 2026 o 14:37",
+  "updated_at": "2026-10-01T00:17:47+02:00",
+  "updated_display": "1. 10. 2026 o 00:17",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Fair Play: September 2026",
+      "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
+      "date": "2026-09-30",
+      "date_display": "30. 9. 2026",
+      "category": "FAIR PLAY",
+      "category_key": "fair_play",
+      "url": "https://warthunder.com/en/news/10250-fair-play-fair-play-september-2026-en",
+      "kind": "news"
+    },
     {
       "title": "40 New User-Created Camouflages in the Sky Odyssey Trophy!",
       "summary": "The Sky Odyssey major update is named after Greek vehicles, and the trophy of the same name naturally includes camouflages for vehicles recently added to the game: both Greek and those from other nations!…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1898",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.59.0.22",
-      "summary": "Hawk (all variants) — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.",
-      "date": "2026-09-22",
-      "date_display": "22. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1897",
       "kind": "update"
     }
   ]
