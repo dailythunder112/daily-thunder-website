@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-09-29T14:56:09+02:00",
-  "updated_display": "29. 9. 2026 o 14:56",
+  "updated_at": "2026-09-30T14:37:30+02:00",
+  "updated_display": "30. 9. 2026 o 14:37",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "40 New User-Created Camouflages in the Sky Odyssey Trophy!",
+      "summary": "The Sky Odyssey major update is named after Greek vehicles, and the trophy of the same name naturally includes camouflages for vehicles recently added to the game: both Greek and those from other nations!…",
+      "date": "2026-09-30",
+      "date_display": "30. 9. 2026",
+      "category": "MARKET",
+      "category_key": "market",
+      "url": "https://warthunder.com/en/news/10244-market-40-new-user-created-camouflages-in-the-sky-odyssey-trophy-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.59.0.38",
       "summary": "T58 — a bug that caused the stowage in the hull and not in the turret to count as the first-stage ammo has been fixed.",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1897",
       "kind": "update"
-    },
-    {
-      "title": "The Pro League Major III has Concluded, the Grand Finals Are Coming!",
-      "summary": "Last weekend marked the conclusion of the WTCS Pro League Major III, the third and last pro major event of the War Thunder Championship Series regular season.",
-      "date": "2026-09-18",
-      "date_display": "18. 9. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10237-esports-the-pro-league-major-iii-has-concluded-the-grand-finals-are-coming-en",
-      "kind": "news"
     }
   ]
 };
