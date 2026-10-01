@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-01T15:19:35+02:00",
-  "updated_display": "1. 10. 2026 o 15:19",
+  "updated_at": "2026-10-02T00:42:36+02:00",
+  "updated_display": "2. 10. 2026 o 00:42",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Desert Predator: AMV (BMP-3)",
+      "summary": "Meet the vehicle reward in the Desert Predator event, the Finnish Patria wheeled combat vehicle equipped with the BMP-3 combat module!",
+      "date": "2026-10-01",
+      "date_display": "1. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10249-development-desert-predator-amv-bmp-3-en",
+      "kind": "news"
+    },
     {
       "title": "Starter Pack Sale!",
       "summary": "Want to start progressing with a new nation? Treat yourself to a Starter Pack, which features a vehicle, Silver Lions and Premium Account time to reach the top of your chosen research tree faster!",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "market",
       "url": "https://warthunder.com/en/news/10244-market-40-new-user-created-camouflages-in-the-sky-odyssey-trophy-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.38",
-      "summary": "T58 — a bug that caused the stowage in the hull and not in the turret to count as the first-stage ammo has been fixed.",
-      "date": "2026-09-29",
-      "date_display": "29. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1899",
-      "kind": "update"
     }
   ]
 };
