@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-01T00:17:47+02:00",
-  "updated_display": "1. 10. 2026 o 00:17",
+  "updated_at": "2026-10-01T15:19:35+02:00",
+  "updated_display": "1. 10. 2026 o 15:19",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Starter Pack Sale!",
+      "summary": "Want to start progressing with a new nation? Treat yourself to a Starter Pack, which features a vehicle, Silver Lions and Premium Account time to reach the top of your chosen research tree faster!",
+      "date": "2026-10-01",
+      "date_display": "1. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10247-shop-starter-pack-sale-en",
+      "kind": "news"
+    },
+    {
+      "title": "Discounts and a Decal for the National Day of the PRC!",
+      "summary": "The founding of the People’s Republic of China is celebrated annually on October 1st. The most solemn ceremonies take place in Beijing’s Tiananmen Square, where the founding of the PRC was proclaimed in 1949.…",
+      "date": "2026-10-01",
+      "date_display": "1. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10246-special-shop-discounts-and-a-decal-for-the-founding-day-of-the-prc-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.43",
+      "summary": "A bug that caused a significant decrease in the probability of incoming missiles being hit by fragments from other munitions has been fixed.",
+      "date": "2026-10-01",
+      "date_display": "1. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1900",
+      "kind": "update"
+    },
     {
       "title": "Fair Play: September 2026",
       "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1899",
-      "kind": "update"
-    },
-    {
-      "title": "Get the AMV (BMP-3) in the Desert Predator Event!",
-      "summary": "A hybrid combat vehicle featuring the Patria AMV chassis and a BMP-3 turret was unveiled for the first time at the IDEX 2007 exhibition in Abu Dhabi. To produce these models, the hull of the Finnish vehicle…",
-      "date": "2026-09-28",
-      "date_display": "28. 9. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10243-event-get-the-amv-bmp-3-in-the-desert-predator-event-en",
-      "kind": "news"
-    },
-    {
-      "title": "Moments of Valor: Saudi Arabia",
-      "summary": "Abdulaziz ibn Abdurrahman Al Saud became the Emir of Riyadh in 1902 and, over the next 30 years, devoted all his efforts to uniting the surrounding emirates under his leadership. He succeeded, and on…",
-      "date": "2026-09-23",
-      "date_display": "23. 9. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10241-shop-video-moments-of-valor-saudi-arabia-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.28",
-      "summary": "Mosquito FB Mk VI (UK), Mosquito FB Mk VI (Sweden), Mosquito FB Mk VI ASH, Mosquito FB.Mk.26, Mosquito TR.Mk.33 — an issue where one of the four 20 mm cannons was missing from the X-ray view has been fixed.",
-      "date": "2026-09-23",
-      "date_display": "23. 9. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1898",
       "kind": "update"
     }
   ]
