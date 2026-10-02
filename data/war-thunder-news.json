@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-02T00:42:36+02:00",
-  "updated_display": "2. 10. 2026 o 00:42",
+  "updated_at": "2026-10-02T14:38:49+02:00",
+  "updated_display": "2. 10. 2026 o 14:38",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Decal, Discounts and Rare Vehicles for German Unity Day!",
+      "summary": "Today, a reunited Germany celebrates an anniversary. On October 3rd 1990, the GDR and FRG became one country! German Unity Day is a major national holiday, widely celebrated throughout the country. We join in…",
+      "date": "2026-10-02",
+      "date_display": "2. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10252-special-shop-a-decal-discounts-and-rare-vehicles-for-german-unity-day-en",
+      "kind": "news"
+    },
     {
       "title": "Desert Predator: AMV (BMP-3)",
       "summary": "Meet the vehicle reward in the Desert Predator event, the Finnish Patria wheeled combat vehicle equipped with the BMP-3 combat module!",
@@ -51,16 +61,6 @@
       "category": "FAIR PLAY",
       "category_key": "fair_play",
       "url": "https://warthunder.com/en/news/10250-fair-play-fair-play-september-2026-en",
-      "kind": "news"
-    },
-    {
-      "title": "40 New User-Created Camouflages in the Sky Odyssey Trophy!",
-      "summary": "The Sky Odyssey major update is named after Greek vehicles, and the trophy of the same name naturally includes camouflages for vehicles recently added to the game: both Greek and those from other nations!…",
-      "date": "2026-09-30",
-      "date_display": "30. 9. 2026",
-      "category": "MARKET",
-      "category_key": "market",
-      "url": "https://warthunder.com/en/news/10244-market-40-new-user-created-camouflages-in-the-sky-odyssey-trophy-en",
       "kind": "news"
     }
   ]
