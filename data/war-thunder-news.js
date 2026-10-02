@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-02T14:38:49+02:00",
-  "updated_display": "2. 10. 2026 o 14:38",
+  "updated_at": "2026-10-03T00:15:55+02:00",
+  "updated_display": "3. 10. 2026 o 00:15",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Don’t Miss the WTCS Challenger League Major III Playoffs!",
+      "summary": "The Challenger League Major III is here, and the battle is about to reach its most intense stage!",
+      "date": "2026-10-02",
+      "date_display": "2. 10. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10251-esports-dont-miss-the-wtcs-challenger-league-major-iii-playoffs-en",
+      "kind": "news"
+    },
     {
       "title": "A Decal, Discounts and Rare Vehicles for German Unity Day!",
       "summary": "Today, a reunited Germany celebrates an anniversary. On October 3rd 1990, the GDR and FRG became one country! German Unity Day is a major national holiday, widely celebrated throughout the country. We join in…",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1900",
       "kind": "update"
-    },
-    {
-      "title": "Fair Play: September 2026",
-      "summary": "Your reports and our anti-cheat systems continue to help us in the fight against cheaters. As is tradition, we’re sharing information about the bans issued since last Fair Play. If you want to help rid War…",
-      "date": "2026-09-30",
-      "date_display": "30. 9. 2026",
-      "category": "FAIR PLAY",
-      "category_key": "fair_play",
-      "url": "https://warthunder.com/en/news/10250-fair-play-fair-play-september-2026-en",
-      "kind": "news"
     }
   ]
 };
