@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-03T00:15:55+02:00",
-  "updated_display": "3. 10. 2026 o 00:15",
+  "updated_at": "2026-10-05T16:44:01+02:00",
+  "updated_display": "5. 10. 2026 o 16:44",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.59.0.46",
+      "summary": "PGZ88 — the excessively high volume of the cannons has been reduced.",
+      "date": "2026-10-05",
+      "date_display": "5. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1901",
+      "kind": "update"
+    },
     {
       "title": "Don’t Miss the WTCS Challenger League Major III Playoffs!",
       "summary": "The Challenger League Major III is here, and the battle is about to reach its most intense stage!",
@@ -52,16 +62,6 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10246-special-shop-discounts-and-a-decal-for-the-founding-day-of-the-prc-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.43",
-      "summary": "A bug that caused a significant decrease in the probability of incoming missiles being hit by fragments from other munitions has been fixed.",
-      "date": "2026-10-01",
-      "date_display": "1. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1900",
-      "kind": "update"
     }
   ]
 }
