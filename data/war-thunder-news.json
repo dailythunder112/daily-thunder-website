@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-06T20:23:50+02:00",
-  "updated_display": "6. 10. 2026 o 20:23",
+  "updated_at": "2026-10-07T15:27:35+02:00",
+  "updated_display": "7. 10. 2026 o 15:27",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Nuclear Escalation: Testing the Upgraded Southeastern City!",
+      "summary": "Take part in testing the new map in Nuclear Escalation!",
+      "date": "2026-10-07",
+      "date_display": "7. 10. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10254-nuclear-escalation-testing-the-upgraded-southeastern-city-en",
+      "kind": "news"
+    },
+    {
+      "title": "It’s fixed! №118",
+      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
+      "date": "2026-10-07",
+      "date_display": "7. 10. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10255-fixed-its-fixed-no118-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.54",
+      "summary": "Bomber Damage Model: Collision damage between aircraft has been increased. Previously collisions resulted in insufficient damage of wings and tail and didn’t lead to their separation. Added a chance for fuel…",
+      "date": "2026-10-07",
+      "date_display": "7. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1903",
+      "kind": "update"
+    },
     {
       "title": "Update 2.59.0.49",
       "summary": "A bug that caused wheeled ground vehicles to shake when losing all wheels on one side has been fixed.",
@@ -31,36 +61,6 @@
       "category": "ESPORTS",
       "category_key": "esports",
       "url": "https://warthunder.com/en/news/10251-esports-dont-miss-the-wtcs-challenger-league-major-iii-playoffs-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Decal, Discounts and Rare Vehicles for German Unity Day!",
-      "summary": "Today, a reunited Germany celebrates an anniversary. On October 3rd 1990, the GDR and FRG became one country! German Unity Day is a major national holiday, widely celebrated throughout the country. We join in…",
-      "date": "2026-10-02",
-      "date_display": "2. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10252-special-shop-a-decal-discounts-and-rare-vehicles-for-german-unity-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Desert Predator: AMV (BMP-3)",
-      "summary": "Meet the vehicle reward in the Desert Predator event, the Finnish Patria wheeled combat vehicle equipped with the BMP-3 combat module!",
-      "date": "2026-10-01",
-      "date_display": "1. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10249-development-desert-predator-amv-bmp-3-en",
-      "kind": "news"
-    },
-    {
-      "title": "Starter Pack Sale!",
-      "summary": "Want to start progressing with a new nation? Treat yourself to a Starter Pack, which features a vehicle, Silver Lions and Premium Account time to reach the top of your chosen research tree faster!",
-      "date": "2026-10-01",
-      "date_display": "1. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10247-shop-starter-pack-sale-en",
       "kind": "news"
     }
   ]
