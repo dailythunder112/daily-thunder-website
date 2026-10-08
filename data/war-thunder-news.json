@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-07T15:27:35+02:00",
-  "updated_display": "7. 10. 2026 o 15:27",
+  "updated_at": "2026-10-08T15:33:27+02:00",
+  "updated_display": "8. 10. 2026 o 15:33",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.59.0.59",
+      "summary": "H8K2, H8K3 — an issue preventing the wing-root turrets from firing has been fixed.",
+      "date": "2026-10-08",
+      "date_display": "8. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1904",
+      "kind": "update"
+    },
     {
       "title": "Nuclear Escalation: Testing the Upgraded Southeastern City!",
       "summary": "Take part in testing the new map in Nuclear Escalation!",
@@ -52,16 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1901",
       "kind": "update"
-    },
-    {
-      "title": "Don’t Miss the WTCS Challenger League Major III Playoffs!",
-      "summary": "The Challenger League Major III is here, and the battle is about to reach its most intense stage!",
-      "date": "2026-10-02",
-      "date_display": "2. 10. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10251-esports-dont-miss-the-wtcs-challenger-league-major-iii-playoffs-en",
-      "kind": "news"
     }
   ]
 }
