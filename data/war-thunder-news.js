@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-08T15:33:27+02:00",
-  "updated_display": "8. 10. 2026 o 15:33",
+  "updated_at": "2026-10-10T00:40:17+02:00",
+  "updated_display": "10. 10. 2026 o 00:40",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Server Update 09.10.2026",
+      "summary": "[Air Superiority] Mozdok — this mission has been temporarily removed from rotation pending a bug fix.",
+      "date": "2026-10-09",
+      "date_display": "9. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1905",
+      "kind": "update"
+    },
     {
       "title": "Update 2.59.0.59",
       "summary": "H8K2, H8K3 — an issue preventing the wing-root turrets from firing has been fixed.",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1902",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.59.0.46",
-      "summary": "PGZ88 — the excessively high volume of the cannons has been reduced.",
-      "date": "2026-10-05",
-      "date_display": "5. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1901",
       "kind": "update"
     }
   ]
