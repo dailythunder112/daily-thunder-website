@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-10T00:40:17+02:00",
-  "updated_display": "10. 10. 2026 o 00:40",
+  "updated_at": "2026-10-12T17:29:56+02:00",
+  "updated_display": "12. 10. 2026 o 17:29",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Spooky Monthly Decals for October!",
+      "summary": "Hey everyone! As it’s October, we thought we’d change the format up a bit and go with a set of decals that fit the Halloween month. We’ve got skulls, ghosts and a black cat too of course! For the “Red Devils”…",
+      "date": "2026-10-12",
+      "date_display": "12. 10. 2026",
+      "category": "DECALS",
+      "category_key": "decals",
+      "url": "https://warthunder.com/en/news/10256-decals-spooky-monthly-decals-for-october-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.62",
+      "summary": "An issue where the foam and spray effect beneath firing ship guns was displayed incorrectly has been fixed.",
+      "date": "2026-10-12",
+      "date_display": "12. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1906",
+      "kind": "update"
+    },
     {
       "title": "Server Update 09.10.2026",
       "summary": "[Air Superiority] Mozdok — this mission has been temporarily removed from rotation pending a bug fix.",
@@ -42,26 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10255-fixed-its-fixed-no118-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.54",
-      "summary": "Bomber Damage Model: Collision damage between aircraft has been increased. Previously collisions resulted in insufficient damage of wings and tail and didn’t lead to their separation. Added a chance for fuel…",
-      "date": "2026-10-07",
-      "date_display": "7. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1903",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.59.0.49",
-      "summary": "A bug that caused wheeled ground vehicles to shake when losing all wheels on one side has been fixed.",
-      "date": "2026-10-06",
-      "date_display": "6. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1902",
-      "kind": "update"
     }
   ]
 };
