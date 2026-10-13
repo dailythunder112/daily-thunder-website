@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-12T17:29:56+02:00",
-  "updated_display": "12. 10. 2026 o 17:29",
+  "updated_at": "2026-10-13T16:14:46+02:00",
+  "updated_display": "13. 10. 2026 o 16:14",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "A Decal and Discounts on American Ships for the US Navy’s Birthday!",
+      "summary": "The U.S. Navy’s birthday marks the anniversary of the Continental Congress’s decision to establish a naval force, adopted on October 13th, 1775. On this day, American sailors cut the cake in a special way…",
+      "date": "2026-10-13",
+      "date_display": "13. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10257-shop-special-a-decal-and-discounts-on-american-ships-for-the-us-navys-birthday-en",
+      "kind": "news"
+    },
     {
       "title": "Spooky Monthly Decals for October!",
       "summary": "Hey everyone! As it’s October, we thought we’d change the format up a bit and go with a set of decals that fit the Halloween month. We’ve got skulls, ghosts and a black cat too of course! For the “Red Devils”…",
@@ -51,16 +61,6 @@
       "category": "NOVINKA",
       "category_key": "news",
       "url": "https://warthunder.com/en/news/10254-nuclear-escalation-testing-the-upgraded-southeastern-city-en",
-      "kind": "news"
-    },
-    {
-      "title": "It’s fixed! №118",
-      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
-      "date": "2026-10-07",
-      "date_display": "7. 10. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10255-fixed-its-fixed-no118-en",
       "kind": "news"
     }
   ]
