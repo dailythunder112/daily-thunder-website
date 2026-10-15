@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-14T00:46:30+02:00",
-  "updated_display": "14. 10. 2026 o 00:46",
+  "updated_at": "2026-10-15T19:03:18+02:00",
+  "updated_display": "15. 10. 2026 o 19:03",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Community Update No.13: What’s Coming Up!",
+      "summary": "Hi everyone! Today we’re back with another Community Update, which goes into what you can expect to arrive in the upcoming major update and further into the future. So sit back and relax, and read on!",
+      "date": "2026-10-15",
+      "date_display": "15. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10261-development-community-update-no13-whats-coming-up-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.68",
+      "summary": "Native support for ARM CPUs has been added to the Windows version of the game.",
+      "date": "2026-10-15",
+      "date_display": "15. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1908",
+      "kind": "update"
+    },
     {
       "title": "A Decal and Discounts on American Ships for the US Navy’s Birthday!",
       "summary": "The U.S. Navy’s birthday marks the anniversary of the Continental Congress’s decision to establish a naval force, adopted on October 13th, 1775. On this day, American sailors cut the cake in a special way…",
@@ -41,26 +61,6 @@
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1906",
-      "kind": "update"
-    },
-    {
-      "title": "Server Update 09.10.2026",
-      "summary": "[Air Superiority] Mozdok — this mission has been temporarily removed from rotation pending a bug fix.",
-      "date": "2026-10-09",
-      "date_display": "9. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1905",
-      "kind": "update"
-    },
-    {
-      "title": "Update 2.59.0.59",
-      "summary": "H8K2, H8K3 — an issue preventing the wing-root turrets from firing has been fixed.",
-      "date": "2026-10-08",
-      "date_display": "8. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1904",
       "kind": "update"
     }
   ]
