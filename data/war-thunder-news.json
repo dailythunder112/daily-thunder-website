@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-16T13:27:14+02:00",
-  "updated_display": "16. 10. 2026 o 13:27",
+  "updated_at": "2026-10-16T18:41:15+02:00",
+  "updated_display": "16. 10. 2026 o 18:41",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Official Snail Plushie Collaboration with Makeship!",
+      "summary": "We’re very pleased to announce that we’ve just launched our first collaboration with Makeship! The Gaijin Snail rarely reveals itself in physical form, so take the opportunity to pick up this limited edition…",
+      "date": "2026-10-16",
+      "date_display": "16. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10266-shop-official-snail-plushie-collaboration-with-makeship-en",
+      "kind": "news"
+    },
     {
       "title": "SEAD: Asymmetrical Battle Returns!",
       "summary": "On October 17th 1965 during Operation Iron Hand in the Vietnam War, a strike against SAM positions occurred, making it the first operation to suppress missile air defenses. The operation lasted until 1973 and…",
@@ -24,6 +34,16 @@
       "kind": "news"
     },
     {
+      "title": "Update 2.59.0.72",
+      "summary": "Changes for Nuclear Escalation mode.",
+      "date": "2026-10-16",
+      "date_display": "16. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1909",
+      "kind": "update"
+    },
+    {
       "title": "Community Update No.13: What’s Coming Up!",
       "summary": "Hi everyone! Today we’re back with another Community Update, which goes into what you can expect to arrive in the upcoming major update and further into the future. So sit back and relax, and read on!",
       "date": "2026-10-15",
@@ -41,26 +61,6 @@
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1908",
-      "kind": "update"
-    },
-    {
-      "title": "A Decal and Discounts on American Ships for the US Navy’s Birthday!",
-      "summary": "The U.S. Navy’s birthday marks the anniversary of the Continental Congress’s decision to establish a naval force, adopted on October 13th, 1775. On this day, American sailors cut the cake in a special way…",
-      "date": "2026-10-13",
-      "date_display": "13. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10257-shop-special-a-decal-and-discounts-on-american-ships-for-the-us-navys-birthday-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.65",
-      "summary": "A bug that caused the Indonesian crew voice over to not play and instead be swapped to a default one has been fixed.",
-      "date": "2026-10-13",
-      "date_display": "13. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1907",
       "kind": "update"
     }
   ]
