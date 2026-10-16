@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-15T19:03:18+02:00",
-  "updated_display": "15. 10. 2026 o 19:03",
+  "updated_at": "2026-10-16T13:27:14+02:00",
+  "updated_display": "16. 10. 2026 o 13:27",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "SEAD: Asymmetrical Battle Returns!",
+      "summary": "On October 17th 1965 during Operation Iron Hand in the Vietnam War, a strike against SAM positions occurred, making it the first operation to suppress missile air defenses. The operation lasted until 1973 and…",
+      "date": "2026-10-16",
+      "date_display": "16. 10. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10263-event-sead-asymmetrical-battle-returns-en",
+      "kind": "news"
+    },
+    {
+      "title": "Vautour IIN Available with a Discount for the Anniversary of the Vautour II’s First Flight!",
+      "summary": "The SO.4050 Vautour II was one of the first post-war French jet aircraft. Its first flight took place on October 16th 1952, and it served in the French Air Force from 1958 to 1979. In total, almost 150…",
+      "date": "2026-10-16",
+      "date_display": "16. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10262-shop-vautour-iin-available-with-a-discount-for-the-anniversary-of-the-vautour-iis-first-flight-en",
+      "kind": "news"
+    },
     {
       "title": "Community Update No.13: What’s Coming Up!",
       "summary": "Hi everyone! Today we’re back with another Community Update, which goes into what you can expect to arrive in the upcoming major update and further into the future. So sit back and relax, and read on!",
@@ -41,26 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "UPDATE",
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1907",
-      "kind": "update"
-    },
-    {
-      "title": "Spooky Monthly Decals for October!",
-      "summary": "Hey everyone! As it’s October, we thought we’d change the format up a bit and go with a set of decals that fit the Halloween month. We’ve got skulls, ghosts and a black cat too of course! For the “Red Devils”…",
-      "date": "2026-10-12",
-      "date_display": "12. 10. 2026",
-      "category": "DECALS",
-      "category_key": "decals",
-      "url": "https://warthunder.com/en/news/10256-decals-spooky-monthly-decals-for-october-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.62",
-      "summary": "An issue where the foam and spray effect beneath firing ship guns was displayed incorrectly has been fixed.",
-      "date": "2026-10-12",
-      "date_display": "12. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1906",
       "kind": "update"
     }
   ]
