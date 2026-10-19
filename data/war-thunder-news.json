@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-16T18:41:15+02:00",
-  "updated_display": "16. 10. 2026 o 18:41",
+  "updated_at": "2026-10-19T15:20:54+02:00",
+  "updated_display": "19. 10. 2026 o 15:20",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pre-order: HMS Duke of York",
+      "summary": "Meet the Scharnhorst killer and future flagship of the Home Fleet, the British HMS Duke of York, coming to War Thunder in the next major update!",
+      "date": "2026-10-19",
+      "date_display": "19. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10260-development-pre-order-hms-duke-of-york-en",
+      "kind": "news"
+    },
     {
       "title": "Official Snail Plushie Collaboration with Makeship!",
       "summary": "We’re very pleased to announce that we’ve just launched our first collaboration with Makeship! The Gaijin Snail rarely reveals itself in physical form, so take the opportunity to pick up this limited edition…",
@@ -52,16 +62,6 @@
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10261-development-community-update-no13-whats-coming-up-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.68",
-      "summary": "Native support for ARM CPUs has been added to the Windows version of the game.",
-      "date": "2026-10-15",
-      "date_display": "15. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1908",
-      "kind": "update"
     }
   ]
 }
