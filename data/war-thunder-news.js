@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-20T00:22:22+02:00",
-  "updated_display": "20. 10. 2026 o 00:22",
+  "updated_at": "2026-10-20T13:40:46+02:00",
+  "updated_display": "20. 10. 2026 o 13:40",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Update 2.59.0.75",
+      "summary": "An issue where the projectile-tracking camera could end up pointing toward the sky instead of the target if the player moved it around before the impact has been fixed.",
+      "date": "2026-10-20",
+      "date_display": "20. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1910",
+      "kind": "update"
+    },
     {
       "title": "Challenger League Major III Is in the Books: Next Stop, the Grand Finals!",
       "summary": "The final Major of the WTCS Challenger League regular season wrapped up last weekend, and the race for the top spots went right down to the wire. With Major III now complete, the Challenger field is…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "EVENT",
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10263-event-sead-asymmetrical-battle-returns-en",
-      "kind": "news"
-    },
-    {
-      "title": "Vautour IIN Available with a Discount for the Anniversary of the Vautour II’s First Flight!",
-      "summary": "The SO.4050 Vautour II was one of the first post-war French jet aircraft. Its first flight took place on October 16th 1952, and it served in the French Air Force from 1958 to 1979. In total, almost 150…",
-      "date": "2026-10-16",
-      "date_display": "16. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10262-shop-vautour-iin-available-with-a-discount-for-the-anniversary-of-the-vautour-iis-first-flight-en",
       "kind": "news"
     }
   ]
