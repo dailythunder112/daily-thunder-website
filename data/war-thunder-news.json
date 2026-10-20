@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-20T13:40:46+02:00",
-  "updated_display": "20. 10. 2026 o 13:40",
+  "updated_at": "2026-10-20T19:10:13+02:00",
+  "updated_display": "20. 10. 2026 o 19:10",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Improvements to the Controls for CCRP Bombing!",
+      "summary": "CCRP Bombing, now simple and easy to understand!",
+      "date": "2026-10-20",
+      "date_display": "20. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10268-development-improvements-to-the-controls-for-ccrp-bombing-en",
+      "kind": "news"
+    },
     {
       "title": "Update 2.59.0.75",
       "summary": "An issue where the projectile-tracking camera could end up pointing toward the sky instead of the target if the player moved it around before the impact has been fixed.",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10266-shop-official-snail-plushie-collaboration-with-makeship-en",
-      "kind": "news"
-    },
-    {
-      "title": "SEAD: Asymmetrical Battle Returns!",
-      "summary": "On October 17th 1965 during Operation Iron Hand in the Vietnam War, a strike against SAM positions occurred, making it the first operation to suppress missile air defenses. The operation lasted until 1973 and…",
-      "date": "2026-10-16",
-      "date_display": "16. 10. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10263-event-sead-asymmetrical-battle-returns-en",
       "kind": "news"
     }
   ]
