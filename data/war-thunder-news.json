@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-20T19:10:13+02:00",
-  "updated_display": "20. 10. 2026 o 19:10",
+  "updated_at": "2026-10-21T13:52:19+02:00",
+  "updated_display": "21. 10. 2026 o 13:52",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "It’s fixed! №119",
+      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
+      "date": "2026-10-21",
+      "date_display": "21. 10. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10271-fixed-its-fixed-no119-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.78",
+      "summary": "JAS39A, JAS39C (UK), JAS39EBS HU C (Italy), JAS39C (Japan) — separate countermeasure launch from fuselage-mounted dispensers has been added.",
+      "date": "2026-10-21",
+      "date_display": "21. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1911",
+      "kind": "update"
+    },
     {
       "title": "Improvements to the Controls for CCRP Bombing!",
       "summary": "CCRP Bombing, now simple and easy to understand!",
@@ -41,26 +61,6 @@
       "category": "EVENT",
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10265-warbonds-event-battle-pass-season-25-steel-fury-and-its-warbond-shop-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pre-order: HMS Duke of York",
-      "summary": "Meet the Scharnhorst killer and future flagship of the Home Fleet, the British HMS Duke of York, coming to War Thunder in the next major update!",
-      "date": "2026-10-19",
-      "date_display": "19. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10260-development-pre-order-hms-duke-of-york-en",
-      "kind": "news"
-    },
-    {
-      "title": "Official Snail Plushie Collaboration with Makeship!",
-      "summary": "We’re very pleased to announce that we’ve just launched our first collaboration with Makeship! The Gaijin Snail rarely reveals itself in physical form, so take the opportunity to pick up this limited edition…",
-      "date": "2026-10-16",
-      "date_display": "16. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10266-shop-official-snail-plushie-collaboration-with-makeship-en",
       "kind": "news"
     }
   ]
