@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-21T19:14:12+02:00",
-  "updated_display": "21. 10. 2026 o 19:14",
+  "updated_at": "2026-10-22T13:55:56+02:00",
+  "updated_display": "22. 10. 2026 o 13:55",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Discount on the UH-1C XM-30 on the First Flight Anniversary!",
+      "summary": "On October 20th 1956, the UH-1C, one of the most iconic helicopters in history made its maiden flight. The Huey gained fame during the Vietnam War, where it provided fire support, assisted with resupply…",
+      "date": "2026-10-22",
+      "date_display": "22. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10273-shop-discount-on-the-uh-1c-xm-30-on-the-first-flight-anniversary-en",
+      "kind": "news"
+    },
     {
       "title": "New Roundels and Decals!",
       "summary": "Hey everyone! Today we thought we’d put together a small blog about some of the new decals we’ve been working on! Over the last few updates and into the near future as well we’ll be adding new decals for…",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1911",
       "kind": "update"
-    },
-    {
-      "title": "Improvements to the Controls for CCRP Bombing!",
-      "summary": "CCRP Bombing, now simple and easy to understand!",
-      "date": "2026-10-20",
-      "date_display": "20. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10268-development-improvements-to-the-controls-for-ccrp-bombing-en",
-      "kind": "news"
     }
   ]
 };
