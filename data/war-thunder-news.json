@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-22T13:55:56+02:00",
-  "updated_display": "22. 10. 2026 o 13:55",
+  "updated_at": "2026-10-22T19:12:43+02:00",
+  "updated_display": "22. 10. 2026 o 19:12",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!",
+      "summary": "2026 has been a year of fierce competition and unforgettable moments! The War Thunder Championship Series has continued to evolve and so have its teams. Over months of intense battles across air, ground, and…",
+      "date": "2026-10-22",
+      "date_display": "22. 10. 2026",
+      "category": "ESPORTS",
+      "category_key": "esports",
+      "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
+      "kind": "news"
+    },
+    {
+      "title": "Pre-order: Stingray II — The Upgraded Commando",
+      "summary": "Meet the Stingray II, a further development of the American Commando Stingray light tank!",
+      "date": "2026-10-22",
+      "date_display": "22. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10274-development-pre-order-stingray-ii-the-upgraded-commando-en",
+      "kind": "news"
+    },
     {
       "title": "Discount on the UH-1C XM-30 on the First Flight Anniversary!",
       "summary": "On October 20th 1956, the UH-1C, one of the most iconic helicopters in history made its maiden flight. The Huey gained fame during the Vietnam War, where it provided fire support, assisted with resupply…",
@@ -42,26 +62,6 @@
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10269-shop-special-a-decal-and-discount-on-british-ships-for-the-battle-of-trafalgar-anniversary-en",
       "kind": "news"
-    },
-    {
-      "title": "It’s fixed! №119",
-      "summary": "Today, we’ve rounded up and will be covering some of the fixes and improvements that we’ve made to the game today and over the past weeks. If you’d like to catch up on every fixed bug, then be sure to check…",
-      "date": "2026-10-21",
-      "date_display": "21. 10. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10271-fixed-its-fixed-no119-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.78",
-      "summary": "JAS39A, JAS39C (UK), JAS39EBS HU C (Italy), JAS39C (Japan) — separate countermeasure launch from fuselage-mounted dispensers has been added.",
-      "date": "2026-10-21",
-      "date_display": "21. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1911",
-      "kind": "update"
     }
   ]
 }
