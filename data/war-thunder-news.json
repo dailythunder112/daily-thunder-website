@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T13:41:57+02:00",
-  "updated_display": "23. 10. 2026 o 13:41",
+  "updated_at": "2026-10-23T19:10:25+02:00",
+  "updated_display": "23. 10. 2026 o 19:10",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
@@ -11,6 +11,26 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10277-shop-in-game-discounts-for-war-thunders-14th-birthday-en",
+      "kind": "news"
+    },
+    {
+      "title": "Improvements to DIRCM",
+      "summary": "In the upcoming major update, we’ll be releasing an overhauled version of DIRCM that addresses several shortcomings.",
+      "date": "2026-10-23",
+      "date_display": "23. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10279-development-improvements-to-dircm-en",
+      "kind": "news"
+    },
+    {
+      "title": "The J35A Returns with a Discount for the Dragon’s First Flight!",
+      "summary": "On October 25th 1955, the Swedish Draken (Dragon) took to the skies for the first time. This supersonic fighter featured a unique double-delta wing design. It could confidently reach speeds of Mach 2, take…",
+      "date": "2026-10-23",
+      "date_display": "23. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10278-shop-the-j35a-returns-with-a-discount-for-the-dragons-first-flight-en",
       "kind": "news"
     },
     {
@@ -41,26 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10273-shop-discount-on-the-uh-1c-xm-30-on-the-first-flight-anniversary-en",
-      "kind": "news"
-    },
-    {
-      "title": "New Roundels and Decals!",
-      "summary": "Hey everyone! Today we thought we’d put together a small blog about some of the new decals we’ve been working on! Over the last few updates and into the near future as well we’ll be adding new decals for…",
-      "date": "2026-10-21",
-      "date_display": "21. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10259-development-new-roundels-and-decals-en",
-      "kind": "news"
-    },
-    {
-      "title": "Honoring the Canadian Navy with a Discount on HMCS Haida on Niobe Day!",
-      "summary": "On October 21st 1910, on the anniversary of the Battle of Trafalgar, the cruiser HMCS Niobe arrived in Halifax, becoming the first ship of the newly established Canadian Navy. Since then, Canadian sailors…",
-      "date": "2026-10-21",
-      "date_display": "21. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10270-shop-honoring-the-canadian-navy-with-a-discount-on-hmcs-haida-on-niobe-day-en",
       "kind": "news"
     }
   ]
