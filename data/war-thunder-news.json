@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-22T19:12:43+02:00",
-  "updated_display": "22. 10. 2026 o 19:12",
+  "updated_at": "2026-10-23T13:41:57+02:00",
+  "updated_display": "23. 10. 2026 o 13:41",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "In-Game Discounts for War Thunder’s 14th Birthday!",
+      "summary": "War Thunder’s 14th anniversary is just around the corner! Get ready to celebrate with discounts on vehicles, modifications, and useful consumables, and don’t forget to extend your Premium Account time at a…",
+      "date": "2026-10-23",
+      "date_display": "23. 10. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10277-shop-in-game-discounts-for-war-thunders-14th-birthday-en",
+      "kind": "news"
+    },
     {
       "title": "Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!",
       "summary": "2026 has been a year of fierce competition and unforgettable moments! The War Thunder Championship Series has continued to evolve and so have its teams. Over months of intense battles across air, ground, and…",
@@ -51,16 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10270-shop-honoring-the-canadian-navy-with-a-discount-on-hmcs-haida-on-niobe-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Decal and Discount on British Ships for the Battle of Trafalgar Anniversary!",
-      "summary": "On October 21st 1805, off Cape Trafalgar, the British fleet under Admiral Nelson decisively defeated the combined French and Spanish fleet commanded by Admiral Villeneuve. Britain did not lose a single ship…",
-      "date": "2026-10-21",
-      "date_display": "21. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10269-shop-special-a-decal-and-discount-on-british-ships-for-the-battle-of-trafalgar-anniversary-en",
       "kind": "news"
     }
   ]
