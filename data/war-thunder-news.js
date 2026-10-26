@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-26T14:07:24+01:00",
-  "updated_display": "26. 10. 2026 o 14:07",
+  "updated_at": "2026-10-26T23:41:47+01:00",
+  "updated_display": "26. 10. 2026 o 23:41",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Work-In-Progress: Freezing Daily Login Streaks",
+      "summary": "Missed a day or two during a long login streak? That’s no longer a problem!",
+      "date": "2026-10-26",
+      "date_display": "26. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10285-development-work-in-progress-freezing-daily-login-streaks-en",
+      "kind": "news"
+    },
     {
       "title": "Dreams Come True: Mistel 2",
       "summary": "Sometimes, things happen that you wouldn’t even dare to dream of. Meet the Mistel 2, a very peculiar aircraft(s!), featuring a Fw 190 literally carrying a Ju 88 bomb. Due to this unusual configuration, it…",
@@ -51,16 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10278-shop-the-j35a-returns-with-a-discount-for-the-dragons-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "Watch the 2026 Grand Finals and Earn Tricolor Smoke & More Twitch Drops!",
-      "summary": "2026 has been a year of fierce competition and unforgettable moments! The War Thunder Championship Series has continued to evolve and so have its teams. Over months of intense battles across air, ground, and…",
-      "date": "2026-10-22",
-      "date_display": "22. 10. 2026",
-      "category": "ESPORTS",
-      "category_key": "esports",
-      "url": "https://warthunder.com/en/news/10275-esports-watch-the-2026-grand-finals-and-earn-tricolor-smoke-more-twitch-drops-en",
       "kind": "news"
     }
   ]
