@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-27T13:15:27+01:00",
-  "updated_display": "27. 10. 2026 o 13:15",
+  "updated_at": "2026-10-27T23:16:13+01:00",
+  "updated_display": "27. 10. 2026 o 23:16",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Testing Nuclear Escalation in Simulator Battles!",
+      "summary": "Calling all pilots! Today we’re inviting you to take part in testing of the large-scale Nuclear Escalation mode in Simulator Battles.",
+      "date": "2026-10-27",
+      "date_display": "27. 10. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10283-event-testing-nuclear-escalation-in-simulator-battles-en",
+      "kind": "news"
+    },
     {
       "title": "Spooky Races Return for Halloween!",
       "summary": "Autumn is in full swing, and the forces of darkness are holding their contests once again! Go for a wild, wind-swept ride through gloomy locales, soar like a witch through a treacherous, danger-filled gorge,…",
@@ -12,6 +22,16 @@
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10286-event-spooky-races-return-for-halloween-en",
       "kind": "news"
+    },
+    {
+      "title": "Update 2.59.0.87",
+      "summary": "A bug where vehicles in battle were sometimes not locked for respawn if their last destruction was counted as a crash or leave kill has been fixed. This issue could have occurred after using a backup vehicle…",
+      "date": "2026-10-27",
+      "date_display": "27. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1912",
+      "kind": "update"
     },
     {
       "title": "Work-In-Progress: Freezing Daily Login Streaks",
@@ -41,26 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10281-shop-the-british-a-20-is-available-with-a-discount-to-celebrate-the-a-20s-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "In-Game Discounts for War Thunder’s 14th Birthday!",
-      "summary": "War Thunder’s 14th anniversary is just around the corner! Get ready to celebrate with discounts on vehicles, modifications, and useful consumables, and don’t forget to extend your Premium Account time at a…",
-      "date": "2026-10-23",
-      "date_display": "23. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10277-shop-in-game-discounts-for-war-thunders-14th-birthday-en",
-      "kind": "news"
-    },
-    {
-      "title": "Improvements to DIRCM",
-      "summary": "In the upcoming major update, we’ll be releasing an overhauled version of DIRCM that addresses several shortcomings.",
-      "date": "2026-10-23",
-      "date_display": "23. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10279-development-improvements-to-dircm-en",
       "kind": "news"
     }
   ]
