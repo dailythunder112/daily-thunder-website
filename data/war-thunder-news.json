@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-29T14:05:00+01:00",
-  "updated_display": "29. 10. 2026 o 14:05",
+  "updated_at": "2026-10-29T23:46:42+01:00",
+  "updated_display": "29. 10. 2026 o 23:46",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "\"Eagle's Shadow\" Update Trailer!",
+      "summary": "Introducing the next major update trailer for War Thunder: Eagle's Shadow!",
+      "date": "2026-10-29",
+      "date_display": "29. 10. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10297-video-eagles-shadow-update-trailer-en",
+      "kind": "news"
+    },
+    {
+      "title": "New Modules for Ground Vehicles!",
+      "summary": "In today’s dev blog, we’re talking about new modules and features for ground vehicles!",
+      "date": "2026-10-29",
+      "date_display": "29. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10296-development-new-modules-for-ground-vehicles-en",
+      "kind": "news"
+    },
+    {
+      "title": "Pre-orders: F/A-18D and Q-5D",
+      "summary": "Today we’re starting pre-orders for the American two-seater Hornet and the Chinese Q-5D attack jet aircraft!",
+      "date": "2026-10-29",
+      "date_display": "29. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10293-development-pre-orders-fa-18d-and-q-5d-en",
+      "kind": "news"
+    },
     {
       "title": "Custom Battle Rating for Aircraft: More Freedom For Your Vehicles!",
       "summary": "Introducing custom Battle Ratings: a new mechanic where researching specific modifications unlocks additional Battle Rating options for the same vehicle. You decide which configuration to take into battle!",
@@ -32,36 +62,6 @@
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1913",
       "kind": "update"
-    },
-    {
-      "title": "Discounts in the Gaijin Store for War Thunder’s 14th Anniversary!",
-      "summary": "The game’s birthday celebrations are set to begin very soon, but in the meantime, we’re launching the second round of our major sale. This time, you’ll find discounts on a wide range of vehicle bundles in the…",
-      "date": "2026-10-28",
-      "date_display": "28. 10. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10288-shop-discounts-in-the-gaijin-store-for-war-thunders-14th-anniversary-en",
-      "kind": "news"
-    },
-    {
-      "title": "Updated Sun City and American Desert and Improved Weather Settings!",
-      "summary": "Today we’re taking a look at the updated Sun City and American Desert maps, plus improved weather settings!",
-      "date": "2026-10-28",
-      "date_display": "28. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10292-development-updated-sun-city-and-american-desert-and-improved-weather-settings-en",
-      "kind": "news"
-    },
-    {
-      "title": "Dreams Come True: Mistel 2 — Father and Son",
-      "summary": "Mistel 2 was a German strike system built during the Second World War, consisting of a Fw 190 fighter acting as a carrier aircraft and a Ju 88 bomber, where the cockpit had been replaced by an explosive…",
-      "date": "2026-10-28",
-      "date_display": "28. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10290-development-dreams-come-true-mistel-2-en",
-      "kind": "news"
     }
   ]
 }
