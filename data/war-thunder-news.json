@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-30T13:58:44+01:00",
-  "updated_display": "30. 10. 2026 o 13:58",
+  "updated_at": "2026-10-30T23:23:02+01:00",
+  "updated_display": "30. 10. 2026 o 23:23",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Leopard 2A8: A Coveted Trophy",
+      "summary": "Introducing the Leopard 2A8, Europe’s most advanced tank and the first mass-produced Leo equipped with an active protection system!",
+      "date": "2026-10-30",
+      "date_display": "30. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10301-development-leopard-2a8-a-coveted-trophy-en",
+      "kind": "news"
+    },
     {
       "title": "War Thunder is 14 Years Old: Join the Celebration!",
       "summary": "War Thunder opened its doors to everyone on November 1st 2012, the day the game’s Open Beta test began. Thanks to everyone who has stayed with us ever since, as well as everyone who has joined us over the…",
@@ -51,16 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10296-development-new-modules-for-ground-vehicles-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pre-orders: F/A-18D and Q-5D",
-      "summary": "Today we’re starting pre-orders for the American two-seater Hornet and the Chinese Q-5D attack jet aircraft!",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10293-development-pre-orders-fa-18d-and-q-5d-en",
       "kind": "news"
     }
   ]
