@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-29T23:46:42+01:00",
-  "updated_display": "29. 10. 2026 o 23:46",
+  "updated_at": "2026-10-30T13:58:44+01:00",
+  "updated_display": "30. 10. 2026 o 13:58",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "War Thunder is 14 Years Old: Join the Celebration!",
+      "summary": "War Thunder opened its doors to everyone on November 1st 2012, the day the game’s Open Beta test began. Thanks to everyone who has stayed with us ever since, as well as everyone who has joined us over the…",
+      "date": "2026-10-30",
+      "date_display": "30. 10. 2026",
+      "category": "SPECIAL",
+      "category_key": "special",
+      "url": "https://warthunder.com/en/news/10299-special-war-thunder-is-14-years-old-join-the-celebration-en",
+      "kind": "news"
+    },
+    {
+      "title": "Improvements to Tank Mobility Mechanics: New Steering Mechanisms and Engine Refinements",
+      "summary": "Hi everyone! We’re continuing to refine mechanics related to vehicle mobility. Some of these will significantly alter how vehicles behave, making them more effective in certain situations while less so in…",
+      "date": "2026-10-30",
+      "date_display": "30. 10. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10298-development-improvements-to-tank-mobility-mechanics-new-steering-mechanisms-and-engine-refinements-en",
+      "kind": "news"
+    },
+    {
+      "title": "Server Update 30.10.2026",
+      "summary": "Battle Ratings that were different to the final table from the planned Battle Rating changes have been corrected.",
+      "date": "2026-10-30",
+      "date_display": "30. 10. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1914",
+      "kind": "update"
+    },
     {
       "title": "\"Eagle's Shadow\" Update Trailer!",
       "summary": "Introducing the next major update trailer for War Thunder: Eagle's Shadow!",
@@ -32,36 +62,6 @@
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10293-development-pre-orders-fa-18d-and-q-5d-en",
       "kind": "news"
-    },
-    {
-      "title": "Custom Battle Rating for Aircraft: More Freedom For Your Vehicles!",
-      "summary": "Introducing custom Battle Ratings: a new mechanic where researching specific modifications unlocks additional Battle Rating options for the same vehicle. You decide which configuration to take into battle!",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10294-development-custom-battle-rating-for-aircraft-more-freedom-for-your-vehicles-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pages of History (November): Incredible Luck",
-      "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From Italy and USSR, Egypt and Iran: participate in battles while using vehicles…",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10291-event-pages-of-history-november-incredible-luck-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.59.0.92",
-      "summary": "The Planned Battle Rating changes have come into effect.",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1913",
-      "kind": "update"
     }
   ]
 }
