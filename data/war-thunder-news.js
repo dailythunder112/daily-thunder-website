@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-10-30T23:23:02+01:00",
-  "updated_display": "30. 10. 2026 o 23:23",
+  "updated_at": "2026-11-02T16:58:24+01:00",
+  "updated_display": "2. 11. 2026 o 16:58",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Su-15TM: Aerial Border Guard",
+      "summary": "The Su-15TM is the USSR’s most widely produced jet interceptor, coming to the game in the next major update!",
+      "date": "2026-11-02",
+      "date_display": "2. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10304-development-su-15tm-aerial-border-guard-en",
+      "kind": "news"
+    },
+    {
+      "title": "Cluster Bombs in Air Battles!",
+      "summary": "Hey everyone! That’s right, cluster bombs are coming to War Thunder Air Battles! In today’s dev blog, we’ll go over what they are and what they’re used for. Let’s dive in!",
+      "date": "2026-11-02",
+      "date_display": "2. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10303-development-cluster-bombs-in-air-battles-en",
+      "kind": "news"
+    },
     {
       "title": "Leopard 2A8: A Coveted Trophy",
       "summary": "Introducing the Leopard 2A8, Europe’s most advanced tank and the first mass-produced Leo equipped with an active protection system!",
@@ -42,26 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1914",
       "kind": "update"
-    },
-    {
-      "title": "\"Eagle's Shadow\" Update Trailer!",
-      "summary": "Introducing the next major update trailer for War Thunder: Eagle's Shadow!",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10297-video-eagles-shadow-update-trailer-en",
-      "kind": "news"
-    },
-    {
-      "title": "New Modules for Ground Vehicles!",
-      "summary": "In today’s dev blog, we’re talking about new modules and features for ground vehicles!",
-      "date": "2026-10-29",
-      "date_display": "29. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10296-development-new-modules-for-ground-vehicles-en",
-      "kind": "news"
     }
   ]
 };
