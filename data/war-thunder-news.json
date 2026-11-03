@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-11-02T16:58:24+01:00",
-  "updated_display": "2. 11. 2026 o 16:58",
+  "updated_at": "2026-11-03T15:18:50+01:00",
+  "updated_display": "3. 11. 2026 o 15:18",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "NVIDIA DLSS 5 Is Coming to War Thunder!",
+      "summary": "The most advanced upscaling and frame-generation technology with neural rendering is arriving in War Thunder, and it’s a game-changer.",
+      "date": "2026-11-03",
+      "date_display": "3. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10306-development-nvidia-dlss-5-is-coming-to-war-thunder-en",
+      "kind": "news"
+    },
     {
       "title": "Su-15TM: Aerial Border Guard",
       "summary": "The Su-15TM is the USSR’s most widely produced jet interceptor, coming to the game in the next major update!",
@@ -52,16 +62,6 @@
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10298-development-improvements-to-tank-mobility-mechanics-new-steering-mechanisms-and-engine-refinements-en",
       "kind": "news"
-    },
-    {
-      "title": "Server Update 30.10.2026",
-      "summary": "Battle Ratings that were different to the final table from the planned Battle Rating changes have been corrected.",
-      "date": "2026-10-30",
-      "date_display": "30. 10. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1914",
-      "kind": "update"
     }
   ]
 }
