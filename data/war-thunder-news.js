@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-03T15:18:50+01:00",
-  "updated_display": "3. 11. 2026 o 15:18",
+  "updated_at": "2026-11-04T20:47:15+01:00",
+  "updated_display": "4. 11. 2026 o 20:47",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Imperator Nikolai I: An Autocrat at Sea",
+      "summary": "The Imperator Nikolai I is a new battleship for the USSR/Russian navy, featuring a linear turret arrangement, powerful guns, and excellent protection!",
+      "date": "2026-11-04",
+      "date_display": "4. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10311-development-imperator-nikolai-i-an-autocrat-at-sea-en",
+      "kind": "news"
+    },
+    {
+      "title": "A Decal Trophy and Discounts for Italy’s National Unity and Armed Forces Day!",
+      "summary": "Every year on November 4th, Italy celebrates National Unity and Armed Forces Day. The date marks the surrender of Austria-Hungary in the First World War, which allowed Italy to incorporate Trento and Trieste,…",
+      "date": "2026-11-04",
+      "date_display": "4. 11. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10308-shop-special-a-decal-trophy-and-discounts-for-italys-national-unity-and-armed-forces-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "Pre-orders: Olifant Mk.1B Optimering and JAS39-5",
+      "summary": "The South African Olifant Optimering tank and a pre-production variant of the Gripen are now available as pre-order packs! Today we’ll be telling you a bit more about them.",
+      "date": "2026-11-04",
+      "date_display": "4. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10307-development-pre-orders-olifant-mk1b-optimering-and-jas39-5-en",
+      "kind": "news"
+    },
     {
       "title": "NVIDIA DLSS 5 Is Coming to War Thunder!",
       "summary": "The most advanced upscaling and frame-generation technology with neural rendering is arriving in War Thunder, and it’s a game-changer.",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10303-development-cluster-bombs-in-air-battles-en",
-      "kind": "news"
-    },
-    {
-      "title": "Leopard 2A8: A Coveted Trophy",
-      "summary": "Introducing the Leopard 2A8, Europe’s most advanced tank and the first mass-produced Leo equipped with an active protection system!",
-      "date": "2026-10-30",
-      "date_display": "30. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10301-development-leopard-2a8-a-coveted-trophy-en",
-      "kind": "news"
-    },
-    {
-      "title": "War Thunder is 14 Years Old: Join the Celebration!",
-      "summary": "War Thunder opened its doors to everyone on November 1st 2012, the day the game’s Open Beta test began. Thanks to everyone who has stayed with us ever since, as well as everyone who has joined us over the…",
-      "date": "2026-10-30",
-      "date_display": "30. 10. 2026",
-      "category": "SPECIAL",
-      "category_key": "special",
-      "url": "https://warthunder.com/en/news/10299-special-war-thunder-is-14-years-old-join-the-celebration-en",
-      "kind": "news"
-    },
-    {
-      "title": "Improvements to Tank Mobility Mechanics: New Steering Mechanisms and Engine Refinements",
-      "summary": "Hi everyone! We’re continuing to refine mechanics related to vehicle mobility. Some of these will significantly alter how vehicles behave, making them more effective in certain situations while less so in…",
-      "date": "2026-10-30",
-      "date_display": "30. 10. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10298-development-improvements-to-tank-mobility-mechanics-new-steering-mechanisms-and-engine-refinements-en",
       "kind": "news"
     }
   ]
