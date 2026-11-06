@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-05T20:58:27+01:00",
-  "updated_display": "5. 11. 2026 o 20:58",
+  "updated_at": "2026-11-06T20:26:14+01:00",
+  "updated_display": "6. 11. 2026 o 20:26",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
+      "summary": "Robert Lusser, who had worked alongside Willy Messerschmitt on the legendary Bf 109, later moved to the Heinkel design bureau, where he contributed to the development of the early jet-powered He 280 and the…",
+      "date": "2026-11-06",
+      "date_display": "6. 11. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10316-shop-the-he-219-a-7-returns-with-a-discount-for-the-anniversary-of-its-first-flight-en",
+      "kind": "news"
+    },
+    {
+      "title": "F-15EX and F-15IA Ra’am: The Eagle’s Shadow!",
+      "summary": "Up to 12 active radar-homing missiles, up to 22 precision-guided bombs, new engines, an increased supply of countermeasures, and the most advanced air-to-surface weaponry — this is the F-15EX, the most…",
+      "date": "2026-11-06",
+      "date_display": "6. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10315-development-f-15ex-and-f-15ia-raam-the-eagles-shadow-en",
+      "kind": "news"
+    },
     {
       "title": "Eagle’s Shadow: New Visual Effects!",
       "summary": "Today we’re showing you a selection of the most interesting visual effects coming in the Eagle’s Shadow major update!",
@@ -41,26 +61,6 @@
       "category": "SHOP",
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10308-shop-special-a-decal-trophy-and-discounts-for-italys-national-unity-and-armed-forces-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Pre-orders: Olifant Mk.1B Optimering and JAS39-5",
-      "summary": "The South African Olifant Optimering tank and a pre-production variant of the Gripen are now available as pre-order packs! Today we’ll be telling you a bit more about them.",
-      "date": "2026-11-04",
-      "date_display": "4. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10307-development-pre-orders-olifant-mk1b-optimering-and-jas39-5-en",
-      "kind": "news"
-    },
-    {
-      "title": "NVIDIA DLSS 5 Is Coming to War Thunder!",
-      "summary": "The most advanced upscaling and frame-generation technology with neural rendering is arriving in War Thunder, and it’s a game-changer.",
-      "date": "2026-11-03",
-      "date_display": "3. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10306-development-nvidia-dlss-5-is-coming-to-war-thunder-en",
       "kind": "news"
     }
   ]
