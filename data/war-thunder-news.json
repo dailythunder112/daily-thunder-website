@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-11-06T20:26:14+01:00",
-  "updated_display": "6. 11. 2026 o 20:26",
+  "updated_at": "2026-11-09T23:23:51+01:00",
+  "updated_display": "9. 11. 2026 o 23:23",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Enhancements to Munition Guidance",
+      "summary": "Hey everyone! In addition to refinements in the modeling of directional infrared countermeasures (DIRCM), improvements to the CCRP interface, and the introduction of cluster bombs, the Eagle’s Shadow update…",
+      "date": "2026-11-09",
+      "date_display": "9. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10319-development-enhancements-to-munition-guidance-en",
+      "kind": "news"
+    },
+    {
+      "title": "The Great War Returns With New Obtainable Aircraft to Mark November 11th!",
+      "summary": "“The situation is getting worse by the day. In the morning we were under heavy bombardment, and in the evening we got bitten by large rats in the trenches. We were ordered to go over top into no man’s land,…",
+      "date": "2026-11-09",
+      "date_display": "9. 11. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10318-event-the-great-war-returns-with-new-obtainable-aircraft-to-mark-november-11th-en",
+      "kind": "news"
+    },
+    {
+      "title": "Eagle’s Shadow: New Rendering! Part 1",
+      "summary": "We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.",
+      "date": "2026-11-09",
+      "date_display": "9. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10317-development-eagles-shadow-new-rendering-part-1-en",
+      "kind": "news"
+    },
     {
       "title": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
       "summary": "Robert Lusser, who had worked alongside Willy Messerschmitt on the legendary Bf 109, later moved to the Heinkel design bureau, where he contributed to the development of the early jet-powered He 280 and the…",
@@ -31,36 +61,6 @@
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10314-development-eagles-shadow-new-visual-effects-en",
-      "kind": "news"
-    },
-    {
-      "title": "Fulmar Mk.II: A Fleeting Fleet Fighter",
-      "summary": "Today we’re taking a look at the British Fulmar fighter! This classic aircraft will be joining the research tree in the Eagle’s Shadow major update.",
-      "date": "2026-11-05",
-      "date_display": "5. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10310-development-fulmar-mkii-a-fleeting-fleet-fighter-en",
-      "kind": "news"
-    },
-    {
-      "title": "Imperator Nikolai I: An Autocrat at Sea",
-      "summary": "The Imperator Nikolai I is a new battleship for the USSR/Russian navy, featuring a linear turret arrangement, powerful guns, and excellent protection!",
-      "date": "2026-11-04",
-      "date_display": "4. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10311-development-imperator-nikolai-i-an-autocrat-at-sea-en",
-      "kind": "news"
-    },
-    {
-      "title": "A Decal Trophy and Discounts for Italy’s National Unity and Armed Forces Day!",
-      "summary": "Every year on November 4th, Italy celebrates National Unity and Armed Forces Day. The date marks the surrender of Austria-Hungary in the First World War, which allowed Italy to incorporate Trento and Trieste,…",
-      "date": "2026-11-04",
-      "date_display": "4. 11. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10308-shop-special-a-decal-trophy-and-discounts-for-italys-national-unity-and-armed-forces-day-en",
       "kind": "news"
     }
   ]
