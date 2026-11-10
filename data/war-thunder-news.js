@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-09T23:23:51+01:00",
-  "updated_display": "9. 11. 2026 o 23:23",
+  "updated_at": "2026-11-10T20:45:19+01:00",
+  "updated_display": "10. 11. 2026 o 20:45",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Planned Technical Works on 11.11.2026",
+      "summary": "Hey everyone, on November 11th from 08:00 GMT, the War Thunder game servers may be unavailable due to the release of the Eagle's Shadow major update!",
+      "date": "2026-11-10",
+      "date_display": "10. 11. 2026",
+      "category": "NOVINKA",
+      "category_key": "news",
+      "url": "https://warthunder.com/en/news/10321-planned-technical-works-on-10112026-en",
+      "kind": "news"
+    },
+    {
+      "title": "A Decal Marking the Anniversary of the Founding of the Royal Norwegian Air Force!",
+      "summary": "Although aircraft first appeared in Norway as early as 1912, the country’s separate air force was not established until November 10th 1944. This was at a time when the King of Norway was in exile in Great…",
+      "date": "2026-11-10",
+      "date_display": "10. 11. 2026",
+      "category": "SPECIAL",
+      "category_key": "special",
+      "url": "https://warthunder.com/en/news/10322-special-a-decal-marking-the-anniversary-of-the-founding-of-the-royal-norwegian-air-force-en",
+      "kind": "news"
+    },
+    {
+      "title": "H-39: The Ephemeral Giant",
+      "summary": "Hi everyone! Today we’re covering Germany’s huge battleship project. H-39 will be the new top rank ship in the German Bluewater fleet in the upcoming Eagle’s Shadow major update!",
+      "date": "2026-11-10",
+      "date_display": "10. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10320-development-h-39-the-ephemeral-giant-en",
+      "kind": "news"
+    },
     {
       "title": "Enhancements to Munition Guidance",
       "summary": "Hey everyone! In addition to refinements in the modeling of directional infrared countermeasures (DIRCM), improvements to the CCRP interface, and the introduction of cluster bombs, the Eagle’s Shadow update…",
@@ -31,36 +61,6 @@ window.DT_NEWS_DATA = {
       "category": "VÝVOJ",
       "category_key": "development",
       "url": "https://warthunder.com/en/news/10317-development-eagles-shadow-new-rendering-part-1-en",
-      "kind": "news"
-    },
-    {
-      "title": "The He 219 A-7 Returns with a Discount for the Anniversary of its First Flight!",
-      "summary": "Robert Lusser, who had worked alongside Willy Messerschmitt on the legendary Bf 109, later moved to the Heinkel design bureau, where he contributed to the development of the early jet-powered He 280 and the…",
-      "date": "2026-11-06",
-      "date_display": "6. 11. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10316-shop-the-he-219-a-7-returns-with-a-discount-for-the-anniversary-of-its-first-flight-en",
-      "kind": "news"
-    },
-    {
-      "title": "F-15EX and F-15IA Ra’am: The Eagle’s Shadow!",
-      "summary": "Up to 12 active radar-homing missiles, up to 22 precision-guided bombs, new engines, an increased supply of countermeasures, and the most advanced air-to-surface weaponry — this is the F-15EX, the most…",
-      "date": "2026-11-06",
-      "date_display": "6. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10315-development-f-15ex-and-f-15ia-raam-the-eagles-shadow-en",
-      "kind": "news"
-    },
-    {
-      "title": "Eagle’s Shadow: New Visual Effects!",
-      "summary": "Today we’re showing you a selection of the most interesting visual effects coming in the Eagle’s Shadow major update!",
-      "date": "2026-11-05",
-      "date_display": "5. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10314-development-eagles-shadow-new-visual-effects-en",
       "kind": "news"
     }
   ]
