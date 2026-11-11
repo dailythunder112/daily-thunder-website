@@ -1,17 +1,57 @@
 {
-  "updated_at": "2026-11-10T20:45:19+01:00",
-  "updated_display": "10. 11. 2026 o 20:45",
+  "updated_at": "2026-11-11T20:37:57+01:00",
+  "updated_display": "11. 11. 2026 o 20:37",
   "source": "https://warthunder.com/en/news",
   "items": [
     {
-      "title": "Planned Technical Works on 11.11.2026",
-      "summary": "Hey everyone, on November 11th from 08:00 GMT, the War Thunder game servers may be unavailable due to the release of the Eagle's Shadow major update!",
-      "date": "2026-11-10",
-      "date_display": "10. 11. 2026",
+      "title": "Meet the “Eagle's Shadow” Major Update!",
+      "summary": "Eagle’s Shadow introduces a comprehensive selection of vehicles. The namesake of the update is inspired by the new F-15EX, which features excellent armament options and powerful engines. There’s also the…",
+      "date": "2026-11-11",
+      "date_display": "11. 11. 2026",
       "category": "NOVINKA",
       "category_key": "news",
-      "url": "https://warthunder.com/en/news/10321-planned-technical-works-on-10112026-en",
+      "url": "https://warthunder.com/en/news/10323-meet-the-eagles-shadow-major-update-en",
       "kind": "news"
+    },
+    {
+      "title": "Eagle’s Shadow: New Rendering! Part 2",
+      "summary": "Today we’re having a deeper look at War Thunder’s new renderer, covering light, shadows, and metal reflections.",
+      "date": "2026-11-11",
+      "date_display": "11. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10327-development-eagles-shadow-new-rendering-part-2-en",
+      "kind": "news"
+    },
+    {
+      "title": "A Decal Trophy and Lanovski’s P-47M-1-RE Thunderbolt for Poland’s National Independence Day!",
+      "summary": "On November 11th 1918, the First World War came to an end, and German forces withdrew from Polish territory. For the first time since the partitions of Poland in 1795, the country proclaimed its independence.…",
+      "date": "2026-11-11",
+      "date_display": "11. 11. 2026",
+      "category": "SPECIAL",
+      "category_key": "special",
+      "url": "https://warthunder.com/en/news/10325-special-a-decal-trophy-and-lanovskis-p-47m-1-re-thunderbolt-for-polands-national-independence-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "A Decal Trophy for Chinese Air Force Day!",
+      "summary": "The People’s Liberation Army Air Force of China celebrates its anniversary on November 11th, the date on which it was officially established in 1949. Today, the Chinese Air Force has a personnel strength of…",
+      "date": "2026-11-11",
+      "date_display": "11. 11. 2026",
+      "category": "SPECIAL",
+      "category_key": "special",
+      "url": "https://warthunder.com/en/news/10328-special-a-decal-trophy-for-chinese-air-force-day-en",
+      "kind": "news"
+    },
+    {
+      "title": "War Thunder \"Eagle's Shadow\" - Changelog",
+      "summary": "Eagle’s Shadow introduces a comprehensive selection of vehicles, ranging from the modern Leopard 2A8 equipped with the Trophy APS and the Second World War Fulmar Mk.II with 8,000 rounds of ammunition, to the…",
+      "date": "2026-11-11",
+      "date_display": "11. 11. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1915",
+      "kind": "update"
     },
     {
       "title": "A Decal Marking the Anniversary of the Founding of the Royal Norwegian Air Force!",
@@ -21,46 +61,6 @@
       "category": "SPECIAL",
       "category_key": "special",
       "url": "https://warthunder.com/en/news/10322-special-a-decal-marking-the-anniversary-of-the-founding-of-the-royal-norwegian-air-force-en",
-      "kind": "news"
-    },
-    {
-      "title": "H-39: The Ephemeral Giant",
-      "summary": "Hi everyone! Today we’re covering Germany’s huge battleship project. H-39 will be the new top rank ship in the German Bluewater fleet in the upcoming Eagle’s Shadow major update!",
-      "date": "2026-11-10",
-      "date_display": "10. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10320-development-h-39-the-ephemeral-giant-en",
-      "kind": "news"
-    },
-    {
-      "title": "Enhancements to Munition Guidance",
-      "summary": "Hey everyone! In addition to refinements in the modeling of directional infrared countermeasures (DIRCM), improvements to the CCRP interface, and the introduction of cluster bombs, the Eagle’s Shadow update…",
-      "date": "2026-11-09",
-      "date_display": "9. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10319-development-enhancements-to-munition-guidance-en",
-      "kind": "news"
-    },
-    {
-      "title": "The Great War Returns With New Obtainable Aircraft to Mark November 11th!",
-      "summary": "“The situation is getting worse by the day. In the morning we were under heavy bombardment, and in the evening we got bitten by large rats in the trenches. We were ordered to go over top into no man’s land,…",
-      "date": "2026-11-09",
-      "date_display": "9. 11. 2026",
-      "category": "EVENT",
-      "category_key": "event",
-      "url": "https://warthunder.com/en/news/10318-event-the-great-war-returns-with-new-obtainable-aircraft-to-mark-november-11th-en",
-      "kind": "news"
-    },
-    {
-      "title": "Eagle’s Shadow: New Rendering! Part 1",
-      "summary": "We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.",
-      "date": "2026-11-09",
-      "date_display": "9. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10317-development-eagles-shadow-new-rendering-part-1-en",
       "kind": "news"
     }
   ]
