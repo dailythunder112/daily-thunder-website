@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-12T20:56:16+01:00",
-  "updated_display": "12. 11. 2026 o 20:56",
+  "updated_at": "2026-11-13T20:44:17+01:00",
+  "updated_display": "13. 11. 2026 o 20:44",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "40 New User-Created Camouflages in the Eagle’s Shadow Trophy!",
+      "summary": "The Eagle’s Shadow major update has brought a wealth of new vehicles to War Thunder, and we know you’re eager to deck them out in unique camouflages. The Eagle’s Shadow trophy is here to help, containing a…",
+      "date": "2026-11-13",
+      "date_display": "13. 11. 2026",
+      "category": "MARKET",
+      "category_key": "market",
+      "url": "https://warthunder.com/en/news/10334-market-40-new-user-created-camouflages-in-the-eagles-shadow-trophy-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.61.0.17",
+      "summary": "A bug that sometimes caused the game startup after logging in to take much more time than usual has been fixed.",
+      "date": "2026-11-13",
+      "date_display": "13. 11. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1917",
+      "kind": "update"
+    },
     {
       "title": "AVReS Crowned 2026 WTCS Champions: The Grand Finals Are Over!",
       "summary": "After nine days of intense battles across Air, Ground and Mixed, the WTCS Pro League 2026 Grand Finals have come to an end. Eight teams entered the final showdown with €15,000 in prize money on the line, and…",
@@ -42,26 +62,6 @@
       "category_key": "decals",
       "url": "https://warthunder.com/en/news/10330-decals-monthly-decals-for-november-en",
       "kind": "news"
-    },
-    {
-      "title": "A Decal Trophy and Discounts for Bundeswehr Foundation Day!",
-      "summary": "In 1945, the Wehrmacht was disbanded, and the Ministry of Defence of the Federal Republic of Germany was established only ten years later, in mid-1955. On November 12th the first recruits took their oath to…",
-      "date": "2026-11-12",
-      "date_display": "12. 11. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10329-shop-special-a-decal-trophy-and-discounts-for-bundeswehr-foundation-day-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.61.0.13",
-      "summary": "Numerous bug fixes",
-      "date": "2026-11-12",
-      "date_display": "12. 11. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1916",
-      "kind": "update"
     }
   ]
 }
