@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-11-13T20:44:17+01:00",
-  "updated_display": "13. 11. 2026 o 20:44",
+  "updated_at": "2026-11-16T23:06:24+01:00",
+  "updated_display": "16. 11. 2026 o 23:06",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Get PCE-842 in the Coastal Defender Event!",
+      "summary": "The PCE-842 class was a type of patrol escort vessel built for the United States Navy during the Second World War. It is the only class that the U.S. Navy officially designated as “patrol craft escort”. These…",
+      "date": "2026-11-16",
+      "date_display": "16. 11. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10335-event-get-pce-842-in-the-coastal-defender-event-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.61.0.20",
+      "summary": "Z-10ME, Ka-52, A-10C, AH-1W (all variants) — the minimum closing speed for a threat to be detected by the MAWS has been reduced from 200 m/s to 80 m/s.",
+      "date": "2026-11-16",
+      "date_display": "16. 11. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1918",
+      "kind": "update"
+    },
     {
       "title": "40 New User-Created Camouflages in the Eagle’s Shadow Trophy!",
       "summary": "The Eagle’s Shadow major update has brought a wealth of new vehicles to War Thunder, and we know you’re eager to deck them out in unique camouflages. The Eagle’s Shadow trophy is here to help, containing a…",
@@ -41,26 +61,6 @@
       "category": "FAIR PLAY",
       "category_key": "fair_play",
       "url": "https://warthunder.com/en/news/10333-fair-play-fair-play-november-2026-en",
-      "kind": "news"
-    },
-    {
-      "title": "Nuclear Escalation: New Models For AI Vehicles",
-      "summary": "In the Eagle’s Shadow major update, we updated the models for AI ground vehicles in the Nuclear Escalation mode.",
-      "date": "2026-11-12",
-      "date_display": "12. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10332-development-nuclear-escalation-new-models-for-ai-vehicles-en",
-      "kind": "news"
-    },
-    {
-      "title": "Monthly Decals for November!",
-      "summary": "Hey all, we’re back with a new set of historical decals! It’ll be hard to match the ominous energy of the October set, but we hope you like the selection prepared for November all the same. We’re quite big…",
-      "date": "2026-11-12",
-      "date_display": "12. 11. 2026",
-      "category": "DECALS",
-      "category_key": "decals",
-      "url": "https://warthunder.com/en/news/10330-decals-monthly-decals-for-november-en",
       "kind": "news"
     }
   ]
