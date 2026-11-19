@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-18T21:34:21+01:00",
-  "updated_display": "18. 11. 2026 o 21:34",
+  "updated_at": "2026-11-19T21:39:56+01:00",
+  "updated_display": "19. 11. 2026 o 21:39",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Server Update 19.11.2026",
+      "summary": "Su-39 — a bug where radar pod emissions were not detected by other players' RWR has been fixed.",
+      "date": "2026-11-19",
+      "date_display": "19. 11. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1921",
+      "kind": "update"
+    },
     {
       "title": "PCE-842: Coastal Defender",
       "summary": "The main prize of the “Coastal Defender” special event is the PCE-842 frigate, with three types of depth charge launchers on board!",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "event",
       "url": "https://warthunder.com/en/news/10335-event-get-pce-842-in-the-coastal-defender-event-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.61.0.20",
-      "summary": "Z-10ME, Ka-52, A-10C, AH-1W (all variants) — the minimum closing speed for a threat to be detected by the MAWS has been reduced from 200 m/s to 80 m/s.",
-      "date": "2026-11-16",
-      "date_display": "16. 11. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1918",
-      "kind": "update"
     }
   ]
 };
