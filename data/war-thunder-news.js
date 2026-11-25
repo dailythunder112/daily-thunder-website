@@ -1,8 +1,28 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-24T00:55:30+01:00",
-  "updated_display": "24. 11. 2026 o 00:55",
+  "updated_at": "2026-11-25T22:43:32+01:00",
+  "updated_display": "25. 11. 2026 o 22:43",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Pages of History (December): Operation Little Saturn",
+      "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From Papua New Guinea and North Africa to Changsha and Stalingrad: participate in…",
+      "date": "2026-11-25",
+      "date_display": "25. 11. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10343-event-pages-of-history-december-operation-little-saturn-en",
+      "kind": "news"
+    },
+    {
+      "title": "Update 2.61.0.42",
+      "summary": "DLSS Neural Rendering now uses a newer AI-model, which has better performance. The settings have been adjusted, the appearance of the final image has slightly changed.",
+      "date": "2026-11-25",
+      "date_display": "25. 11. 2026",
+      "category": "UPDATE",
+      "category_key": "update",
+      "url": "https://warthunder.com/en/game/changelog/current/1924",
+      "kind": "update"
+    },
     {
       "title": "The Steam Awards: Nominate War Thunder in the “Labor of Love” Category",
       "summary": "Today Steam is organizing the Steam Awards, where you can vote for your favorite games in several categories. We ask that you consider nominating us for the \"Labor of Love\" category.",
@@ -15,7 +35,7 @@ window.DT_NEWS_DATA = {
     },
     {
       "title": "Update 2.61.0.37",
-      "summary": "· An exploit in the custom Battle Ratings mechanic that made it possible to gain access to high BR weaponry after loading into a battle and conducting a series of intended actions has been fixed. Players who…",
+      "summary": "Added the Kelvin wake (wedge) left behind by ships on Medium water quality settings and above.",
       "date": "2026-11-23",
       "date_display": "23. 11. 2026",
       "category": "UPDATE",
@@ -42,26 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1922",
       "kind": "update"
-    },
-    {
-      "title": "Server Update 19.11.2026",
-      "summary": "Su-39 — a bug where radar pod emissions were not detected by other players' RWR has been fixed.",
-      "date": "2026-11-19",
-      "date_display": "19. 11. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1921",
-      "kind": "update"
-    },
-    {
-      "title": "PCE-842: Coastal Defender",
-      "summary": "The main prize of the “Coastal Defender” special event is the PCE-842 frigate, with three types of depth charge launchers on board!",
-      "date": "2026-11-18",
-      "date_display": "18. 11. 2026",
-      "category": "VÝVOJ",
-      "category_key": "development",
-      "url": "https://warthunder.com/en/news/10338-development-pce-842-coastal-defender-en",
-      "kind": "news"
     }
   ]
 };
