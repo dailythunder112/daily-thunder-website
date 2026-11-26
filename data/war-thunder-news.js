@@ -1,8 +1,18 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-25T22:43:32+01:00",
-  "updated_display": "25. 11. 2026 o 22:43",
+  "updated_at": "2026-11-26T22:35:31+01:00",
+  "updated_display": "26. 11. 2026 o 22:35",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "Testing Submarines in War Thunder!",
+      "summary": "Commanders! Submarines from the Kriegsmarine and the U.S. Navy have been placed under your command. Take part in testing this long-awaited new class of vessels in War Thunder and enjoy a unique experience.…",
+      "date": "2026-11-26",
+      "date_display": "26. 11. 2026",
+      "category": "EVENT",
+      "category_key": "event",
+      "url": "https://warthunder.com/en/news/10344-event-testing-submarines-in-war-thunder-en",
+      "kind": "news"
+    },
     {
       "title": "Pages of History (December): Operation Little Saturn",
       "summary": "In Pages of History this month, you will find yourself at the center of events that took place in various theaters of war. From Papua New Guinea and North Africa to Changsha and Stalingrad: participate in…",
@@ -52,16 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "shop",
       "url": "https://warthunder.com/en/news/10341-shop-the-nf-5a-returns-for-the-anniversary-of-the-f-5a-21s-victory-in-the-ifa-competition-en",
       "kind": "news"
-    },
-    {
-      "title": "Update 2.61.0.33",
-      "summary": "A shader compilation progress indicator has been added to the hangar.",
-      "date": "2026-11-20",
-      "date_display": "20. 11. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1922",
-      "kind": "update"
     }
   ]
 };
