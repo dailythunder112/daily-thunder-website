@@ -1,8 +1,38 @@
 window.DT_NEWS_DATA = {
-  "updated_at": "2026-11-26T22:35:31+01:00",
-  "updated_display": "26. 11. 2026 o 22:35",
+  "updated_at": "2026-11-27T22:19:47+01:00",
+  "updated_display": "27. 11. 2026 o 22:19",
   "source": "https://warthunder.com/en/news",
   "items": [
+    {
+      "title": "VN20: A Big Plus!",
+      "summary": "Meet the Chinese VN20, arguably the largest and heaviest infantry fighting vehicle in the game!",
+      "date": "2026-11-27",
+      "date_display": "27. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10346-development-vn20-a-big-plus-en",
+      "kind": "news"
+    },
+    {
+      "title": "Community Update No.14: Plans and Looking into 2027",
+      "summary": "Hi everyone! Today we’re back with another Community Update, the last one of 2026.",
+      "date": "2026-11-27",
+      "date_display": "27. 11. 2026",
+      "category": "VÝVOJ",
+      "category_key": "development",
+      "url": "https://warthunder.com/en/news/10347-development-community-update-no14-plans-and-looking-into-2027-en",
+      "kind": "news"
+    },
+    {
+      "title": "It’s Time for Black Friday in War Thunder!",
+      "summary": "Enjoy a special Black Friday bundle and separate packs with discounts!",
+      "date": "2026-11-27",
+      "date_display": "27. 11. 2026",
+      "category": "SHOP",
+      "category_key": "shop",
+      "url": "https://warthunder.com/en/news/10345-shop-its-time-for-black-friday-in-war-thunder-en",
+      "kind": "news"
+    },
     {
       "title": "Testing Submarines in War Thunder!",
       "summary": "Commanders! Submarines from the Kriegsmarine and the U.S. Navy have been placed under your command. Take part in testing this long-awaited new class of vessels in War Thunder and enjoy a unique experience.…",
@@ -32,36 +62,6 @@ window.DT_NEWS_DATA = {
       "category_key": "update",
       "url": "https://warthunder.com/en/game/changelog/current/1924",
       "kind": "update"
-    },
-    {
-      "title": "The Steam Awards: Nominate War Thunder in the “Labor of Love” Category",
-      "summary": "Today Steam is organizing the Steam Awards, where you can vote for your favorite games in several categories. We ask that you consider nominating us for the \"Labor of Love\" category.",
-      "date": "2026-11-23",
-      "date_display": "23. 11. 2026",
-      "category": "NOVINKA",
-      "category_key": "news",
-      "url": "https://warthunder.com/en/news/10342-steam-awards-labor-of-love-nomination-en",
-      "kind": "news"
-    },
-    {
-      "title": "Update 2.61.0.37",
-      "summary": "Added the Kelvin wake (wedge) left behind by ships on Medium water quality settings and above.",
-      "date": "2026-11-23",
-      "date_display": "23. 11. 2026",
-      "category": "UPDATE",
-      "category_key": "update",
-      "url": "https://warthunder.com/en/game/changelog/current/1923",
-      "kind": "update"
-    },
-    {
-      "title": "The NF-5A Returns for the Anniversary of the F-5A-21’s Victory in the IFA Competition!",
-      "summary": "Northrop licensed the production of F-5A fighter jets to Canada, where they were designated CF-5A. The Canadians also produced a batch of these aircraft for the Netherlands, designated NF-5. When developing…",
-      "date": "2026-11-20",
-      "date_display": "20. 11. 2026",
-      "category": "SHOP",
-      "category_key": "shop",
-      "url": "https://warthunder.com/en/news/10341-shop-the-nf-5a-returns-for-the-anniversary-of-the-f-5a-21s-victory-in-the-ifa-competition-en",
-      "kind": "news"
     }
   ]
 };
